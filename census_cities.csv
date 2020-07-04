@@ -1,0 +1,631 @@
+,0
+0,Atlanta
+1,Saint George
+2,Shiloh
+3,Valdosta
+4,Cedar Springs
+5,East Point
+6,Cornelia
+7,Sugar Valley
+8,Brooklet
+9,Brunswick
+10,Newnan
+11,La Fayette
+12,Ashburn
+13,Summerville
+14,Georgetown
+15,Perry
+16,Rutledge
+17,Kingston
+18,Maxeys
+19,Americus
+20,Doerun
+21,Lakemont
+22,Thomasville
+23,Clarkdale
+24,Pineview
+25,Pendergrass
+26,Augusta
+27,Portal
+28,Covington
+29,Pine Mountain
+30,Columbus
+31,Manchester
+32,Marble Hill
+33,Winston
+34,Musella
+35,Smyrna
+36,Lakeland
+37,Jenkinsburg
+38,Wray
+39,Lookout Mountain
+40,Meigs
+41,Jeffersonville
+42,Danielsville
+43,Macon
+44,Mershon
+45,Cohutta
+46,Sharpsburg
+47,Gray
+48,Canton
+49,Ludowici
+50,Douglas
+51,Hiram
+52,Harlem
+53,Marshallville
+54,Ty Ty
+55,Statesboro
+56,Savannah
+57,Odum
+58,Albany
+59,Pitts
+60,Metter
+61,Woodland
+62,Nunez
+63,Wrens
+64,Dry Branch
+65,Fairmount
+66,Meldrim
+67,Reidsville
+68,Cuthbert
+69,Pine Lake
+70,Clermont
+71,Hinesville
+72,Alma
+73,Danville
+74,Lake Park
+75,Lithonia
+76,Union Point
+77,Dallas
+78,Girard
+79,Rock Spring
+80,Clinchfield
+81,Boneville
+82,Patterson
+83,Tarrytown
+84,Fort Gaines
+85,Newton
+86,Marietta
+87,Dacula
+88,Byron
+89,Hardwick
+90,Coosa
+91,White Plains
+92,Cartersville
+93,Homerville
+94,Tallulah Falls
+95,Stillmore
+96,Tyrone
+97,Dillard
+98,Pelham
+99,Knoxville
+100,Dawson
+101,Jewell
+102,Dewy Rose
+103,Surrency
+104,Alpharetta
+105,Newborn
+106,Ellenwood
+107,Jesup
+108,Elko
+109,Weston
+110,Helen
+111,Buford
+112,Evans
+113,Soperton
+114,Fort Valley
+115,Kite
+116,Peachtree City
+117,Fayetteville
+118,Oakman
+119,Milledgeville
+120,Hampton
+121,Camak
+122,Smithville
+123,Moreland
+124,Riverdale
+125,Blairsville
+126,Hephzibah
+127,Screven
+128,Shannon
+129,Canon
+130,Wrightsville
+131,Blue Ridge
+132,Decatur
+133,Varnell
+134,Blackshear
+135,Fortson
+136,Cave Spring
+137,Kennesaw
+138,Gainesville
+139,Fort Oglethorpe
+140,Gordon
+141,Offerman
+142,Naylor
+143,Suwanee
+144,Grantville
+145,Pinehurst
+146,Oakfield
+147,Cadwell
+148,Richmond Hill
+149,Conley
+150,Norristown
+151,Lizella
+152,Waverly
+153,Roswell
+154,Cusseta
+155,Norcross
+156,Menlo
+157,Statenville
+158,Suches
+159,Juliette
+160,Flovilla
+161,Leary
+162,Rome
+163,Manor
+164,Mountain City
+165,Dublin
+166,Chauncey
+167,Conyers
+168,Bronwood
+169,Calhoun
+170,Carrollton
+171,Allentown
+172,Alamo
+173,Avera
+174,Nahunta
+175,Rentz
+176,Lenox
+177,Cleveland
+178,Box Springs
+179,Sasser
+180,Duluth
+181,Bloomingdale
+182,Ray City
+183,Athens
+184,Gracewood
+185,Meansville
+186,Fort Stewart
+187,Meridian
+188,Mount Vernon
+189,Lawrenceville
+190,Cumming
+191,Bartow
+192,Ellabell
+193,Swainsboro
+194,Madison
+195,Ailey
+196,Commerce
+197,Morris
+198,Pine Mountain Valley
+199,Scotland
+200,Gibson
+201,Maysville
+202,Rising Fawn
+203,Rossville
+204,Boston
+205,Felton
+206,Mineral Bluff
+207,Fort Benning
+208,Franklin
+209,Matthews
+210,Baxley
+211,Irwinton
+212,Comer
+213,Adairsville
+214,Moultrie
+215,Tybee Island
+216,Monroe
+217,Waycross
+218,Hoschton
+219,Richland
+220,Jonesboro
+221,Carnesville
+222,Bremen
+223,Greenville
+224,Lumpkin
+225,Nashville
+226,Eden
+227,Hagan
+228,Morrow
+229,Seville
+230,Sargent
+231,Loganville
+232,Elberton
+233,Acworth
+234,Dixie
+235,Ellaville
+236,Mcdonough
+237,Flowery Branch
+238,Vienna
+239,Lilburn
+240,Redan
+241,Ambrose
+242,Woodstock
+243,Cotton
+244,Bainbridge
+245,Mount Berry
+246,Bowdon
+247,Buckhead
+248,Du Pont
+249,Ringgold
+250,Taylorsville
+251,Murrayville
+252,Blakely
+253,Stephens
+254,Hazlehurst
+255,Crawfordville
+256,Dalton
+257,Jekyll Island
+258,White
+259,Rincon
+260,Stockbridge
+261,Gough
+262,Jacksonville
+263,Grovetown
+264,Barney
+265,Morganton
+266,Milan
+267,Gillsville
+268,Royston
+269,Sardis
+270,Ochlocknee
+271,Clayton
+272,Appling
+273,Whigham
+274,Keysville
+275,McIntyre
+276,Parrott
+277,Midland
+278,Thomson
+279,Bellville
+280,Good Hope
+281,Colbert
+282,Forest Park
+283,Mystic
+284,Darien
+285,Cedartown
+286,Stockton
+287,Norman Park
+288,Enigma
+289,Tallapoosa
+290,Warner Robins
+291,Rockledge
+292,Mesena
+293,Cordele
+294,Tennille
+295,Vidalia
+296,Trenton
+297,Jefferson
+298,Cecil
+299,Cochran
+300,Hoboken
+301,Flintstone
+302,Lilly
+303,Rochelle
+304,Denton
+305,Dover
+306,Brinson
+307,Experiment
+308,Lithia Springs
+309,Wiley
+310,Talbotton
+311,Mount Airy
+312,Rayle
+313,Hartsfield
+314,Young Harris
+315,Nicholls
+316,Graysville
+317,Sea Island
+318,Douglasville
+319,Nicholson
+320,Whitesburg
+321,Glenn
+322,Snellville
+323,Funston
+324,Dahlonega
+325,Oakwood
+326,Tignall
+327,Warrenton
+328,Locust Grove
+329,Statham
+330,Brookfield
+331,Abbeville
+332,Kathleen
+333,Woodbine
+334,Crawford
+335,Armuchee
+336,Morgan
+337,Allenhurst
+338,Mansfield
+339,Lavonia
+340,Wadley
+341,Hogansville
+342,Pavo
+343,Cairo
+344,Cherrylog
+345,Bonaire
+346,Upatoi
+347,Centerville
+348,Brooks
+349,Bishop
+350,Rabun Gap
+351,Porterdale
+352,Stone Mountain
+353,Midway
+354,Hull
+355,Waynesville
+356,Haralson
+357,Lagrange
+358,Leslie
+359,Arlington
+360,Martin
+361,Sharon
+362,Buena Vista
+363,Rockmart
+364,Millwood
+365,Tucker
+366,Donalsonville
+367,Sumner
+368,Culloden
+369,Hawkinsville
+370,Milner
+371,Homer
+372,Tifton
+373,Lindale
+374,Austell
+375,Reynolds
+376,Zebulon
+377,Newington
+378,Mount Zion
+379,Folkston
+380,Chickamauga
+381,Roberta
+382,Dawsonville
+383,Ocilla
+384,Ranger
+385,Climax
+386,Sparks
+387,Winterville
+388,Hiawassee
+389,De Soto
+390,Fitzgerald
+391,Crandall
+392,Baconton
+393,Griffin
+394,Walthourville
+395,Valona
+396,Forsyth
+397,Perkins
+398,Thomaston
+399,Mitchell
+400,Junction City
+401,Jersey
+402,Claxton
+403,Carlton
+404,Gay
+405,Louvale
+406,Chestnut Mountain
+407,Norwood
+408,Sunny Side
+409,Register
+410,Social Circle
+411,Auburn
+412,Luthersville
+413,Silver Creek
+414,Uvalda
+415,Molena
+416,Greensboro
+417,Sycamore
+418,Emerson
+419,Clarkston
+420,Cobbtown
+421,Saint Simons Island
+422,Louisville
+423,Siloam
+424,Dexter
+425,Resaca
+426,Crescent
+427,Red Oak
+428,Eton
+429,Oxford
+430,Waverly Hall
+431,Sautee Nacoochee
+432,Scottdale
+433,West Point
+434,Braselton
+435,Sparta
+436,Geneva
+437,Waynesboro
+438,Warthen
+439,Hamilton
+440,Barnesville
+441,Oconee
+442,Argyle
+443,Holly Springs
+444,Rupert
+445,Blythe
+446,Chester
+447,Alapaha
+448,Sandersville
+449,Leesburg
+450,Mauk
+451,Adel
+452,Omaha
+453,Talking Rock
+454,Montezuma
+455,Tate
+456,Sylvania
+457,Epworth
+458,Yatesville
+459,Guyton
+460,Ellerslie
+461,Buchanan
+462,High Shoals
+463,Trion
+464,Tennga
+465,Willacoochee
+466,Colquitt
+467,Dudley
+468,Rebecca
+469,Kings Bay
+470,Edison
+471,Oglethorpe
+472,Grayson
+473,Jakin
+474,East Ellijay
+475,Barwick
+476,Irwinville
+477,Unadilla
+478,Turin
+479,Riceboro
+480,Avondale Estates
+481,Coolidge
+482,Harrison
+483,Howard
+484,Manassas
+485,Toccoa
+486,Monticello
+487,Fargo
+488,Poulan
+489,Ellijay
+490,Adrian
+491,Watkinsville
+492,Plains
+493,Shellman
+494,Union City
+495,Summertown
+496,Saint Marys
+497,Turnerville
+498,Waresboro
+499,Bluffton
+500,Pembroke
+501,Plainfield
+502,Cataula
+503,Lyons
+504,Fairburn
+505,Arnoldsville
+506,Fowlstown
+507,Clarkesville
+508,Roopville
+509,White Oak
+510,Bogart
+511,Chula
+512,Warm Springs
+513,Alto
+514,Smarr
+515,Winder
+516,Rhine
+517,Morven
+518,Woodbury
+519,Waco
+520,Calvary
+521,Orchard Hill
+522,Coleman
+523,Esom Hill
+524,Concord
+525,Stapleton
+526,Townsend
+527,Broxton
+528,Bethlehem
+529,Villa Rica
+530,Fleming
+531,Pearson
+532,Garfield
+533,McRae
+534,Glennville
+535,Lumber City
+536,Washington
+537,Attapulgus
+538,Jackson
+539,Plainville
+540,Lebanon
+541,Rocky Face
+542,Bristol
+543,Lyerly
+544,Alston
+545,Bowersville
+546,Rydal
+547,Temple
+548,Tunnel Hill
+549,Dearing
+550,Bostwick
+551,Palmetto
+552,Ila
+553,Hortense
+554,Lovejoy
+555,Nelson
+556,Baldwin
+557,Bowman
+558,Jasper
+559,Farmington
+560,Butler
+561,Twin City
+562,Inman
+563,Lincolnton
+564,Bowdon Junction
+565,Byromville
+566,Tiger
+567,Glenwood
+568,Talmo
+569,Damascus
+570,Midville
+571,Ideal
+572,Chatsworth
+573,Davisboro
+574,Eatonton
+575,Wildwood
+576,Clyo
+577,Camilla
+578,Montrose
+579,Sale City
+580,Kingsland
+581,Pulaski
+582,Lula
+583,Eastman
+584,Waleska
+585,Arabi
+586,Bolingbroke
+587,Ball Ground
+588,Axson
+589,Shady Dale
+590,Demorest
+591,Andersonville
+592,West Green
+593,Ellenton
+594,Cisco
+595,Oliver
+596,Cobb
+597,Senoia
+598,Omega
+599,Hahira
+600,Quitman
+601,Williamson
+602,Sapelo Island
+603,Haddock
+604,Millen
+605,Eastanollee
+606,Toomsboro
+607,Hartwell
+608,Collins
+609,Rex
+610,Preston
+611,Springfield
+612,Mableton
+613,The Rock
+614,Daisy
+615,Putney
+616,Iron City
+617,Powder Springs
+618,Pooler
+619,Warwick
+620,Aragon
+621,Cassville
+622,Sylvester
+623,Lexington
+624,McCaysville
+625,Berlin
+626,Franklin Springs
+627,Helena
+628,Rocky Ford
+629,Hillsboro
