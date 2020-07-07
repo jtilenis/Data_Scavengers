@@ -1,0 +1,618 @@
+Unnamed: 0,Hospital name,City,County,Acute Care Beds,YearFounded,Affiliation,Notes,Place ID,Hospital Latitude,Hospital Longtitude,Street Address,State,Hospital Zip Code,Full Address,City Zip Code,City Latitude,City Longtitude,Median Income,Population,Joined
+0,AdventHealth Gordon,Calhoun,Gordon County,69,,AdventHealth,Formerly Gordon Hospital,ChIJfVjpjer9X4gRGK7NwGG_tbg,34.510205400000004,-84.9263043,1035 Red Bud Road Northeast,Georgia,30701.0,"1035 Red Bud Rd NE, Calhoun, GA 30701, USA",30702,34.487832999999995,-84.8500705,24110,40820,False
+1,AdventHealth Murray,Chatsworth,Murray County,29,,AdventHealth,Formerly Murray Medical Center,ChIJ-U0scjndX4gRG-FoXnNaHI4,34.7799558,-84.7830378,707 Old Dalton Ellijay Road,Georgia,30705.0,"707 Old Dalton Ellijay Rd, Chatsworth, GA 30705, USA",30705,34.753129,-84.77502,24457,33460,False
+2,Archbold Memorial Hospital,Thomasville,Thomas County,264,1925,Archbold,,ChIJsxblg8q17YgR8XXHSBDuObQ,30.8251693,-83.9721278,915 Gordon Avenue,Georgia,31792.0,"915 Gordon Ave, Thomasville, GA 31792, USA",31776,30.86250425,-83.92881175000002,22498,20703,False
+3,Archbold - Brooks County Hospital,Quitman,Brooks County,25,,Archbold,,ChIJiyuklBp_7ogRmoGX5XNztMM,30.795038800000004,-83.559146,903 North Court Street,Georgia,31643.0,"903 N Court St, Quitman, GA 31643, USA",31643,30.783639,-83.55343,24644,9062,False
+5,Archbold - Mitchell County Hospital,Camilla,Mitchell County,25,,Archbold,,ChIJswuXyhic7YgRuk38qsPrYt4,31.229773,-84.2053167,90 East Stephens Street,Georgia,31730.0,"90 E Stephens St, Camilla, GA 31730, USA",31730,31.209854,-84.23666999999998,21584,8419,False
+6,Beverly Knight Olson Children's Hospital,Macon,Bibb County,0,,Atrium/Navicent,,ChIJDyOjXYf-84gREfrs3wfa6is,32.8347369,-83.63654720000002,888 Pine Street,Georgia,31201.0,"888 Pine St, Macon, GA 31201, USA",31232,32.81715886956521,-83.67255700000003,-33312586,19256,False
+7,Coliseum Medical Centers,Macon,Bibb County,237,1971,HCA,,ChIJhYCxJGr-84gRK_dSQps0X5I,32.846841,-83.618814,350 Hospital Drive,Georgia,31217.0,"350 Hospital Dr, Macon, GA 31217, USA",31232,32.81715886956521,-83.67255700000003,-33312586,19256,False
+8,Coliseum Northside Hospital,Macon,Bibb County,103,1984,HCA,,ChIJ35QKcSP584gRiQKKoA2x3fU,32.8713155,-83.69459789999998,400 Charter Boulevard,Georgia,31210.0,"400 Charter Blvd, Macon, GA 31210, USA",31232,32.81715886956521,-83.67255700000003,-33312586,19256,False
+9,"The Medical Center, Navicent Health",Macon,Bibb County,639,1895,Atrium/Navicent,,ChIJccj0KX7-84gRK3nqvH5rtFI,32.833819500000004,-83.63654439999998,777 Hemlock Street,Georgia,31201.0,"777 Hemlock St, Macon, GA 31201, USA",31232,32.81715886956521,-83.67255700000003,-33312586,19256,False
+10,Bleckley Memorial Hospital,Cochran,Bleckley County,25,,Ã¢ÂÂ,,ChIJufSZq3Ju8YgRA57sJUnVeUY,32.3846628,-83.3466696,145 Peacock Street,Georgia,31014.0,"145 Peacock St, Cochran, GA 31014, USA",31014,32.397039,-83.3404,22125,13265,False
+11,"Cancer Treatment Centers of America, Atlanta",Newnan,Coweta County,0,2012,CTCA,,ChIJpVsvHDrG9IgRoTnJMqk9gxY,33.3846018,-84.7580613,600 Celebrate Life Parkway,Georgia,30265.0,"600 Celebrate Life Pkwy, Newnan, GA 30265, USA",30265,33.37526725,-84.77692549999998,30791,52701,False
+12,Piedmont Newnan Hospital,Newnan,Coweta County,143,,Piedmont,,ChIJcVBB8B3J9IgRp7oUvD0s4hY,33.35780160000001,-84.7551974,745 Poplar Road,Georgia,30265.0,"745 Poplar Rd, Newnan, GA 30265, USA",30265,33.37526725,-84.77692549999998,30791,52701,False
+13,Candler County Hospital,Metter,Candler County,25,,Ã¢ÂÂ,,ChIJrWBLz0Ny-ogR8R0ug_DBCQw,32.4071132,-82.06570110000001,400 Cedar Street,Georgia,30439.0,"400 Cedar St, Metter, GA 30439, USA",30439,32.414401,-82.05534,18192,10823,False
+14,Cartersville Medical Center,Cartersville,Bartow County,112,,HCA,,ChIJR0MVh-pP9YgRj3CKiKfV8J4,34.20133060000001,-84.7945608,960 Joe Frank Harris Parkway Southeast,Georgia,30120.0,"960 Joe Frank Harris Pkwy SE, Cartersville, GA 30120, USA",30120,34.1837955,-84.80148500000001,28639,32313,False
+15,Chatuge Regional Hospital,Hiawassee,Towns County,137,,Union Regional,,ChIJv9VwMlwvX4gRInxd_l5gGEk,34.9467501,-83.75371249999998,110 South Main Street,Georgia,30546.0,"110 S Main St, Hiawassee, GA 30546, USA",30546,34.923846999999995,-83.7231,22820,6969,False
+16,CHI Memorial Hospital Georgia,Fort Oglethorpe,Catoosa County,36,,CHI,"Formerly Cornerstone Medical Center, previously Hutcheson Medical Center",ChIJoSI7iAdoYIgRYFrfQLt3nOA,34.9469261,-85.26400090000001,100 Gross Crescent,Georgia,30742.0,"100 Gross Crescent, Fort Oglethorpe, GA 30742, USA",30742,34.948979,-85.25211999999998,24406,7842,False
+17,Children's Healthcare of Atlanta Egleston,Atlanta,DeKalb County,0,1928,CHOA,,ChIJR4J4LPoG9YgRJLnI9mqd85c,33.79349169999999,-84.3195325,1405 East Clifton Road Northeast,Georgia,30322.0,"1405 E Clifton Rd NE, Atlanta, GA 30322, USA",30576,33.82845866666669,-84.40236618918918,-21943664,25919,False
+18,Emory University Hospital,Atlanta,DeKalb County,569,,Emory,,ChIJyYqdV_oG9YgRPvDOKl57PEo,33.791418799999995,-84.32040390000002,1364 Clifton Road,Georgia,30322.0,"1364 Clifton Rd, Atlanta, GA 30322, USA",30576,33.82845866666669,-84.40236618918918,-21943664,25919,False
+19,University Hospital,Atlanta,DeKalb County,812,1818,University Health,,ChIJyYqdV_oG9YgRPvDOKl57PEo,33.791418799999995,-84.32040390000002,1364 Clifton Road,Georgia,30322.0,"1364 Clifton Rd, Atlanta, GA 30322, USA",30576,33.82845866666669,-84.40236618918918,-21943664,25919,False
+20,Children's Healthcare of Atlanta Hughes Spalding,Atlanta,Fulton County,0,1952,CHOA,,ChIJE0RlP4kD9YgRf-FdJvSfWXw,33.7539006,-84.38200929999998,Jesse Hill Junior Drive Southeast Downtown Atlanta,Georgia,30303.0,"35 Jesse Hill Jr Dr SE, Atlanta, GA 30303, USA",30576,33.82845866666669,-84.40236618918918,-21943664,25919,False
+21,Children's Healthcare of Atlanta Scottish Rite,Atlanta,Fulton County,0,1915,CHOA,,ChIJV-6vqjQJ9YgRhvQE1FyLn-g,33.9062197,-84.35319860000001,Johnson Ferry Road Northeast Perimeter Center,Georgia,30342.0,"1001 Johnson Ferry Rd NE, Atlanta, GA 30342, USA",30576,33.82845866666669,-84.40236618918918,-21943664,25919,False
+22,Emory Saint Joseph's Hospital,Atlanta,Fulton County,276,1880,Emory,Formerly Saint Joseph's Hospital of Atlanta,ChIJW3epPTQJ9YgRxf9a5U20qNg,33.908422200000004,-84.34985069999998,Peachtree Dunwoody Road Perimeter Center,Georgia,30342.0,"5665 Peachtree Dunwoody Rd, Atlanta, GA 30342, USA",30576,33.82845866666669,-84.40236618918918,-21943664,25919,False
+23,Emory University Hospital Midtown,Atlanta,Fulton County,511,1908,Emory,Formerly Crawford W. Long Memorial Hospital,ChIJ42AWonoE9YgRonLLiSdYxtA,33.7686596,-84.3864181,Peachtree Street Northeast SoNo,Georgia,30308.0,"550 Peachtree St NE, Atlanta, GA 30308, USA",30576,33.82845866666669,-84.40236618918918,-21943664,25919,False
+24,Grady Memorial Hospital,Atlanta,Fulton County,961,1892,Ã¢ÂÂ,,ChIJ6Rc8z44D9YgR28vCVjqbUGw,33.75178499999999,-84.3820071,Jesse Hill Junior Drive Southeast Downtown Atlanta,Georgia,30303.0,"80 Jesse Hill Jr Dr SE, Atlanta, GA 30303, USA",30576,33.82845866666669,-84.40236618918918,-21943664,25919,False
+25,Northside Hospital Atlanta,Atlanta,Fulton County,537,1970,Northside,,ChIJj6xqLcsO9YgRxOHBb9ihhFs,33.9090691,-84.3533506,Johnson Ferry Road Northeast Perimeter Center,Georgia,30342.0,"1000 Johnson Ferry Rd NE, Atlanta, GA 30342, USA",30576,33.82845866666669,-84.40236618918918,-21943664,25919,False
+26,Piedmont Atlanta Hospital,Atlanta,Fulton County,498,,Piedmont,,ChIJZ2L4-KkF9YgRtyK-3YkszI8,33.808755299999994,-84.3955567,Peachtree Road Northwest Buckhead,Georgia,30309.0,"1968 Peachtree Rd NW, Atlanta, GA 30309, USA",30576,33.82845866666669,-84.40236618918918,-21943664,25919,False
+27,St. Joseph's Hospital,Atlanta,Fulton County,330,1875,SJCHS,,ChIJW3epPTQJ9YgRxf9a5U20qNg,33.908422200000004,-84.34985069999998,Peachtree Dunwoody Road Perimeter Center,Georgia,30342.0,"5665 Peachtree Dunwoody Rd, Atlanta, GA 30342, USA",30576,33.82845866666669,-84.40236618918918,-21943664,25919,False
+28,St. Mary's Hospital,Atlanta,Fulton County,170,,St. Mary's,,ChIJW3epPTQJ9YgRxf9a5U20qNg,33.908422200000004,-84.34985069999998,Peachtree Dunwoody Road Perimeter Center,Georgia,30342.0,"5665 Peachtree Dunwoody Rd, Atlanta, GA 30342, USA",30576,33.82845866666669,-84.40236618918918,-21943664,25919,False
+29,Wellstar Atlanta Medical Center,Atlanta,Fulton County,460,1901,WellStar,,ChIJH9RgbwsE9YgRCefukbDOojs,33.76290650000001,-84.37296090000002,Parkway Drive Northeast Old Fourth Ward,Georgia,30312.0,"303 Parkway Dr NE, Atlanta, GA 30312, USA",30576,33.82845866666669,-84.40236618918918,-21943664,25919,False
+30,Clinch Memorial Hospital,Homerville,Clinch County,25,,Ã¢ÂÂ,,ChIJOVUVTv_A74gRxvY6G-i6X2g,31.03406279999999,-82.76426219999998,1050 Valdosta Highway,Georgia,31634.0,"1050 Valdosta Hwy, Homerville, GA 31634, USA",31634,31.062818,-82.72399,20275,5622,False
+31,Coffee Regional Medical Center,Douglas,Coffee County,88,,Ã¢ÂÂ,,ChIJLcfhrYIr8IgR0acnHrbZOcY,31.5106528,-82.8641026,1101 Ocilla Road,Georgia,31533.0,"1101 Ocilla Rd, Douglas, GA 31533, USA",31534,31.519537,-82.85313700000002,20942,14954,False
+32,Colquitt Regional Medical Center,Moultrie,Colquitt County,84,,Ã¢ÂÂ,,ChIJIWDi3Bfo7YgR_tg8O9agiQU,31.1257976,-83.7803079,3131 South Main Street,Georgia,31768.0,"3131 S Main St, Moultrie, GA 31768, USA",31772,31.169027000000003,-83.7820495,21032,22858,False
+33,Crisp Regional Hospital,Cordele,Crisp County,216,,Ã¢ÂÂ,,ChIJqRaPg9868ogREPx8lk5K7Wc,31.9775429,-83.7813123,902 7th Street North,Georgia,31015.0,"902 7th St N, Cordele, GA 31015, USA",31012,31.9340385,-83.7817225,17401,21549,False
+34,Doctors Hospital of Augusta,Augusta,Richmond County,350,,HCA,,ChIJUQsUUbHT-YgRnAog9l02vWY,33.4862825,-82.09453559999999,3651 Wheeler Road,Georgia,30909.0,"3651 Wheeler Rd, Augusta, GA 30909, USA",30915,33.42063449999999,-82.08491662499998,-51259555,32850,False
+35,University Hospital Summerville,Augusta,Richmond County,121[],1952,University Health,Formerly Trinity Hospital of Augusta,ChIJkZdVPcLN-YgRcVe9hQlppfk,33.4661721,-82.0179381,2260 Wrightsboro Road,Georgia,30904.0,"2260 Wrightsboro Rd, Augusta, GA 30904, USA",30915,33.42063449999999,-82.08491662499998,-51259555,32850,False
+36,Augusta University Children's Hospital of Georgia,Augusta,Richmond County,154,,Augusta University,,ChIJoyV_F0jM-YgRqAe60-Abauk,33.4711383,-81.9877743,Harper Street Medical District,Georgia,30912.0,"1446 Harper St, Augusta, GA 30912, USA",30915,33.42063449999999,-82.08491662499998,-51259555,32850,False
+37,Augusta University Medical Center,Augusta,Richmond County,478,,Augusta University,,ChIJyX-W70nM-YgRtaRCmY78n_g,33.47134919999999,-81.98789740000002,15th Street Medical District,Georgia,30912.0,"1120 15th St, Augusta, GA 30912, USA",30915,33.42063449999999,-82.08491662499998,-51259555,32850,False
+38,Dodge County Hospital,Eastman,Dodge County,94,,Ã¢ÂÂ,,ChIJdz0oTxAK8YgRn2b4G99tKZ8,32.18539310000001,-83.17796330000002,901 Griffin Avenue,Georgia,31023.0,"901 Griffin Ave, Eastman, GA 31023, USA",31023,32.193953,-83.1848,21081,14276,False
+40,Dorminy Medical Center,Fitzgerald,Ben Hill County,75,1974,Ã¢ÂÂ,previously Phoebe Dorminy Medical Center,ChIJ2Rmp39zp8YgR3Iam7NxuUcE,31.697479,-83.2599627,200 Perry House Road,Georgia,31750.0,"200 Perry House Rd, Fitzgerald, GA 31750, USA",31750,31.720029,-83.25093000000003,20822,18322,False
+41,East Georgia Regional Medical Center,Statesboro,Bulloch County,150,,Ã¢ÂÂ,,ChIJg8R4YCVH-ogRKm5rXPqqwx0,32.4144578,-81.7704395,1499 Fair Road,Georgia,30458.0,"1499 Fair Rd, Statesboro, GA 30458, USA",30459,32.444667249999995,-81.77462,16630,25909,False
+42,Effingham Hospital,Springfield,Effingham County,0,1969,Ã¢ÂÂ,,ChIJs0bfpe-8-4gRA3iAKUxVT_M,32.3643089,-81.32048189999998,459 Georgia 119,Georgia,31329.0,"459 GA-119, Springfield, GA 31329, USA",31329,32.390879,-81.32427,27305,9950,False
+43,Elbert Memorial Hospital,Elberton,Elbert County,52,,Ã¢ÂÂ,,ChIJyRlS42_N94gR6CMAx3duHO0,34.1132654,-82.8746791,4 Medical Drive,Georgia,30635.0,"4 Medical Dr, Elberton, GA 30635, USA",30635,34.119972,-82.825,21478,14964,False
+44,Emanuel Medical Center,Swainsboro,Emanuel County,94,,Ã¢ÂÂ,,ChIJiwDEKIqk8IgRJtwtnSxMTxM,32.592759,-82.3471716,117 Kight Road,Georgia,30401.0,"117 Kight Rd, Swainsboro, GA 30401, USA",30401,32.605196,-82.3391,20101,13598,False
+45,Emory Decatur Hospital,Decatur,DeKalb County,628,1961,Emory,,ChIJudei5nAH9YgRT0IzRi5kGiI,33.7908318,-84.2828507,2701 North Decatur Road,Georgia,30033.0,"2701 N Decatur Rd, Decatur, GA 30033, USA",30033,33.802006750000004,-84.19094749999998,33401,37842,False
+46,St. Francis Hospital,Decatur,DeKalb County,360,1950,Emory,,ChIJrzBX-3gH9YgRpeQf21LpXF4,33.795761,-84.27695399999998,Dekalb Industrial Way Greater Valley Brook,Georgia,30033.0,"625 Dekalb Industrial Way, Decatur, GA 30033, USA",30033,33.802006750000004,-84.19094749999998,33401,37842,False
+47,Emory Hillandale Hospital,Lithonia,DeKalb County,100,2005,Emory,,ChIJ99FXMlSs9YgR8f6ru3JZyEU,33.7057547,-84.1479978,2801 Dekalb Medical Parkway,Georgia,30058.0,"2801 Dekalb Medical Pkwy, Lithonia, GA 30058, USA",30048,33.7133075,-84.12510499999998,28433,48381,False
+49,Emory University Orthopaedics & Spine Hospital,Tucker,DeKalb County,0,,Emory,,ChIJKWjtUqkQ9YgR4N3RrVCKe8E,33.826251899999995,-84.2483606,1455 Montreal Road East,Georgia,30084.0,"1455 Montreal Rd E, Tucker, GA 30084, USA",30084,33.872552,-84.14746,33845,38484,False
+50,Evans Memorial Hospital,Claxton,Evans County,209,,Ã¢ÂÂ,,ChIJDwv9jOdg-ogR8PUP4RBslJ0,32.16619130000001,-81.8987728,200 North River Street,Georgia,30417.0,"200 N River St, Claxton, GA 30417, USA",30417,32.162077000000004,-81.90984,23948,10777,False
+51,Fairview Park Hospital,Dublin,Laurens County,190,,HCA,,ChIJ00hnV80h8YgR-CDnNpspPns,32.532739,-82.9507304,200 Industrial Boulevard,Georgia,31021.0,"200 Industrial Blvd, Dublin, GA 31021, USA",31029,32.54518466666667,-82.88610466666667,21535,21916,False
+52,Flint River Hospital,Montezuma,Macon County,49,,Ã¢ÂÂ,,ChIJUWYbh-Wz84gR79-FKWYcn-Q,32.29406969999999,-84.02999390000002,509 Sumter Street,Georgia,31063.0,"509 Sumter St, Montezuma, GA 31063, USA",31063,32.293293,-83.98913,18672,4928,False
+53,Floyd Medical Center,Rome,Floyd County,278,,Floyd,,ChIJi7Rq8JekiogRQinBUmO28MM,34.2592219,-85.17846390000003,304 Turner McCall Boulevard,Georgia,30165.0,"304 Turner McCall Blvd, Rome, GA 30165, USA",30163,34.298378,-85.21452579999999,-166648942,27633,False
+54,Redmond Regional Medical Center,Rome,Floyd County,230,,HCA,,ChIJZxYbanmjiogRpqvQTEClF_A,34.276808200000005,-85.19488419999998,501 Redmond Road,Georgia,30165.0,"501 Redmond Rd, Rome, GA 30165, USA",30163,34.298378,-85.21452579999999,-166648942,27633,False
+55,Floyd Polk Medical Center,Cedartown,Polk County,18,,Floyd,,ChIJufAiezXAiogRCpDiPvFPt2g,34.0139172,-85.19656429999998,2360 Rockmart Highway,Georgia,30125.0,"2360 Rockmart Hwy, Cedartown, GA 30125, USA",30125,34.010162,-85.25761999999997,23343,23814,False
+56,Hamilton Medical Center,Dalton,Whitfield County,282,1921,Ã¢ÂÂ,,ChIJi34aVuJ0YIgRwf8bLkcvC2A,34.789979100000004,-84.9848301,1200 Memorial Drive,Georgia,30720.0,"1200 Memorial Dr, Dalton, GA 30720, USA",30720,34.77704425,-84.96687425,25269,40921,False
+57,Higgins General Hospital,Bremen,Haralson County,25,,Tanner,,ChIJYWQnyWPYiogRnm7ZzbYKhsI,33.7168925,-85.14494429999998,200 Allen Memorial Drive,Georgia,30110.0,"200 Allen Memorial Dr, Bremen, GA 30110, USA",30110,33.723939,-85.14282,26211,13190,False
+58,Houston Healthcare - Houston Medical Center,Warner Robins,Houston County,237,,Houston Healthcare,,ChIJWUuYi6bh84gRoP6_yC4giIg,32.6163277,-83.63124140000002,1601 Watson Boulevard,Georgia,31093.0,"1601 Watson Blvd, Warner Robins, GA 31093, USA",31094,32.596278999999996,-83.642259,28877,28984,False
+59,Houston Healthcare - Perry Hospital,Warner Robins,Houston County,45,,Houston Healthcare,,ChIJWUuYi6bh84gRoP6_yC4giIg,32.6163277,-83.63124140000002,1601 Watson Boulevard,Georgia,31093.0,"1601 Watson Blvd, Warner Robins, GA 31093, USA",31094,32.596278999999996,-83.642259,28877,28984,False
+60,Irwin County Hospital,Ocilla,Irwin County,34,,Ã¢ÂÂ,,ChIJKxuQ74nn8YgRaGMYifM8ly4,31.6033848,-83.2513457,710 North Irwin Avenue,Georgia,31774.0,"710 N Irwin Ave, Ocilla, GA 31774, USA",31774,31.586426,-83.27583,17566,6737,False
+61,Jasper Memorial Hospital,Monticello,Jasper County,17,,,,ChIJsVV_tC8i9IgRAlKZNzp-g70,33.3144199,-83.68651009999998,898 College Street,Georgia,31064.0,"898 College St, Monticello, GA 31064, USA",31064,33.319093,-83.70862,22079,9071,False
+62,Jeff Davis Hospital,Hazlehurst,Jeff Davis County,25,,Ã¢ÂÂ,,ChIJ6S2zZ4FB8IgRqyjs6aCntzU,31.85704,-82.6074229,163 South Tallahassee Street,Georgia,31539.0,"163 S Tallahassee St, Hazlehurst, GA 31539, USA",31539,31.844772,-82.59809,21532,14645,False
+63,Jenkins County Medical Center,Millen,Jenkins County,25,,Ã¢ÂÂ,Formerly Optim Medical Center - Jenkins,ChIJRR6j-BYe-ogRpdBfmMJlWYw,32.8042804,-81.93440090000001,931 East Winthrope Avenue,Georgia,30442.0,"931 E Winthrope Ave, Millen, GA 30442, USA",30442,32.802448,-81.98380999999998,17210,7617,False
+64,Liberty Regional Medical Center,Hinesville,Liberty County,25[],1961,Ã¢ÂÂ,,ChIJPVTG4Xfk-ogRgYqvtayCISw,31.8394772,-81.60097549999998,462 Elma G Miles Parkway,Georgia,31313.0,"462 Elma G Miles Pkwy, Hinesville, GA 31313, USA",31311,31.817703499999997,-81.526622,28303,40916,False
+66,Meadows Regional Medical Center,Vidalia,Toombs County,122,,Ã¢ÂÂ,,ChIJB-zIEqaI8IgRwu2K8HbMKAk,32.2091036,-82.3757392,1 Meadows Parkway,Georgia,30474.0,"1 Meadows Pkwy, Vidalia, GA 30474, USA",30474,32.198834000000005,-82.3944095,-333322390,8332,False
+67,Medical Center of Peach County,Byron,Peach County,0,1953/2013,Atrium/Navicent,,ChIJhQByrNnB84gRVJmygAxHzmk,32.6049154,-83.75933559999999,1960 Georgia 247 Connector,Georgia,31008.0,"1960 GA-247CONN, Byron, GA 31008, USA",31008,32.652313,-83.75918,31807,18381,False
+69,Memorial Satilla Health,Waycross,Ware County,345,,HCA,"formerly Mayo Clinic Health System in Waycross, previously Satilla Regional Medical Center",ChIJHUznLYf674gR0sU7ZBx9V1M,31.2251192,-82.3480412,1900 Tebeau Street,Georgia,31501.0,"1900 Tebeau St, Waycross, GA 31501, USA",31502,31.148069000000003,-82.38107099999999,23209,16850,False
+71,Monroe County Hospital,Forsyth,Monroe County,25,,Navicent Partner,,ChIJfc9fBFtz9IgRZ9FQSuA2dW0,33.0314778,-83.9453995,88 Martin Luther King Junior Drive,Georgia,31029.0,"88 Martin Luther King Jr Dr, Forsyth, GA 31029, USA",31029,33.0409,-83.92941,25070,16459,False
+72,Morgan Medical Center,Madison,Morgan County,46,,Ã¢ÂÂ,Formerly Morgan Memorial Hospital,ChIJ9w0kVeuH9ogRjgYxzKEaUSo,33.569366200000005,-83.47203069999998,1740 Lions Club Road,Georgia,30650.0,"1740 Lions Club Rd, Madison, GA 30650, USA",30650,33.588436,-83.47936,28750,12063,False
+73,Navicent Health Baldwin,Milledgeville,Baldwin County,140,,Atrium/Navicent,formerly Oconee Regional Medical Center,ChIJWeo-JuHH9ogRA-irUFcLAec,33.0896828,-83.2453926,821 North Cobb Street,Georgia,31061.0,"821 N Cobb St, Milledgeville, GA 31061, USA",31061,33.085358500000005,-83.229445,18000,22130,False
+74,Northeast Georgia Medical Center Gainesville,Gainesville,Hall County,557,1951,NGMC,,ChIJu425Mff29YgRlANVFgFPZzE,34.3039338,-83.8157729,743 Spring Street Northeast,Georgia,30501.0,"743 Spring St NE, Gainesville, GA 30501, USA",30504,34.305405666666665,-83.8595845,25534,32153,False
+75,Northeast Georgia Medical Center Barrow,Winder,Barrow County,80,1951,NGMC,Formerly Barrow Regional Medical Center,ChIJ9-jdmm_n9YgRbzx065u0s6Q,34.0081396,-83.70777259999998,316 North Broad Street,Georgia,30680.0,"316 N Broad St, Winder, GA 30680, USA",30680,33.992538,-83.71061,26214,42975,False
+76,Northeast Georgia Medical Center Braselton,Braselton,Hall County,100,2015,NGMC,Formerly River Place Braselton,ChIJNbCdyZru9YgRsl32junsBN4,34.120048,-83.83809690000002,1400 River Place,Georgia,30517.0,"1400 River Pl, Braselton, GA 30517, USA",30517,34.121974,-83.78604,37419,14657,False
+77,Northeast Georgia Medical Center Lumpkin,Dahlonega,Lumpkin County,49[],,NGMC,facility was previously Chestatee Regional Hospital,ChIJZ0ACOptnX4gRWbwEZPlRNV4,34.5229731,-83.97576109999999,227 Mountain Drive,Georgia,30533.0,"227 Mountain Dr, Dahlonega, GA 30533, USA",30565,34.534884500000004,-83.9890295,22180,26683,False
+78,Northridge Medical Center,Commerce,Jackson County,239,,Ã¢ÂÂ,,ChIJ4y_Nul4E9ogRNp14C3hJthg,34.2192326,-83.46840959999999,70 Medical Center Drive,Georgia,30529.0,"70 Medical Center Dr, Commerce, GA 30529, USA",30552,34.18364133333333,-83.47990966666667,25649,9733,False
+79,Northside Hospital Cherokee,Canton,Cherokee County,158,1962,Northside,,ChIJpzNA3K1l9YgR82VVbj9Td2g,34.22934740000001,-84.46654989999998,450 Northside Cherokee Boulevard,Georgia,30115.0,"450 Northside Cherokee Blvd, Canton, GA 30115, USA",30114,34.2112535,-84.47143,34793,47157,False
+80,Northside Hospital Duluth,Duluth,Gwinnett County,0,1944,Northside,Formerly Gwinnett Medical Center-Duluth,ChIJV25bIW2i9YgRw6nzzvOr02I,34.0001637,-84.163558,3620 Howell Ferry Road Northwest,Georgia,30096.0,"3620 Howell Ferry Rd NW, Duluth, GA 30096, USA",30077,33.98126285714285,-84.0996522857143,37753,58935,False
+81,Northside Hospital Forsyth,Cumming,Forsyth County,304,,Northside,,ChIJndk3udma9YgRmd0FILa5_DM,34.1780271,-84.1407069,1200 Northside Forsyth Drive,Georgia,30041.0,"1200 Northside Forsyth Dr, Cumming, GA 30041, USA",30036,34.209984000000006,-84.121546,41386,54006,False
+82,Northside Hospital Gwinnett,Lawrenceville,Gwinnett County,576,1959,Northside,formerly Gwinnett Medical Center-Lawrenceville,ChIJCQA6O4C-9YgRwzbhPR7tHUI,33.9631697,-84.01749090000001,1000 Medical Center Boulevard,Georgia,30046.0,"1000 Medical Center Blvd, Lawrenceville, GA 30046, USA",30044,33.95193999999999,-84.043285,31013,68830,False
+83,Optim Medical Center - Screven,Sylvania,Screven County,0,,Optim,,ChIJ43a37gEp-ogRYXG9Xfv-mGw,32.7498791,-81.64680709999998,215 Mims Road,Georgia,30467.0,"215 Mims Rd, Sylvania, GA 30467, USA",30467,32.754635,-81.63543,22345,12070,False
+84,Optim Medical Center - Tattnall,Reidsville,Tattnall County,0,,Optim,previously Doctors Hospital of Tattnall,ChIJLZ964DuH-ogRgN4c2iIngI8,32.0805406,-82.10897849999998,247 South Main Street,Georgia,30453.0,"247 S Main St, Reidsville, GA 30453, USA",30476,32.054025,-82.059874,14460,10775,False
+85,Phoebe Putney Memorial Hospital,Albany,Dougherty County,420,1911,Phoebe,,ChIJz2fdPtl78ogRmBBAmMeQr5A,31.590934000000004,-84.15786700000002,417 3rd Avenue West,Georgia,31701.0,"417 3rd Ave W, Albany, GA 31701, USA",31705,31.5672663,-84.16817030000001,20778,25104,False
+86,Phoebe Putney Memorial Hospital - North Campus,Albany,Dougherty County,248,1971,Phoebe,formerly Palmyra Medical Center,ChIJ3yDUnut78ogRuJEtM2bq9bA,31.6063022,-84.1689281,2000 Palmyra Road,Georgia,31701.0,"2000 Palmyra Rd, Albany, GA 31701, USA",31705,31.5672663,-84.16817030000001,20778,25104,False
+87,Phoebe Sumter Medical Center,Americus,Sumter County,76,1952/2011,Phoebe,,ChIJL4GQ3elX8ogRUDrGxodiFyY,32.06690460000001,-84.25558840000002,126 U.S. 280,Georgia,31719.0,"126 US-280, Americus, GA 31719, USA",31712,32.06945566666666,-84.21787733333333,21422,12402,False
+88,Phoebe Worth Medical Center,Sylvester,Worth County,25,,Phoebe,,ChIJwWEL7IQJ8ogRTMAwzjXHREg,31.5118061,-83.8403001,807 South Isabella Street,Georgia,31791.0,"807 S Isabella St, Sylvester, GA 31791, USA",31791,31.536886,-83.86041,23805,12138,False
+89,Piedmont Athens Regional,Athens,Clarke County,350,1919,Piedmont,Formerly Athens Regional Medical Center,ChIJx6REsTht9ogRarSpPB_uhR4,33.9613926,-83.39796729999998,1199 Prince Avenue,Georgia,30606.0,"1199 Prince Ave, Athens, GA 30606, USA",30606,33.95374808333333,-83.38985975000001,14474,21862,False
+90,Piedmont Columbus Regional - Midtown,Columbus,Muscogee County,583,1982,Piedmont,Formerly Midtown Medical Center,ChIJO73PkM_NjIgR9BqzLSabVsM,32.4802456,-84.9824948,710 Center Street,Georgia,31901.0,"710 Center St, Columbus, GA 31901, USA",31936,32.491929600000006,-84.91847300000002,21683,34613,False
+91,Piedmont Columbus Regional - Northside,Columbus,Muscogee County,100,,Piedmont,facility was previously Jack Hughston Memorial Hospital [4],ChIJU_E0e1rLjIgRUNL3PnI_vc4,32.534584,-84.95118199999997,100 Frist Court,Georgia,31909.0,"100 Frist Ct, Columbus, GA 31909, USA",31936,32.491929600000006,-84.91847300000002,21683,34613,False
+92,Piedmont Fayette Hospital,Fayetteville,Fayette County,300,,Piedmont,,ChIJZfvWaSfv9IgRO0Er_vksXXU,33.4527476,-84.5081318,1255 Highway 54 West,Georgia,30214.0,"1255 Hwy 54 W, Fayetteville, GA 30214, USA",30214,33.440110000000004,-84.469695,36318,33029,False
+93,Piedmont Mountainside Hospital,Jasper,Pickens County,35,,Piedmont,,ChIJYY_e2pmIX4gRm7F9jNiSS2U,34.445618,-84.4481517,1266 Georgia 515,Georgia,30143.0,"1266 GA-515, Jasper, GA 30143, USA",30143,34.454934,-84.41583,30317,21487,False
+94,Piedmont Newton Hospital,Covington,Newton County,97,1954,Piedmont,"Joined Piedmont Healthcare October 1, 2015[5]; Formerly Newton Medical Center",ChIJH9lU1_Y09IgR9XQ2zbkDfas,33.6013604,-83.8478329,5126 Hospital Drive Northeast,Georgia,30014.0,"5126 Hospital Dr NE, Covington, GA 30014, USA",30015,33.55977166666667,-83.88321166666667,25200,43710,False
+95,Piedmont Rockdale Hospital,Conyers,Rockdale County,138,,Piedmont,formerly Rockdale Medical Center,ChIJuSz3VZe09YgRDST4yZ0r8CQ,33.680682,-84.00149180000003,1412 Milstead Avenue Northeast,Georgia,30012.0,"1412 Milstead Ave NE, Conyers, GA 30012, USA",30039,33.65076833333333,-84.01582333333334,29512,29633,False
+96,Piedmont Walton Hospital,Monroe,Walton County,135,,Piedmont,formerly Clearview Regional Medical Center,ChIJaRUeC_fQ9YgR233yHfGn51k,33.79880929999999,-83.75027109999998,2151 West Spring Street,Georgia,30655.0,"2151 W Spring St, Monroe, GA 30655, USA",30655,33.821732,-83.709,27809,20669,False
+97,Putnam General Hospital,Eatonton,Putnam County,25,,Navicent Partner,,ChIJs7uOmNuW9ogRM349HrEZnXI,33.3356127,-83.37114910000003,101 Lake Oconee Parkway,Georgia,31024.0,"101 Lake Oconee Pkwy, Eatonton, GA 31024, USA",31024,33.318579,-83.35432,26389,20438,False
+98,South Georgia Medical Center,Valdosta,Lowndes County,335,1955,SGMC,,ChIJ66lsp6ln7ogRevC7JIyEYdI,30.8616385,-83.2861741,2501 North Patterson Street,Georgia,31602.0,"2501 N Patterson St, Valdosta, GA 31602, USA",31625,30.85549644444445,-83.26009933333334,20937,20502,False
+99,South Georgia Medical Center Berrien,Nashville,Berrien County,51,1965,SGMC,Formerly Berrien County Hospital,ChIJm5u1EpI97ogRJUmO7M4AcSU,31.20306,-83.238716,1221 East Mcpherson Avenue,Georgia,31639.0,"1221 E Mcpherson Ave, Nashville, GA 31639, USA",31649,31.202194,-83.23244199999998,21910,10237,False
+100,South Georgia Medical Center Lanier,Lakeland,Lanier County,25,1950,SGMC,Formerly Louis Smith Memorial Hospital,ChIJr4y6kdBH7ogRNZFs0czCyEc,31.04234200000001,-83.086298,116 West Thigpen Avenue,Georgia,31635.0,"116 W Thigpen Ave, Lakeland, GA 31635, USA",31635,31.055578000000004,-83.07103000000002,20662,6602,False
+101,Southeast Georgia Health System Brunswick,Brunswick,Glynn County,316,1866/1955,SGHS,,ChIJ1-_OK5DX5IgRdflE39bCudw,31.175415,-81.48448590000002,2415 Parkwood Drive,Georgia,31520.0,"2415 Parkwood Dr, Brunswick, GA 31520, USA",31522,31.2207972,-81.523048,-133314971,18080,False
+103,Southern Regional Medical Center,Riverdale,Clayton County,331,1971,Ã¢ÂÂ,,ChIJRTfSZYf79IgROf81g6_n6Ik,33.5793831,-84.3896726,11 Upper Riverdale Road,Georgia,30274.0,"11 Upper Riverdale Rd, Riverdale, GA 30274, USA",30285,33.559928,-84.42047500000002,24951,32009,False
+104,Southwell Medical Center,Adel,Cook County,60,2019,Southwell,replaced Cook Medical Center,ChIJi04_F4EN7ogR9azyo4HRENU,31.1087864,-83.4267703,260 M J Taylor Road,Georgia,31620.0,"260 M J Taylor Rd, Adel, GA 31620, USA",31620,31.133004,-83.42736,25632,10836,False
+105,Southwell Tift Regional Medical Center,Tifton,Tift County,181,1965,Southwell,,ChIJty7M0_P98YgRxER4yfdK-_0,31.4710278,-83.49113969999998,901 18th Street,Georgia,31794.0,"901 18th St, Tifton, GA 31794, USA",31793,31.472552,-83.5072255,25598,18474,False
+107,St. Mary's Good Samaritan Hospital,Greensboro,Greene County,25,,St. Mary's,,ChIJKYKV_9D19ogRqw0G2t8nSz0,33.4814149,-83.2421769,5401 Lake Oconee Parkway,Georgia,30642.0,"5401 Lake Oconee Pkwy, Greensboro, GA 30642, USA",30647,33.5531915,-83.28106300000002,28823,11949,False
+108,St. Mary's Sacred Heart Hospital,Lavonia,Franklin County,56,,St. Mary's,formerly Ty Cobb Regional Medical Center,ChIJy47AHbCbWIgR3ABU0UH--bI,34.4405739,-83.1317579,367 Clear Creek Drive,Georgia,30553.0,"367 Clear Creek Dr, Lavonia, GA 30553, USA",30553,34.450501,-83.09448,23650,7994,False
+109,Stephens County Hospital,Toccoa,Stephens County,96,,Ã¢ÂÂ,,ChIJYd5YCFi5WIgRmg1mIwWVKIU,34.5929016,-83.3479768,163 Hospital Road,Georgia,30577.0,"163 Hospital Rd, Toccoa, GA 30577, USA",30587,34.579629,-83.339625,20782,21204,False
+110,Tanner Medical Center Carrollton,Carrollton,Carroll County,201,1949,Tanner,,ChIJla3puAgvi4gRvcfXoTSjZJM,33.5697063,-85.0743578,705 Dixie Street,Georgia,30117.0,"705 Dixie St, Carrollton, GA 30117, USA",30127,33.582075200000006,-85.065821,18315,24372,False
+111,Tanner Medical Center Villa Rica,Villa Rica,Carroll County,80,1955/2003,Tanner,,ChIJLeUeBRkr9YgRnP7T9_KqCgg,33.744505600000004,-84.9167497,601 Dallas Highway,Georgia,30180.0,"601 Dallas Hwy, Villa Rica, GA 30180, USA",30180,33.718079,-84.92356,31256,37325,False
+112,Taylor Regional Hospital,Hawkinsville,Pulaski County,55,1936,Ã¢ÂÂ,,ChIJ_2D6gIrX84gRzcPaLDIpARI,32.296373,-83.48411639999998,222 Perry Highway,Georgia,31036.0,"222 Perry Hwy, Hawkinsville, GA 31036, USA",31036,32.270314,-83.48517,22063,12322,False
+113,Union General Hospital,Blairsville,Union County,45,1959,Union Regional,,ChIJjWZD7IgXX4gR__9EVe5emBc,34.8859816,-83.96260509999998,35 Hospital Road,Georgia,30512.0,"35 Hospital Rd, Blairsville, GA 30512, USA",30513,34.889477,-84.0116735,24412,21080,False
+114,University Hospital McDuffie,Thomson,McDuffie County,25,,University Health,Formerly McDuffie Regional Medical Center,ChIJ-2cJIphz94gRcqrR6rDI6Kg,33.523061,-82.50182029999998,2460 Washington Road,Georgia,30824.0,"2460 Washington Rd, Thomson, GA 30824, USA",30824,33.490536,-82.5028,21449,17025,False
+115,Upson Regional Medical Center,Thomaston,Upson County,120,,Ã¢ÂÂ,,ChIJc5dLsJV-84gRpOVOMhpTcKg,32.8858696,-84.33678540000002,801 West Gordon Street,Georgia,30286.0,"801 W Gordon St, Thomaston, GA 30286, USA",30286,32.895794,-84.33084000000002,22114,22085,False
+116,Warm Springs Medical Center,Warm Springs,Meriwether County,104,1957,Ã¢ÂÂ,,ChIJxU4xorFe84gR0xfv0kjlFpk,32.8893309,-84.68321800000002,5995 Spring Street,Georgia,31830.0,"5995 Spring St, Warm Springs, GA 31830, USA",31830,32.896166,-84.71191,16714,2571,False
+117,Washington County Regional Medical Center,Sandersville,Washington County,116,1961,Ã¢ÂÂ,,ChIJjbK7_cUu94gR775aF55a_zE,32.9959208,-82.80407840000002,610 Sparta Road,Georgia,31082.0,"610 Sparta Rd, Sandersville, GA 31082, USA",31082,32.984528999999995,-82.8375,22395,9636,False
+118,Wayne Memorial Hospital,Jesup,Wayne County,115,1896,Ã¢ÂÂ,,ChIJufklTPS4-ogRUylFvMwF_jc,31.6008418,-81.90010939999998,865 South 1st Street,Georgia,31545.0,"865 S 1st St, Jesup, GA 31545, USA",31572,31.59210575,-81.883421,20779,9990,False
+119,WellStar Cobb Hospital,Austell,Cobb County,368,,WellStar,,ChIJW4JGDyI39YgRLF1itT32KfI,33.85702980000001,-84.60479620000002,3950 Austell Road Southwest,Georgia,30106.0,"3950 Austell Rd SW, Austell, GA 30106, USA",30137,33.8127585,-84.61607000000002,27179,24021,False
+120,WellStar Douglas Hospital,Douglasville,Douglas County,102,1946,WellStar,,ChIJsWWRGvgm9YgRf8NGAxYeVlc,33.7389784,-84.7318315,8954 Hospital Drive,Georgia,30134.0,"8954 Hospital Dr, Douglasville, GA 30134, USA",30139,33.7126275,-84.74410499999998,30083,55124,False
+121,WellStar Kennestone Hospital,Marietta,Cobb County,633,,WellStar,,ChIJQVepTEYU9YgRoKS935JAFIM,33.96986570000001,-84.55178719999998,677 Church Street,Georgia,30060.0,"677 Church St, Marietta, GA 30060, USA",30054,33.943484857142856,-84.53430707142857,35210,45780,False
+122,WellStar North Fulton Hospital,Roswell,Fulton County,202,1983,WellStar,Formerly North Fulton Regional Hospital,ChIJAURpBvl09YgR8laXHFf66_4,34.062673100000005,-84.32048409999999,3000 Hospital Boulevard,Georgia,30076.0,"3000 Hospital Blvd, Roswell, GA 30076, USA",30076,33.975564,-84.39239333333333,40065,48737,False
+123,WellStar Paulding Hospital,Hiram,Paulding County,216,1954,WellStar,,ChIJMzJn-How9YgRhhfE1kXnu30,33.901053000000005,-84.7816248,2518 Jimmy Lee Smith Parkway,Georgia,30141.0,"2518 Jimmy Lee Smith Pkwy, Hiram, GA 30141, USA",30141,33.867574,-84.77103000000002,31176,23326,False
+124,WellStar Spalding Regional Hospital,Griffin,Spalding County,160,,WellStar,Formerly Spalding Regional Medical Center,ChIJyexMgeBh9IgRxUd1HX227ns,33.2393061,-84.2672705,601 South 8th Street,Georgia,30224.0,"601 S 8th St, Griffin, GA 30224, USA",30223,33.2418195,-84.26366499999997,23932,31064,False
+125,WellStar Sylvan Grove Hospital,Jackson,Butts County,21,,WellStar,,ChIJB5o2d9JB9IgRr-4NjnGt52c,33.3038136,-83.97775999999998,1050 McDonough Road,Georgia,30233.0,"1050 McDonough Rd, Jackson, GA 30233, USA",30258,33.29484050000001,-83.97038950000002,24625,23245,False
+127,Wills Memorial Hospital,Washington,Wilkes County,25,1924,Ã¢ÂÂ,,ChIJaf2Qfo-v94gRgVuzIsowsPY,33.72862539999999,-82.74252109999998,120 Gordon Street,Georgia,30673.0,"120 Gordon St, Washington, GA 30673, USA",30673,33.728753999999995,-82.72612,19859,7626,False
+128,Candler Hospital,Savannah,Chatham County,384,1804,SJCHS,"Oldest hospital in Georgia, and second oldest in continuous operation in the U.S.",ChIJpb2fD5N1-4gRM-PXE90FV6c,32.0278294,-81.1001261,Reynolds Street Midtown,Georgia,31405.0,"5353 Reynolds St, Savannah, GA 31405, USA",31420,32.00549926086957,-81.08729143478259,26070,25759,False
+129,Memorial Health University Medical Center,Savannah,Chatham County,654,1955,HCA,,ChIJ58O7Xe51-4gR1iUiqWi29js,32.030295,-81.088798,Waters Avenue Midtown,Georgia,31404.0,"4700 Waters Ave, Savannah, GA 31404, USA",31420,32.00549926086957,-81.08729143478259,26070,25759,False
+131,Fannin Regional Hospital,Blue Ridge,Fannin County,50,,Ã¢ÂÂ,,ChIJN7SfeV2vX4gRu5N9mgngcXo,34.91773480000001,-84.3743296,2855 Old Highway 5,Georgia,30513.0,"2855 Old Hwy 5 North, Blue Ridge, GA 30513, USA",30513,34.851171,-84.32905,26086,11753,False
+132,Habersham Medical Center,Demorest,Habersham County,137,,Ã¢ÂÂ,,ChIJZ-CjEsfaWIgRY0GR2c3TCfo,34.5810438,-83.53708859999998,541 Historic Hwy,Georgia,30535.0,"541 Historic Hwy #441-N, Demorest, GA 30535, USA",30539,34.583082,-83.561421,24391,7431,False
+137,,Abbeville,,,,,,,,,,,,,31001,31.972626,-83.33081999999997,20880,4563,False
+138,,Acworth,,,,,,,,,,,,,30101,34.0751415,-84.651565,33711,49841,False
+139,,Adairsville,,,,,,,,,,,,,30103,34.368647,-84.92452,24570,16138,False
+140,,Adrian,,,,,,,,,,,,,31002,32.549854,-82.56948,19562,3071,False
+141,,Ailey,,,,,,,,,,,,,30410,32.196136,-82.50985,26628,1715,False
+142,,Alamo,,,,,,,,,,,,,30411,32.146031,-82.792,28321,4766,False
+143,,Alapaha,,,,,,,,,,,,,31622,31.37966500000001,-83.21803,23214,1972,False
+144,,Allenhurst,,,,,,,,,,,,,31301,31.764663,-81.6098,23444,4006,False
+145,,Allentown,,,,,,,,,,,,,31003,32.600621999999994,-83.22095999999998,19375,88,False
+146,,Alma,,,,,,,,,,,,,31510,31.551458,-82.44618,20124,9914,False
+147,,Alpharetta,,,,,,,,,,,,,30044,33.99606133333333,-84.325964,53503,45849,False
+148,,Alston,,,,,,,,,,,,,30412,32.083879,-82.47988000000002,26786,69,False
+149,,Alto,,,,,,,,,,,,,30553,34.542559999999995,-83.54953200000001,20189,9042,False
+150,,Ambrose,,,,,,,,,,,,,31512,31.57344,-83.01501999999998,21716,2131,False
+151,,Andersonville,,,,,,,,,,,,,31711,32.195361,-84.137,18912,967,False
+152,,Appling,,,,,,,,,,,,,30802,33.620669,-82.30514000000002,23555,6147,False
+153,,Arabi,,,,,,,,,,,,,31712,31.836577,-83.72045,21425,1084,False
+154,,Aragon,,,,,,,,,,,,,30104,34.065792,-85.07226999999997,25169,4960,False
+155,,Argyle,,,,,,,,,,,,,31623,31.071563,-82.65231999999997,15833,113,False
+157,,Armuchee,,,,,,,,,,,,,30105,34.448075,-85.15313,30729,1776,False
+158,,Arnoldsville,,,,,,,,,,,,,30619,33.863663,-83.24825,22368,1277,False
+159,,Ashburn,,,,,,,,,,,,,31714,31.709742,-83.66519,22190,5866,False
+161,,Auburn,,,,,,,,,,,,,30011,34.022974,-83.83416,26042,15428,False
+162,,Avera,,,,,,,,,,,,,30803,33.163467,-82.52017,24306,965,False
+163,,Avondale Estates,,,,,,,,,,,,,30002,33.772122,-84.26491,35693,5920,False
+164,,Axson,,,,,,,,,,,,,31624,31.297883,-82.71029,24761,1468,False
+165,,Baconton,,,,,,,,,,,,,31716,31.3709,-84.12921,22798,2960,False
+166,,Baldwin,,,,,,,,,,,,,30511,34.469971,-83.50035,25438,4009,False
+167,,Ball Ground,,,,,,,,,,,,,30107,34.344939000000004,-84.37204,33798,14606,False
+168,,Barnesville,,,,,,,,,,,,,30204,33.05413,-84.14862,18894,12940,False
+169,,Barney,,,,,,,,,,,,,31625,31.003274,-83.5282,19658,972,False
+170,,Bartow,,,,,,,,,,,,,30413,32.884137,-82.50969,19507,1805,False
+171,,Barwick,,,,,,,,,,,,,31720,30.890906,-83.73816,22176,296,False
+172,,Baxley,,,,,,,,,,,,,31514,31.743283,-82.32582850000001,20967,16247,False
+173,,Bellville,,,,,,,,,,,,,30414,32.154990000000005,-81.97825999999998,23948,10777,False
+174,,Berlin,,,,,,,,,,,,,31722,31.067313,-83.62288000000002,20714,496,False
+175,,Bethlehem,,,,,,,,,,,,,30620,33.928949,-83.73524,31686,13644,False
+176,,Bishop,,,,,,,,,,,,,30621,33.804849,-83.48164,39174,5726,False
+177,,Blackshear,,,,,,,,,,,,,31516,31.307234,-82.25779,21948,14541,False
+178,,Bloomingdale,,,,,,,,,,,,,31302,32.129474,-81.33121,27154,8139,False
+180,,Blythe,,,,,,,,,,,,,30805,33.297318,-82.21503,24571,2735,False
+181,,Bogart,,,,,,,,,,,,,30622,33.927792,-83.51552,31600,11803,False
+182,,Bolingbroke,,,,,,,,,,,,,31004,32.946971000000005,-83.800628,35734,34305,False
+183,,Bonaire,,,,,,,,,,,,,31005,32.556668,-83.62435,40557,17530,False
+184,,Boneville,,,,,,,,,,,,,30806,33.527993,-82.5104,19427,4499,False
+185,,Boston,,,,,,,,,,,,,31626,30.782963,-83.78882,23785,3211,False
+186,,Bostwick,,,,,,,,,,,,,30623,33.754234999999994,-83.511055,17714,130,False
+187,,Bowdon,,,,,,,,,,,,,30108,33.533934,-85.26088,21243,7351,False
+188,,Bowdon Junction,,,,,,,,,,,,,30109,33.653355,-85.136227,21845,35575,False
+189,,Bowersville,,,,,,,,,,,,,30516,34.370551,-83.05998000000002,21774,2012,False
+190,,Bowman,,,,,,,,,,,,,30624,34.193943,-83.03375,23739,3256,False
+191,,Box Springs,,,,,,,,,,,,,31801,32.527813,-84.59822,22345,3240,False
+193,,Bristol,,,,,,,,,,,,,31518,31.513511,-82.18481,20565,927,False
+195,,Brookfield,,,,,,,,,,,,,31727,31.44172,-83.503715,22670,27308,False
+196,,Brooklet,,,,,,,,,,,,,30415,32.3456,-81.62339,30633,6161,False
+197,,Brooks,,,,,,,,,,,,,30204,33.28235,-84.4657305,35662,2864,False
+198,,Broxton,,,,,,,,,,,,,31519,31.67654000000001,-82.88991,25177,3474,False
+199,,Buchanan,,,,,,,,,,,,,30113,33.846270000000004,-85.20291,24277,6649,False
+200,,Buckhead,,,,,,,,,,,,,30625,33.527207000000004,-83.34676,26886,2140,False
+201,,Buena Vista,,,,,,,,,,,,,31803,32.315915000000004,-84.52238,21835,5487,False
+202,,Buford,,,,,,,,,,,,,30517,34.056974,-84.00096966666666,34867,50597,False
+203,,Butler,,,,,,,,,,,,,31006,32.563544,-84.2461,23952,4476,False
+204,,Byromville,,,,,,,,,,,,,31007,32.199721000000004,-83.91327,18878,1132,False
+205,,Cadwell,,,,,,,,,,,,,31009,32.309003000000004,-83.02646999999997,16112,1317,False
+207,,Camak,,,,,,,,,,,,,30807,33.453039000000004,-82.64828,32708,70,False
+208,,Canon,,,,,,,,,,,,,30520,34.338008,-83.09656,18854,5179,False
+209,,Carlton,,,,,,,,,,,,,30627,33.994139000000004,-82.97819,21594,2393,False
+210,,Carnesville,,,,,,,,,,,,,30521,34.360544,-83.28544000000002,25852,5042,False
+211,,Cassville,,,,,,,,,,,,,30123,34.244178999999995,-84.84568399999998,28140,41253,False
+212,,Cataula,,,,,,,,,,,,,31804,32.651617,-84.88805,33027,5865,False
+213,,Cave Spring,,,,,,,,,,,,,30124,34.118206,-85.34000999999998,27203,2896,False
+214,,Cecil,,,,,,,,,,,,,31447,31.047378499999997,-83.3935095,20703,247,False
+216,,Centerville,,,,,,,,,,,,,31028,32.632111,-83.67795,34868,6464,False
+217,,Chauncey,,,,,,,,,,,,,31011,32.108676,-83.06006,23958,694,False
+218,,Cherrylog,,,,,,,,,,,,,30522,34.801665,-84.37931,23906,897,False
+219,,Chester,,,,,,,,,,,,,31012,32.396381,-83.16892,24198,3099,False
+220,,Chestnut Mountain,,,,,,,,,,,,,30502,34.212993,-83.79485799999998,33127,37056,False
+221,,Chickamauga,,,,,,,,,,,,,30707,34.827019,-85.32883000000002,25303,15956,False
+222,,Chula,,,,,,,,,,,,,31733,31.592199,-83.48004,26181,1319,False
+223,,Cisco,,,,,,,,,,,,,30708,34.945576,-84.7113,33011,234,False
+224,,Clarkdale,,,,,,,,,,,,,30111,33.912473,-84.557181,34615,67688,False
+225,,Clarkesville,,,,,,,,,,,,,30523,34.700311,-83.51879,25393,12230,False
+226,,Clarkston,,,,,,,,,,,,,30021,33.809604,-84.2387,20929,24137,False
+227,,Clayton,,,,,,,,,,,,,30525,34.882362,-83.4156,19946,7305,False
+228,,Clermont,,,,,,,,,,,,,30527,34.481514000000004,-83.78599,26373,4377,False
+229,,Cleveland,,,,,,,,,,,,,30528,34.595859000000004,-83.76194,25071,24761,False
+231,,Clinchfield,,,,,,,,,,,,,31013,32.338639,-83.692562,22063,12322,False
+232,,Clyo,,,,,,,,,,,,,31303,32.508239,-81.3128,26986,2621,False
+233,,Cobb,,,,,,,,,,,,,31735,31.959367,-83.96028000000003,15755,715,False
+234,,Cobbtown,,,,,,,,,,,,,30420,32.301639,-82.11842,22266,845,False
+235,,Cohutta,,,,,,,,,,,,,30710,34.935105,-84.94641999999997,31602,7154,False
+236,,Colbert,,,,,,,,,,,,,30628,34.041416,-83.21996999999998,26875,6874,False
+238,,Collins,,,,,,,,,,,,,30421,32.186824,-82.10699,22727,3322,False
+239,,Comer,,,,,,,,,,,,,30629,34.072573,-83.11913,22107,4735,False
+240,,Concord,,,,,,,,,,,,,30206,33.109599,-84.45541,31576,3609,False
+241,,Conley,,,,,,,,,,,,,30288,33.647275,-84.32753000000002,27808,9230,False
+242,,Coolidge,,,,,,,,,,,,,31738,31.012042,-83.87218,24940,1935,False
+243,,Coosa,,,,,,,,,,,,,30129,34.333308,-85.233721,24184,41961,False
+244,,Cornelia,,,,,,,,,,,,,30531,34.514215,-83.54118000000003,25113,10818,False
+245,,Cotton,,,,,,,,,,,,,31739,31.260443,-84.253089,22604,9998,False
+246,,Crandall,,,,,,,,,,,,,30711,34.93882,-84.76558,26672,3551,False
+247,,Crawford,,,,,,,,,,,,,30630,33.892957,-83.15548000000003,21301,2264,False
+248,,Crawfordville,,,,,,,,,,,,,30631,33.570317,-82.88542,19830,1647,False
+249,,Crescent,,,,,,,,,,,,,31304,31.49507100000001,-81.381908,-666666666,0,False
+250,,Culloden,,,,,,,,,,,,,31016,32.861386,-84.11731999999998,20720,2033,False
+251,,Cusseta,,,,,,,,,,,,,31805,32.285535,-84.76332,21033,2431,False
+252,,Dacula,,,,,,,,,,,,,30019,33.981721,-83.88302,38465,49262,False
+253,,Daisy,,,,,,,,,,,,,30423,32.150061,-81.83478000000002,18750,121,False
+254,,Dallas,,,,,,,,,,,,,30144,33.919119499999994,-84.83961500000002,32294,44891,False
+256,,Danielsville,,,,,,,,,,,,,30633,34.17085,-83.24654,26681,9227,False
+257,,Danville,,,,,,,,,,,,,31017,32.600844,-83.24549,20712,1913,False
+258,,Darien,,,,,,,,,,,,,31305,31.407598,-81.39094,23883,5983,False
+259,,Davisboro,,,,,,,,,,,,,31018,32.976548,-82.61607,7448,2674,False
+261,,Dawsonville,,,,,,,,,,,,,30534,34.416521,-84.10849,30879,28843,False
+262,,De Soto,,,,,,,,,,,,,31743,31.930451,-84.02920999999998,9976,444,False
+263,,Dearing,,,,,,,,,,,,,30808,33.397137,-82.40335,19427,4499,False
+264,,Denton,,,,,,,,,,,,,31532,31.718382,-82.73595,19412,650,False
+265,,Dewy Rose,,,,,,,,,,,,,30634,34.212836,-82.94112,19906,1802,False
+266,,Dexter,,,,,,,,,,,,,31019,32.427633,-83.05632,23851,2035,False
+267,,Dillard,,,,,,,,,,,,,30537,34.977198,-83.35161,21918,1534,False
+268,,Dixie,,,,,,,,,,,,,31629,30.802821,-83.69126,39050,732,False
+269,,Doerun,,,,,,,,,,,,,31744,31.325004,-83.90937,25365,2791,False
+270,,Dover,,,,,,,,,,,,,30424,32.767634,-81.629062,22345,12070,False
+271,,Dry Branch,,,,,,,,,,,,,31020,32.719907,-83.4905,18750,1688,False
+272,,Du Pont,,,,,,,,,,,,,31630,30.96373,-82.86455,19868,560,False
+273,,Dudley,,,,,,,,,,,,,31022,32.516865,-83.09905,27457,1715,False
+274,,East Ellijay,,,,,,,,,,,,,30539,34.680011,-84.47154,24587,7843,False
+275,,Eastanollee,,,,,,,,,,,,,30538,34.511618,-83.25811,22088,3120,False
+276,,Eden,,,,,,,,,,,,,31307,32.183211,-81.39979,18750,908,False
+278,,Elko,,,,,,,,,,,,,31025,32.335147,-83.74571,51757,866,False
+279,,Ellabell,,,,,,,,,,,,,31308,32.172661,-81.48447,26737,7114,False
+280,,Ellaville,,,,,,,,,,,,,31806,32.246795,-84.32008,27406,5180,False
+281,,Ellenton,,,,,,,,,,,,,31747,31.176563,-83.58801,11131,156,False
+282,,Ellenwood,,,,,,,,,,,,,30294,33.639658000000004,-84.26822,31439,41782,False
+283,,Ellerslie,,,,,,,,,,,,,31807,32.634965,-84.80136999999998,29924,3215,False
+284,,Ellijay,,,,,,,,,,,,,30540,34.688716,-84.46715999999998,22275,20169,False
+285,,Emerson,,,,,,,,,,,,,30137,34.124283,-84.75579,24091,1807,False
+286,,Enigma,,,,,,,,,,,,,31749,31.439212,-83.34040999999998,22908,2649,False
+287,,Epworth,,,,,,,,,,,,,30541,34.925622,-84.42981,23077,1580,False
+288,,Esom Hill,,,,,,,,,,,,,30138,33.99994,-85.172297,23343,23814,False
+289,,Eton,,,,,,,,,,,,,30724,34.822176,-84.75967,24457,33460,False
+290,,Evans,,,,,,,,,,,,,30809,33.551145,-82.13949000000002,41069,45542,False
+291,,Experiment,,,,,,,,,,,,,30212,33.278205,-84.288803,20181,36986,False
+292,,Fairburn,,,,,,,,,,,,,30213,33.565662,-84.59321,30412,32729,False
+293,,Fairmount,,,,,,,,,,,,,30139,34.434629,-84.70133,28901,4143,False
+294,,Fargo,,,,,,,,,,,,,31631,30.680867,-82.58028,25509,415,False
+295,,Farmington,,,,,,,,,,,,,30638,33.775001,-83.42456,37228,18337,False
+296,,Felton,,,,,,,,,,,,,30140,33.88232,-85.234946,24277,6649,False
+297,,Fleming,,,,,,,,,,,,,31309,31.873145,-81.42676,19800,923,False
+298,,Flintstone,,,,,,,,,,,,,30725,34.932348,-85.35064,21244,4646,False
+299,,Flovilla,,,,,,,,,,,,,30216,33.251174,-83.89284,15399,2376,False
+300,,Flowery Branch,,,,,,,,,,,,,30542,34.188281,-83.91813,33127,37056,False
+301,,Folkston,,,,,,,,,,,,,31537,30.860915,-82.02194,22647,10970,False
+302,,Forest Park,,,,,,,,,,,,,30297,33.558053,-84.35915649999998,20175,28077,False
+303,,Fort Benning,,,,,,,,,,,,,31950,32.4346655,-84.9350505,21263,18110,False
+305,,Fort Stewart,,,,,,,,,,,,,31314,31.877821500000003,-81.60596000000002,27002,4637,False
+306,,Fort Valley,,,,,,,,,,,,,31030,32.555679999999995,-83.88641,18661,17701,False
+307,,Fortson,,,,,,,,,,,,,31808,32.638884999999995,-85.00735999999998,41761,6961,False
+309,,Franklin,,,,,,,,,,,,,30217,33.298014,-85.12243000000002,25124,9144,False
+310,,Franklin Springs,,,,,,,,,,,,,30639,34.281721000000005,-83.14746,19505,9077,False
+311,,Funston,,,,,,,,,,,,,31753,31.205365000000004,-83.877554,21032,22858,False
+312,,Garfield,,,,,,,,,,,,,30425,32.632683,-82.036,25313,1339,False
+313,,Gay,,,,,,,,,,,,,30218,33.121379,-84.58776,31030,1628,False
+314,,Geneva,,,,,,,,,,,,,31810,32.57791,-84.54513,15083,245,False
+316,,Gibson,,,,,,,,,,,,,30810,33.236721,-82.58135,23345,1906,False
+317,,Gillsville,,,,,,,,,,,,,30543,34.29945900000001,-83.65226,24277,4853,False
+318,,Girard,,,,,,,,,,,,,30426,33.032445,-81.63251,20893,782,False
+320,,Glennville,,,,,,,,,,,,,30427,31.945767,-81.93594,23832,12301,False
+321,,Glenwood,,,,,,,,,,,,,30428,32.190739,-82.69115,19120,2783,False
+322,,Good Hope,,,,,,,,,,,,,30641,33.766057,-83.57597,30071,1957,False
+323,,Gordon,,,,,,,,,,,,,31031,32.891499,-83.32748000000002,23844,6213,False
+324,,Gough,,,,,,,,,,,,,30811,33.050487,-81.929165,26652,2024,False
+325,,Gracewood,,,,,,,,,,,,,30812,33.386041,-82.09099599999998,16385,394,False
+326,,Grantville,,,,,,,,,,,,,30220,33.230734000000005,-84.82543000000003,26820,5375,False
+327,,Gray,,,,,,,,,,,,,31032,33.003454999999995,-83.55078,31832,15113,False
+328,,Grayson,,,,,,,,,,,,,30017,33.888829,-83.96848,39645,24416,False
+329,,Graysville,,,,,,,,,,,,,30726,34.975939000000004,-85.1416,-666666666,0,False
+330,,Greenville,,,,,,,,,,,,,30222,33.034761,-84.73593000000002,20864,4116,False
+331,,Grovetown,,,,,,,,,,,,,30813,33.459489000000005,-82.20102,33210,44065,False
+332,,Guyton,,,,,,,,,,,,,31312,32.313816,-81.3908,35947,20297,False
+333,,Haddock,,,,,,,,,,,,,31033,33.053288,-83.43902,32917,1815,False
+334,,Hagan,,,,,,,,,,,,,30429,32.159458,-81.93724,19018,210,False
+335,,Hahira,,,,,,,,,,,,,31632,30.991859,-83.36415,26817,12958,False
+336,,Hamilton,,,,,,,,,,,,,31811,32.722333,-84.95803000000002,30356,6272,False
+337,,Hampton,,,,,,,,,,,,,30228,33.401827000000004,-84.30152,29129,42259,False
+338,,Haralson,,,,,,,,,,,,,30229,33.232156,-84.56854,34839,15245,False
+339,,Hardwick,,,,,,,,,,,,,31034,33.040103,-83.2182,21715,43762,False
+340,,Harlem,,,,,,,,,,,,,30814,33.423590000000004,-82.31013,24462,8538,False
+341,,Harrison,,,,,,,,,,,,,31035,32.835471000000005,-82.70761,28586,1261,False
+342,,Hartsfield,,,,,,,,,,,,,31756,31.177174,-83.96555,32902,791,False
+343,,Hartwell,,,,,,,,,,,,,30643,34.366948,-82.9201,21124,16009,False
+344,,Helen,,,,,,,,,,,,,30545,34.713441,-83.74189,28750,698,False
+345,,Helena,,,,,,,,,,,,,31037,32.094127,-82.91713,16687,4619,False
+346,,Hephzibah,,,,,,,,,,,,,30815,33.32157,-82.08872,25155,40347,False
+347,,High Shoals,,,,,,,,,,,,,30645,33.801274,-83.516374,39174,5726,False
+348,,Hillsboro,,,,,,,,,,,,,31038,33.172786,-83.63554,28059,566,False
+349,,Hoboken,,,,,,,,,,,,,31542,31.1747,-82.13812,22297,3170,False
+350,,Hogansville,,,,,,,,,,,,,30230,33.173516,-84.91736999999998,21308,9470,False
+351,,Holly Springs,,,,,,,,,,,,,30142,34.242944,-84.458326,37370,41105,False
+352,,Homer,,,,,,,,,,,,,30547,34.348822,-83.47738000000003,20156,3209,False
+353,,Hortense,,,,,,,,,,,,,31543,31.320167,-81.85818,21034,4292,False
+354,,Hoschton,,,,,,,,,,,,,30548,34.097915,-83.77864,36589,18630,False
+355,,Howard,,,,,,,,,,,,,31039,32.587537,-84.3895,-666666666,0,False
+356,,Hull,,,,,,,,,,,,,30646,34.065588,-83.31318,28611,6506,False
+357,,Ideal,,,,,,,,,,,,,31041,32.371371,-84.18258,14451,689,False
+358,,Ila,,,,,,,,,,,,,30647,34.120239,-83.288117,26681,9227,False
+361,,Irwinton,,,,,,,,,,,,,31042,32.7615,-83.1612,22485,1477,False
+362,,Irwinville,,,,,,,,,,,,,31760,31.70628300000001,-83.408633,17566,6737,False
+363,,Jacksonville,,,,,,,,,,,,,31544,31.840974,-82.96137,20139,778,False
+365,,Jefferson,,,,,,,,,,,,,30549,34.112581,-83.58251,30514,24892,False
+366,,Jeffersonville,,,,,,,,,,,,,31044,32.63078400000001,-83.37026999999998,19853,3463,False
+367,,Jekyll Island,,,,,,,,,,,,,31527,31.064190000000004,-81.42071999999997,-666666666,568,False
+368,,Jenkinsburg,,,,,,,,,,,,,30234,33.325951,-84.03345999999998,25606,2060,False
+369,,Jersey,,,,,,,,,,,,,30018,33.717989,-83.801451,24106,38445,False
+370,,Jewell,,,,,,,,,,,,,31045,33.285774,-82.7749,-666666666,49,False
+371,,Jonesboro,,,,,,,,,,,,,30237,33.507507333333336,-84.35448433333333,26475,46166,False
+372,,Juliette,,,,,,,,,,,,,31046,33.054590999999995,-83.78583,24131,3198,False
+373,,Junction City,,,,,,,,,,,,,31812,32.614374,-84.44513,11987,585,False
+374,,Kathleen,,,,,,,,,,,,,31047,32.509384000000004,-83.64773000000002,38209,14625,False
+375,,Kennesaw,,,,,,,,,,,,,30148,34.020548,-84.61549000000001,35982,49565,False
+376,,Keysville,,,,,,,,,,,,,30816,33.162490000000005,-82.18933,26652,2024,False
+377,,Kings Bay,,,,,,,,,,,,,31547,30.804684,-81.627717,21594,1420,False
+378,,Kingsland,,,,,,,,,,,,,31548,30.793409000000004,-81.68428,27743,21146,False
+379,,Kingston,,,,,,,,,,,,,30145,34.237986,-84.97801,29190,7142,False
+380,,Kite,,,,,,,,,,,,,31049,32.69992,-82.51380999999998,23488,1856,False
+381,,Knoxville,,,,,,,,,,,,,31050,32.742085,-83.94646,14004,861,False
+382,,La Fayette,,,,,,,,,,,,,30728,34.696201,-85.25824,21067,20609,False
+383,,Lagrange,,,,,,,,,,,,,30247,33.03740766666667,-85.03748166666666,23825,26548,False
+384,,Lake Park,,,,,,,,,,,,,31636,30.722890000000003,-83.13302,22008,10640,False
+385,,Lakemont,,,,,,,,,,,,,30552,34.763553,-83.44201,25919,1805,False
+387,,Lebanon,,,,,,,,,,,,,30146,34.242944,-84.458326,37370,41105,False
+388,,Leesburg,,,,,,,,,,,,,31763,31.714526,-84.16931,36161,24186,False
+389,,Lenox,,,,,,,,,,,,,31487,31.281732000000005,-83.45616700000002,22323,2891,False
+390,,Leslie,,,,,,,,,,,,,31764,31.98309,-84.06866,23716,1514,False
+391,,Lexington,,,,,,,,,,,,,30648,33.863779,-83.06063,24657,3094,False
+392,,Lilburn,,,,,,,,,,,,,30047,33.91636200000001,-84.07720450000001,31381,65420,False
+393,,Lilly,,,,,,,,,,,,,31051,32.148624,-83.88003,18750,140,False
+394,,Lincolnton,,,,,,,,,,,,,30817,33.765566,-82.43899,24737,7642,False
+395,,Lindale,,,,,,,,,,,,,30147,34.175095,-85.18084,22784,4339,False
+396,,Lithia Springs,,,,,,,,,,,,,30122,33.776137,-84.64484,29476,25786,False
+397,,Lizella,,,,,,,,,,,,,31052,32.788484000000004,-83.80726,31168,8557,False
+398,,Locust Grove,,,,,,,,,,,,,30248,33.351277,-84.10645,33352,25161,False
+399,,Loganville,,,,,,,,,,,,,30052,33.823809000000004,-83.89423000000002,31550,65959,False
+400,,Lookout Mountain,,,,,,,,,,,,,30750,34.957134,-85.37183,15104,4753,False
+401,,Louisville,,,,,,,,,,,,,30434,33.008983,-82.37799999999999,19028,5386,False
+402,,Louvale,,,,,,,,,,,,,31814,32.154164,-84.83856999999998,38594,234,False
+403,,Lovejoy,,,,,,,,,,,,,30250,33.437428000000004,-84.31519,7455,656,False
+404,,Ludowici,,,,,,,,,,,,,31316,31.74991,-81.75813000000002,26653,13243,False
+405,,Lula,,,,,,,,,,,,,30554,34.391688,-83.65979,27146,7687,False
+406,,Lumber City,,,,,,,,,,,,,31549,31.928525,-82.69332,17421,2157,False
+407,,Lumpkin,,,,,,,,,,,,,31815,32.030297,-84.81218,15625,3677,False
+408,,Luthersville,,,,,,,,,,,,,30251,33.201986,-84.69943,25291,2316,False
+409,,Lyerly,,,,,,,,,,,,,30730,34.376063,-85.4043,18023,1933,False
+410,,Lyons,,,,,,,,,,,,,30436,32.177508,-82.30448,22341,12092,False
+411,,Mableton,,,,,,,,,,,,,30126,33.817738,-84.56087,36417,41665,False
+412,,Manassas,,,,,,,,,,,,,30438,32.152792,-82.01301,-666666666,31,False
+413,,Manchester,,,,,,,,,,,,,31816,32.862377,-84.60879,19761,5231,False
+414,,Manor,,,,,,,,,,,,,31550,31.101953,-82.58299,20547,801,False
+415,,Mansfield,,,,,,,,,,,,,30055,33.504952,-83.74735,27338,3306,False
+416,,Marble Hill,,,,,,,,,,,,,30148,34.452988,-84.25925,-666666666,861,False
+417,,Marshallville,,,,,,,,,,,,,31282,32.449791,-83.939233,19246,2238,False
+418,,Martin,,,,,,,,,,,,,30557,34.491829,-83.17539000000002,21529,4813,False
+419,,Matthews,,,,,,,,,,,,,30818,33.244829,-82.32636,26968,622,False
+420,,Mauk,,,,,,,,,,,,,31058,32.498727,-84.42804,23194,1361,False
+421,,Maxeys,,,,,,,,,,,,,30671,33.748344,-83.18538000000002,25027,954,False
+422,,Maysville,,,,,,,,,,,,,30558,34.258054,-83.56058,20858,5998,False
+423,,McCaysville,,,,,,,,,,,,,30555,34.977037,-84.39839,21648,2273,False
+424,,McIntyre,,,,,,,,,,,,,31054,32.875574,-83.19785,24091,1543,False
+425,,McRae,,,,,,,,,,,,,31055,32.045313,-82.8916,18310,8194,False
+426,,Mcdonough,,,,,,,,,,,,,30252,33.459709000000004,-84.12684499999999,34107,50731,False
+427,,Meansville,,,,,,,,,,,,,30256,33.015476,-84.32186999999998,28670,2589,False
+428,,Meigs,,,,,,,,,,,,,31765,31.082141,-84.05767,18770,2774,False
+429,,Meldrim,,,,,,,,,,,,,31318,32.141974,-81.37892,30022,432,False
+430,,Menlo,,,,,,,,,,,,,30731,34.553484999999995,-85.47893,25386,2221,False
+431,,Meridian,,,,,,,,,,,,,31319,31.478486,-81.34528,27430,7900,False
+432,,Mershon,,,,,,,,,,,,,31551,31.496025,-82.27322,17451,963,False
+433,,Mesena,,,,,,,,,,,,,30819,33.432384000000006,-82.625213,19797,4205,False
+434,,Midland,,,,,,,,,,,,,31820,32.566196999999995,-84.84121999999998,45584,10815,False
+435,,Midville,,,,,,,,,,,,,30441,32.792831,-82.23715,20953,1701,False
+436,,Midway,,,,,,,,,,,,,31320,31.788811,-81.37637,30553,8258,False
+437,,Milan,,,,,,,,,,,,,31060,32.003035,-83.06336999999998,21939,1866,False
+438,,Millwood,,,,,,,,,,,,,31552,31.281103,-82.6201,19049,842,False
+439,,Milner,,,,,,,,,,,,,30257,33.136567,-84.19386,26406,4345,False
+440,,Mineral Bluff,,,,,,,,,,,,,30559,34.949755,-84.28317,20721,4701,False
+441,,Mitchell,,,,,,,,,,,,,30820,33.224199,-82.713,24795,1112,False
+442,,Molena,,,,,,,,,,,,,30258,32.999261,-84.47168,24274,3047,False
+443,,Montrose,,,,,,,,,,,,,31065,32.564036,-83.16019,23144,1193,False
+444,,Moreland,,,,,,,,,,,,,30259,33.277468,-84.75388000000002,31997,2886,False
+446,,Morganton,,,,,,,,,,,,,30560,34.887912,-84.2098,22082,4759,False
+448,,Morrow,,,,,,,,,,,,,30273,33.5442285,-84.34069149999998,24475,37590,False
+449,,Morven,,,,,,,,,,,,,31638,30.935087,-83.50211,16146,1107,False
+450,,Mount Airy,,,,,,,,,,,,,30563,34.549681,-83.47201,25963,5955,False
+451,,Mount Berry,,,,,,,,,,,,,30149,34.280355,-85.182085,3561,1935,False
+452,,Mount Vernon,,,,,,,,,,,,,30445,32.186824,-82.59170999999998,14563,3929,False
+453,,Mount Zion,,,,,,,,,,,,,30150,33.643002,-85.181782,21845,35575,False
+454,,Mountain City,,,,,,,,,,,,,30562,34.917466,-83.38486999999998,16843,1386,False
+455,,Murrayville,,,,,,,,,,,,,30564,34.466226,-83.88441999999998,25034,3414,False
+456,,Musella,,,,,,,,,,,,,31066,32.799959,-84.00588,26875,1492,False
+457,,Mystic,,,,,,,,,,,,,31769,31.620866,-83.24975400000002,17566,6737,False
+458,,Nahunta,,,,,,,,,,,,,31553,31.17326,-81.97244,16798,4369,False
+459,,Naylor,,,,,,,,,,,,,31641,30.934298,-83.08841,25788,1966,False
+460,,Nelson,,,,,,,,,,,,,30151,34.242944,-84.458326,33798,14606,False
+461,,Newborn,,,,,,,,,,,,,30056,33.500008,-83.67165,29643,2217,False
+462,,Newington,,,,,,,,,,,,,30446,32.567281,-81.48626999999998,17946,1251,False
+464,,Nicholls,,,,,,,,,,,,,31554,31.49598300000001,-82.62928000000002,22315,8611,False
+465,,Nicholson,,,,,,,,,,,,,30565,34.094345000000004,-83.41617,26805,4424,False
+466,,Norcross,,,,,,,,,,,,,30060,33.95016316666667,-84.1219645,29016,38581,False
+467,,Norman Park,,,,,,,,,,,,,31771,31.256287,-83.66005,20124,6204,False
+468,,Norristown,,,,,,,,,,,,,30447,32.505913,-82.49502,20101,13598,False
+469,,Norwood,,,,,,,,,,,,,30821,33.477946,-82.73454,21974,765,False
+470,,Nunez,,,,,,,,,,,,,30448,32.49126,-82.36787,41250,76,False
+471,,Oakfield,,,,,,,,,,,,,31772,31.723178000000004,-83.9628,20446,536,False
+472,,Oakman,,,,,,,,,,,,,30732,34.569015,-84.711863,26104,3779,False
+473,,Oakwood,,,,,,,,,,,,,30566,34.236556,-83.89115,27851,7736,False
+474,,Ochlocknee,,,,,,,,,,,,,31773,30.977162,-84.0615,24837,3547,False
+475,,Oconee,,,,,,,,,,,,,31067,32.860031,-82.95019,25227,252,False
+476,,Odum,,,,,,,,,,,,,31555,31.670475,-82.04944,22345,2793,False
+477,,Offerman,,,,,,,,,,,,,31556,31.412649,-82.11554100000002,18958,88,False
+478,,Oglethorpe,,,,,,,,,,,,,31068,32.329164,-84.07988,24861,5079,False
+479,,Oliver,,,,,,,,,,,,,30449,32.528104,-81.533198,25625,163,False
+480,,Omaha,,,,,,,,,,,,,31821,32.1342,-84.98499,18622,263,False
+481,,Omega,,,,,,,,,,,,,31775,31.334062,-83.59971,21320,3339,False
+482,,Orchard Hill,,,,,,,,,,,,,30266,33.265656,-84.298964,27683,25142,False
+483,,Oxford,,,,,,,,,,,,,30054,33.658113,-83.86249000000002,25394,11904,False
+484,,Palmetto,,,,,,,,,,,,,30268,33.527793,-84.69453,23888,10434,False
+486,,Patterson,,,,,,,,,,,,,31557,31.372403,-82.10743000000002,25316,3229,False
+487,,Pavo,,,,,,,,,,,,,31778,30.966781,-83.72075,20846,2316,False
+488,,Peachtree City,,,,,,,,,,,,,30269,33.398992,-84.57061999999998,47760,35904,False
+489,,Pearson,,,,,,,,,,,,,31642,31.27291,-82.83341999999998,20696,4779,False
+490,,Pelham,,,,,,,,,,,,,31779,31.117271,-84.15678,22604,9998,False
+491,,Pembroke,,,,,,,,,,,,,31321,32.163245,-81.64211,24346,7640,False
+492,,Pendergrass,,,,,,,,,,,,,30567,34.167309,-83.68536,29817,3188,False
+493,,Perkins,,,,,,,,,,,,,30822,32.914843,-81.87901,17292,784,False
+494,,Perry,,,,,,,,,,,,,31069,32.460791,-83.73541,25963,20167,False
+495,,Pine Lake,,,,,,,,,,,,,30072,33.791505,-84.20642,40599,727,False
+496,,Pine Mountain,,,,,,,,,,,,,31822,32.867211,-84.88436999999998,26832,5929,False
+497,,Pine Mountain Valley,,,,,,,,,,,,,31823,32.801174,-84.82038,25568,797,False
+498,,Pinehurst,,,,,,,,,,,,,31070,32.185677,-83.76348,29792,985,False
+499,,Pineview,,,,,,,,,,,,,31071,32.13702,-83.52604000000002,20574,1200,False
+500,,Pitts,,,,,,,,,,,,,31072,31.951839,-83.56747,23417,1357,False
+502,,Plains,,,,,,,,,,,,,31780,32.026125,-84.39361,20239,2100,False
+503,,Plainville,,,,,,,,,,,,,30733,34.409661,-85.03345,23214,2143,False
+504,,Pooler,,,,,,,,,,,,,31322,32.110421,-81.24568000000002,40454,25459,False
+505,,Portal,,,,,,,,,,,,,30450,32.55565900000001,-81.9242,15615,2192,False
+506,,Porterdale,,,,,,,,,,,,,30070,33.576043,-83.89820999999998,12149,484,False
+507,,Poulan,,,,,,,,,,,,,31781,31.526584000000003,-83.79025,23711,2264,False
+508,,Powder Springs,,,,,,,,,,,,,30127,33.87455300000001,-84.68784000000002,34615,67688,False
+509,,Preston,,,,,,,,,,,,,31824,32.051618,-84.53419,20767,1695,False
+510,,Pulaski,,,,,,,,,,,,,30451,32.414349,-82.086658,-666666666,47,False
+511,,Putney,,,,,,,,,,,,,31782,31.543065,-84.219594,16814,32477,False
+512,,Rabun Gap,,,,,,,,,,,,,30568,34.952452,-83.4073,27471,1645,False
+513,,Ranger,,,,,,,,,,,,,30734,34.531444,-84.69955,26104,3779,False
+514,,Ray City,,,,,,,,,,,,,31645,31.070627,-83.20286,24453,5053,False
+515,,Rayle,,,,,,,,,,,,,30660,33.775127000000005,-82.94624,15085,1204,False
+516,,Rebecca,,,,,,,,,,,,,31783,31.767986,-83.47325,26758,883,False
+517,,Red Oak,,,,,,,,,,,,,30272,33.625894,-84.516327,28266,75514,False
+518,,Redan,,,,,,,,,,,,,30074,33.891251000000004,-84.07455999999998,27221,57658,False
+519,,Register,,,,,,,,,,,,,30452,32.327219,-81.89818000000002,24971,1372,False
+520,,Rentz,,,,,,,,,,,,,31075,32.370333,-82.96091,20211,2677,False
+521,,Resaca,,,,,,,,,,,,,30735,34.604648,-84.91926,23011,6334,False
+522,,Rex,,,,,,,,,,,,,30273,33.582877,-84.26906,29719,14663,False
+523,,Reynolds,,,,,,,,,,,,,31076,32.54748,-84.10042,19802,3414,False
+524,,Rhine,,,,,,,,,,,,,31077,31.953407,-83.18058,20714,1395,False
+525,,Riceboro,,,,,,,,,,,,,31323,31.658252,-81.48778,21571,1213,False
+526,,Richland,,,,,,,,,,,,,31825,32.109225,-84.66063,22500,2358,False
+527,,Richmond Hill,,,,,,,,,,,,,31374,31.913115500000004,-81.31830749999999,37143,25643,False
+528,,Rincon,,,,,,,,,,,,,31326,32.293147,-81.23006,34103,20230,False
+529,,Ringgold,,,,,,,,,,,,,30736,34.916552,-85.14435,29406,43149,False
+530,,Rising Fawn,,,,,,,,,,,,,30738,34.793833,-85.49945,23759,3766,False
+531,,Roberta,,,,,,,,,,,,,31078,32.702635,-84.03811,22416,2973,False
+532,,Rochelle,,,,,,,,,,,,,31079,31.933079,-83.45721999999998,24764,2161,False
+533,,Rock Spring,,,,,,,,,,,,,30739,34.801988,-85.21956,29036,6460,False
+534,,Rockledge,,,,,,,,,,,,,30454,32.432854,-82.72979000000002,18226,680,False
+535,,Rockmart,,,,,,,,,,,,,30153,33.987497,-85.05508,24357,18375,False
+536,,Rocky Face,,,,,,,,,,,,,30740,34.757918,-85.05879,28792,8457,False
+537,,Rocky Ford,,,,,,,,,,,,,30455,32.697762,-81.81036,22095,465,False
+538,,Roopville,,,,,,,,,,,,,30170,33.434562,-85.16973,25863,2943,False
+539,,Rossville,,,,,,,,,,,,,30741,34.96311,-85.27405,21496,28535,False
+540,,Royston,,,,,,,,,,,,,30662,34.270167,-83.12841999999998,19505,9077,False
+541,,Rupert,,,,,,,,,,,,,31081,32.419094,-84.28475,-666666666,72,False
+542,,Rutledge,,,,,,,,,,,,,30663,33.614556,-83.61157,20060,3052,False
+543,,Rydal,,,,,,,,,,,,,30171,34.346142,-84.73232,25700,3467,False
+545,,Saint Marys,,,,,,,,,,,,,31558,30.761081,-81.56912,29862,21307,False
+546,,Saint Simons Island,,,,,,,,,,,,,31522,31.176516,-81.3802,42933,16402,False
+547,,Sale City,,,,,,,,,,,,,31784,31.258794,-84.02897,25292,764,False
+548,,Sapelo Island,,,,,,,,,,,,,31327,31.423776,-81.27064,45649,187,False
+549,,Sardis,,,,,,,,,,,,,30456,32.969028,-81.79396,20675,1936,False
+550,,Sargent,,,,,,,,,,,,,30275,33.431181,-84.86733000000002,-666666666,0,False
+552,,Sautee Nacoochee,,,,,,,,,,,,,30571,34.696896,-83.68012,29688,3545,False
+553,,Scotland,,,,,,,,,,,,,31083,32.046427,-82.81923,22371,411,False
+554,,Scottdale,,,,,,,,,,,,,30079,33.791537,-84.25994,27753,2824,False
+555,,Screven,,,,,,,,,,,,,31560,31.515981,-82.04908,23512,2853,False
+556,,Sea Island,,,,,,,,,,,,,31561,31.198914,-81.332211,-666666666,39,False
+557,,Senoia,,,,,,,,,,,,,30276,33.281102000000004,-84.58017,34839,15245,False
+558,,Seville,,,,,,,,,,,,,31084,31.989039,-83.394574,14453,43,False
+559,,Shady Dale,,,,,,,,,,,,,31085,33.421694,-83.61433000000002,22500,1292,False
+560,,Shannon,,,,,,,,,,,,,30172,34.333308,-85.233721,23357,34286,False
+561,,Sharon,,,,,,,,,,,,,30664,33.560693,-82.80015,30500,28,False
+562,,Sharpsburg,,,,,,,,,,,,,30277,33.387534,-84.65511,39430,22247,False
+564,,Shiloh,,,,,,,,,,,,,31826,32.803518,-84.69384000000002,22196,2238,False
+565,,Siloam,,,,,,,,,,,,,30665,33.535009,-83.07786999999998,16375,67,False
+566,,Silver Creek,,,,,,,,,,,,,30173,34.145931,-85.14341999999998,25726,5799,False
+567,,Smarr,,,,,,,,,,,,,31086,32.989503000000006,-83.876108,25070,16459,False
+568,,Smithville,,,,,,,,,,,,,31787,31.901066,-84.25036999999998,21579,1566,False
+569,,Smyrna,,,,,,,,,,,,,30081,33.86458433333333,-84.58395999999998,40105,46577,False
+570,,Snellville,,,,,,,,,,,,,30058,33.841579499999995,-84.02757,31806,40975,False
+571,,Social Circle,,,,,,,,,,,,,30025,33.65072,-83.70779,31112,9308,False
+572,,Soperton,,,,,,,,,,,,,30457,32.387040999999996,-82.58272,21206,5885,False
+573,,Sparks,,,,,,,,,,,,,31628,31.178118,-83.4375115,18750,3660,False
+574,,Sparta,,,,,,,,,,,,,31087,33.260234999999994,-83.00647,20770,8685,False
+575,,Stapleton,,,,,,,,,,,,,30823,33.234802,-82.46303,18444,1837,False
+576,,Statenville,,,,,,,,,,,,,31648,30.703175,-83.02568000000002,26356,912,False
+577,,Statham,,,,,,,,,,,,,30666,33.957713,-83.58491,27892,10214,False
+578,,Stephens,,,,,,,,,,,,,30667,33.784316,-83.16666,25027,954,False
+579,,Stillmore,,,,,,,,,,,,,30464,32.439708,-82.22278,16429,83,False
+580,,Stockbridge,,,,,,,,,,,,,30281,33.547578,-84.21809,31020,67533,False
+581,,Stockton,,,,,,,,,,,,,31649,30.957421000000004,-83.00524,32178,1096,False
+582,,Stone Mountain,,,,,,,,,,,,,30086,33.81660425,-84.14583,26085,46658,False
+583,,Suches,,,,,,,,,,,,,30572,34.731084,-84.07943,21199,796,False
+584,,Sugar Valley,,,,,,,,,,,,,30746,34.574804,-85.02481999999998,21581,940,False
+586,,Summerville,,,,,,,,,,,,,30750,34.4871655,-85.337412,22099,15438,False
+587,,Sumner,,,,,,,,,,,,,31789,31.484091,-83.73515,24138,855,False
+588,,Sunny Side,,,,,,,,,,,,,30284,33.345253,-84.289814,25938,96,False
+589,,Surrency,,,,,,,,,,,,,31563,31.715778000000004,-82.19784,23250,1296,False
+590,,Suwanee,,,,,,,,,,,,,30024,34.052698,-84.07485,44131,77334,False
+591,,Sycamore,,,,,,,,,,,,,31790,31.652542,-83.57934,22479,1788,False
+592,,Talbotton,,,,,,,,,,,,,31827,32.683146,-84.52243,19152,2174,False
+593,,Talking Rock,,,,,,,,,,,,,30175,34.537611,-84.51135,22759,5544,False
+594,,Tallapoosa,,,,,,,,,,,,,30446,33.74653,-85.29001099999998,25903,6594,False
+595,,Tallulah Falls,,,,,,,,,,,,,30573,34.742007,-83.397716,49114,219,False
+596,,Talmo,,,,,,,,,,,,,30575,34.191571,-83.71124,26052,1533,False
+597,,Tarrytown,,,,,,,,,,,,,30470,32.309128,-82.52255,27708,338,False
+598,,Tate,,,,,,,,,,,,,30177,34.418116,-84.38462,36202,1427,False
+599,,Taylorsville,,,,,,,,,,,,,30178,34.113826,-84.97274,24628,2971,False
+600,,Temple,,,,,,,,,,,,,30179,33.76324,-85.02667,26907,19109,False
+601,,Tennga,,,,,,,,,,,,,30751,34.981449,-84.735233,28971,40,False
+602,,Tennille,,,,,,,,,,,,,31089,32.89115,-82.82775,21113,4695,False
+603,,The Rock,,,,,,,,,,,,,30285,32.995865,-84.25092,17227,639,False
+604,,Tiger,,,,,,,,,,,,,30576,34.846806,-83.48178,22466,2310,False
+605,,Tignall,,,,,,,,,,,,,30668,33.912362,-82.6684,19680,1452,False
+606,,Toomsboro,,,,,,,,,,,,,31090,32.801223,-83.06671,17121,959,False
+607,,Townsend,,,,,,,,,,,,,31331,31.547412,-81.3862,27430,7900,False
+608,,Trenton,,,,,,,,,,,,,30752,34.895625,-85.52702,25761,8463,False
+609,,Trion,,,,,,,,,,,,,30753,34.558404,-85.30301,22940,7330,False
+610,,Tunnel Hill,,,,,,,,,,,,,30755,34.85973,-85.03867,25581,8813,False
+611,,Turin,,,,,,,,,,,,,30289,33.32603,-84.637108,-666666666,276,False
+612,,Turnerville,,,,,,,,,,,,,30580,34.676584000000005,-83.43578000000002,25393,12230,False
+613,,Twin City,,,,,,,,,,,,,30471,32.547214000000004,-82.17048,18584,5085,False
+614,,Ty Ty,,,,,,,,,,,,,31795,31.47387,-83.66484,20161,1781,False
+615,,Tybee Island,,,,,,,,,,,,,31328,32.006671999999995,-80.84937,42413,3583,False
+616,,Tyrone,,,,,,,,,,,,,30290,33.48012,-84.58724000000002,40398,8677,False
+617,,Unadilla,,,,,,,,,,,,,31091,32.24473,-83.72075,21571,4353,False
+618,,Union City,,,,,,,,,,,,,30291,33.58087800000001,-84.54611,24219,21399,False
+619,,Union Point,,,,,,,,,,,,,30669,33.652489,-83.08856999999998,18477,3429,False
+620,,Upatoi,,,,,,,,,,,,,31829,32.557718,-84.73957,48500,956,False
+621,,Uvalda,,,,,,,,,,,,,30473,32.03096,-82.48796999999998,26115,2445,False
+623,,Varnell,,,,,,,,,,,,,30756,34.9298,-84.988536,18846,138,False
+624,,Vienna,,,,,,,,,,,,,31092,32.091578000000005,-83.79311,18784,7133,False
+625,,Waco,,,,,,,,,,,,,30182,33.658254,-85.23496999999998,19109,2498,False
+626,,Wadley,,,,,,,,,,,,,30477,32.872098,-82.4023,16288,2911,False
+627,,Waleska,,,,,,,,,,,,,30183,34.332315,-84.57700000000001,29380,6279,False
+628,,Walthourville,,,,,,,,,,,,,31333,31.77789000000001,-81.64534,28303,40916,False
+629,,Waresboro,,,,,,,,,,,,,31564,31.018954,-82.416543,25843,20624,False
+630,,Warrenton,,,,,,,,,,,,,30828,33.399555,-82.65655,19797,4205,False
+631,,Warthen,,,,,,,,,,,,,31094,33.125097,-82.81018,27788,1217,False
+632,,Warwick,,,,,,,,,,,,,31796,31.782466,-83.86973,18021,1130,False
+633,,Watkinsville,,,,,,,,,,,,,30677,33.849286,-83.41232,37228,18337,False
+634,,Waverly,,,,,,,,,,,,,31565,31.066479,-81.62656,28592,2008,False
+635,,Waverly Hall,,,,,,,,,,,,,31831,32.698622,-84.71552,26310,3556,False
+636,,Waynesboro,,,,,,,,,,,,,30830,33.080965,-81.9944,23614,13828,False
+637,,Waynesville,,,,,,,,,,,,,31566,31.144635,-81.83010999999998,18019,4839,False
+638,,West Green,,,,,,,,,,,,,31567,31.631943,-82.71829,23750,842,False
+639,,West Point,,,,,,,,,,,,,31833,32.867469,-85.13779,25285,7188,False
+640,,Weston,,,,,,,,,,,,,31832,31.973541,-84.62522,17973,274,False
+642,,White,,,,,,,,,,,,,30184,34.236128,-84.72539,27879,6612,False
+643,,White Oak,,,,,,,,,,,,,31568,31.003385,-81.79512,19242,685,False
+644,,White Plains,,,,,,,,,,,,,30678,33.46171,-83.05852,21266,1242,False
+645,,Whitesburg,,,,,,,,,,,,,30185,33.517698,-84.91725,22486,4160,False
+646,,Wildwood,,,,,,,,,,,,,30757,34.954188,-85.43231999999998,21163,2128,False
+647,,Wiley,,,,,,,,,,,,,30581,34.797611,-83.42329000000002,-666666666,33,False
+648,,Willacoochee,,,,,,,,,,,,,31650,31.37516500000001,-83.01949,22500,3404,False
+649,,Williamson,,,,,,,,,,,,,30292,33.169646,-84.37168,27884,5772,False
+650,,Winston,,,,,,,,,,,,,30187,33.670405,-84.83809000000002,35529,7918,False
+651,,Winterville,,,,,,,,,,,,,30683,33.954047,-83.2673,23920,6601,False
+652,,Woodbine,,,,,,,,,,,,,31569,30.915778000000003,-81.67924000000002,28438,5831,False
+653,,Woodbury,,,,,,,,,,,,,30293,32.973728,-84.5903,18898,2948,False
+654,,Woodland,,,,,,,,,,,,,31836,32.797475,-84.54095,23859,849,False
+655,,Woodstock,,,,,,,,,,,,,30188,34.112796,-84.52803,39541,50860,False
+656,,Wray,,,,,,,,,,,,,31798,31.621764,-83.05502,23705,843,False
+657,,Wrens,,,,,,,,,,,,,30833,33.200325,-82.37625,18634,3065,False
+658,,Wrightsville,,,,,,,,,,,,,31096,32.71732,-82.68926,20232,7046,False
+659,,Yatesville,,,,,,,,,,,,,31097,32.912207,-84.14811999999998,27000,1656,False
+660,,Young Harris,,,,,,,,,,,,,30582,34.954638,-83.86484,15867,5038,False
+661,,Zebulon,,,,,,,,,,,,,30295,33.101704999999995,-84.31251999999998,31654,4352,False
