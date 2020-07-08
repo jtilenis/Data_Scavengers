@@ -1,0 +1,543 @@
+,Hospital name,City,Hospital County,Acute Care Beds,YearFounded,Affiliation,Notes,Place ID,Hospital Latitude,Hospital Longitude,Street Address,State,Hospital Zip Code,Full Address,Census Zip Code,Census Latiude,Census Longitude,Census County,Population,Median Income
+0,AdventHealth Gordon,Calhoun,Gordon County,69,,AdventHealth,Formerly Gordon Hospital,ChIJfVjpjer9X4gRGK7NwGG_tbg,34.510205400000004,-84.9263043,1035 Red Bud Road Northeast,Georgia,30701.0,"1035 Red Bud Rd NE, Calhoun, GA 30701, USA",30703.0,34.479066,-84.76216099999998,Gordon County,40820,24110
+1,AdventHealth Murray,Chatsworth,Murray County,29,,AdventHealth,Formerly Murray Medical Center,ChIJ-U0scjndX4gRG-FoXnNaHI4,34.779955799999996,-84.7830378,707 Old Dalton Ellijay Road,Georgia,30705.0,"707 Old Dalton Ellijay Rd, Chatsworth, GA 30705, USA",30705.0,34.753129,-84.77502,Los Angeles County,33460,24457
+2,Archbold Memorial Hospital,Thomasville,Thomas County,264,1925,Archbold,,ChIJsxblg8q17YgR8XXHSBDuObQ,30.825169300000002,-83.9721278,915 Gordon Avenue,Georgia,31792.0,"915 Gordon Ave, Thomasville, GA 31792, USA",31758.0,30.868187,-83.927785,Thomas County,34781,24350
+3,Archbold - Brooks County Hospital,Quitman,Brooks County,25,,Archbold,,ChIJiyuklBp_7ogRmoGX5XNztMM,30.795038800000004,-83.559146,903 North Court Street,Georgia,31643.0,"903 N Court St, Quitman, GA 31643, USA",31643.0,30.783639,-83.55343,Wood County,9062,24644
+5,Archbold - Mitchell County Hospital,Camilla,Mitchell County,25,,Archbold,,ChIJswuXyhic7YgRuk38qsPrYt4,31.229772999999998,-84.2053167,90 East Stephens Street,Georgia,31730.0,"90 E Stephens St, Camilla, GA 31730, USA",31730.0,31.209854,-84.23666999999998,Mitchell County,8419,21584
+6,Beverly Knight Olson Children's Hospital,Macon,Bibb County,0,,Atrium/Navicent,,ChIJDyOjXYf-84gREfrs3wfa6is,32.8347369,-83.63654720000001,888 Pine Street,Georgia,31201.0,"888 Pine St, Macon, GA 31201, USA",31208.0,32.806707,-83.691315,Bibb County,163700,21279
+7,Coliseum Medical Centers,Macon,Bibb County,237,1971,HCA,,ChIJhYCxJGr-84gRK_dSQps0X5I,32.846841,-83.618814,350 Hospital Drive,Georgia,31217.0,"350 Hospital Dr, Macon, GA 31217, USA",31208.0,32.806707,-83.691315,Bibb County,163700,21279
+8,Coliseum Northside Hospital,Macon,Bibb County,103,1984,HCA,,ChIJ35QKcSP584gRiQKKoA2x3fU,32.8713155,-83.69459789999998,400 Charter Boulevard,Georgia,31210.0,"400 Charter Blvd, Macon, GA 31210, USA",31208.0,32.806707,-83.691315,Bibb County,163700,21279
+9,"The Medical Center, Navicent Health",Macon,Bibb County,639,1895,Atrium/Navicent,,ChIJccj0KX7-84gRK3nqvH5rtFI,32.833819500000004,-83.63654439999998,777 Hemlock Street,Georgia,31201.0,"777 Hemlock St, Macon, GA 31201, USA",31208.0,32.806707,-83.691315,Bibb County,163700,21279
+10,Bleckley Memorial Hospital,Cochran,Bleckley County,25,,â,,ChIJufSZq3Ju8YgRA57sJUnVeUY,32.3846628,-83.3466696,145 Peacock Street,Georgia,31014.0,"145 Peacock St, Cochran, GA 31014, USA",31014.0,32.397039,-83.3404,Dallas County,13265,22125
+11,"Cancer Treatment Centers of America, Atlanta",Newnan,Coweta County,0,2012,CTCA,,ChIJpVsvHDrG9IgRoTnJMqk9gxY,33.3846018,-84.7580613,600 Celebrate Life Parkway,Georgia,30265.0,"600 Celebrate Life Pkwy, Newnan, GA 30265, USA",30263.0,33.38779,-84.82536,Coweta County,93395,34158
+12,Piedmont Newnan Hospital,Newnan,Coweta County,143,,Piedmont,,ChIJcVBB8B3J9IgRp7oUvD0s4hY,33.35780160000001,-84.7551974,745 Poplar Road,Georgia,30265.0,"745 Poplar Rd, Newnan, GA 30265, USA",30263.0,33.38779,-84.82536,Coweta County,93395,34158
+13,Candler County Hospital,Metter,Candler County,25,,â,,ChIJrWBLz0Ny-ogR8R0ug_DBCQw,32.4071132,-82.06570110000001,400 Cedar Street,Georgia,30439.0,"400 Cedar St, Metter, GA 30439, USA",30439.0,32.414401,-82.05534,Candler County,10823,18192
+14,Cartersville Medical Center,Cartersville,Bartow County,112,,HCA,,ChIJR0MVh-pP9YgRj3CKiKfV8J4,34.201330600000006,-84.7945608,960 Joe Frank Harris Parkway Southeast,Georgia,30120.0,"960 Joe Frank Harris Pkwy SE, Cartersville, GA 30120, USA",30121.0,34.200264000000004,-84.77533000000003,Bartow County,64626,28639
+15,Chatuge Regional Hospital,Hiawassee,Towns County,137,,Union Regional,,ChIJv9VwMlwvX4gRInxd_l5gGEk,34.946750099999996,-83.75371249999998,110 South Main Street,Georgia,30546.0,"110 S Main St, Hiawassee, GA 30546, USA",30546.0,34.923846999999995,-83.7231,Towns County,6969,22820
+16,Children's Healthcare of Atlanta Egleston,Atlanta,DeKalb County,0,1928,CHOA,,ChIJR4J4LPoG9YgRJLnI9mqd85c,33.79349169999999,-84.3195325,1405 East Clifton Road Northeast,Georgia,30322.0,"1405 E Clifton Rd NE, Atlanta, GA 30322, USA",31150.0,33.844371,-84.47405,Fulton County,988350,37006
+17,Emory University Hospital,Atlanta,DeKalb County,569,,Emory,,ChIJyYqdV_oG9YgRPvDOKl57PEo,33.791418799999995,-84.32040390000002,1364 Clifton Road,Georgia,30322.0,"1364 Clifton Rd, Atlanta, GA 30322, USA",31150.0,33.844371,-84.47405,Fulton County,988350,37006
+18,University Hospital,Atlanta,DeKalb County,812,1818,University Health,,ChIJyYqdV_oG9YgRPvDOKl57PEo,33.791418799999995,-84.32040390000002,1364 Clifton Road,Georgia,30322.0,"1364 Clifton Rd, Atlanta, GA 30322, USA",31150.0,33.844371,-84.47405,Fulton County,988350,37006
+19,Children's Healthcare of Atlanta Hughes Spalding,Atlanta,Fulton County,0,1952,CHOA,,ChIJE0RlP4kD9YgRf-FdJvSfWXw,33.7539006,-84.38200929999998,Jesse Hill Junior Drive Southeast Downtown Atlanta,Georgia,30303.0,"35 Jesse Hill Jr Dr SE, Atlanta, GA 30303, USA",31150.0,33.844371,-84.47405,Fulton County,988350,37006
+20,Children's Healthcare of Atlanta Scottish Rite,Atlanta,Fulton County,0,1915,CHOA,,ChIJV-6vqjQJ9YgRhvQE1FyLn-g,33.9062197,-84.35319860000001,Johnson Ferry Road Northeast Perimeter Center,Georgia,30342.0,"1001 Johnson Ferry Rd NE, Atlanta, GA 30342, USA",31150.0,33.844371,-84.47405,Fulton County,988350,37006
+21,Emory Saint Joseph's Hospital,Atlanta,Fulton County,276,1880,Emory,Formerly Saint Joseph's Hospital of Atlanta,ChIJW3epPTQJ9YgRxf9a5U20qNg,33.908422200000004,-84.34985069999998,Peachtree Dunwoody Road Perimeter Center,Georgia,30342.0,"5665 Peachtree Dunwoody Rd, Atlanta, GA 30342, USA",31150.0,33.844371,-84.47405,Fulton County,988350,37006
+22,Emory University Hospital Midtown,Atlanta,Fulton County,511,1908,Emory,Formerly Crawford W. Long Memorial Hospital,ChIJ42AWonoE9YgRonLLiSdYxtA,33.7686596,-84.3864181,Peachtree Street Northeast SoNo,Georgia,30308.0,"550 Peachtree St NE, Atlanta, GA 30308, USA",31150.0,33.844371,-84.47405,Fulton County,988350,37006
+23,Grady Memorial Hospital,Atlanta,Fulton County,961,1892,â,,ChIJ6Rc8z44D9YgR28vCVjqbUGw,33.75178499999999,-84.3820071,Jesse Hill Junior Drive Southeast Downtown Atlanta,Georgia,30303.0,"80 Jesse Hill Jr Dr SE, Atlanta, GA 30303, USA",31150.0,33.844371,-84.47405,Fulton County,988350,37006
+24,Northside Hospital Atlanta,Atlanta,Fulton County,537,1970,Northside,,ChIJj6xqLcsO9YgRxOHBb9ihhFs,33.909069099999996,-84.3533506,Johnson Ferry Road Northeast Perimeter Center,Georgia,30342.0,"1000 Johnson Ferry Rd NE, Atlanta, GA 30342, USA",31150.0,33.844371,-84.47405,Fulton County,988350,37006
+25,Piedmont Atlanta Hospital,Atlanta,Fulton County,498,,Piedmont,,ChIJZ2L4-KkF9YgRtyK-3YkszI8,33.808755299999994,-84.3955567,Peachtree Road Northwest Buckhead,Georgia,30309.0,"1968 Peachtree Rd NW, Atlanta, GA 30309, USA",31150.0,33.844371,-84.47405,Fulton County,988350,37006
+26,St. Joseph's Hospital,Atlanta,Fulton County,330,1875,SJCHS,,ChIJW3epPTQJ9YgRxf9a5U20qNg,33.908422200000004,-84.34985069999998,Peachtree Dunwoody Road Perimeter Center,Georgia,30342.0,"5665 Peachtree Dunwoody Rd, Atlanta, GA 30342, USA",31150.0,33.844371,-84.47405,Fulton County,988350,37006
+27,St. Mary's Hospital,Atlanta,Fulton County,170,,St. Mary's,,ChIJW3epPTQJ9YgRxf9a5U20qNg,33.908422200000004,-84.34985069999998,Peachtree Dunwoody Road Perimeter Center,Georgia,30342.0,"5665 Peachtree Dunwoody Rd, Atlanta, GA 30342, USA",31150.0,33.844371,-84.47405,Fulton County,988350,37006
+28,Wellstar Atlanta Medical Center,Atlanta,Fulton County,460,1901,WellStar,,ChIJH9RgbwsE9YgRCefukbDOojs,33.76290650000001,-84.37296090000001,Parkway Drive Northeast Old Fourth Ward,Georgia,30312.0,"303 Parkway Dr NE, Atlanta, GA 30312, USA",31150.0,33.844371,-84.47405,Fulton County,988350,37006
+29,Clinch Memorial Hospital,Homerville,Clinch County,25,,â,,ChIJOVUVTv_A74gRxvY6G-i6X2g,31.03406279999999,-82.76426219999998,1050 Valdosta Highway,Georgia,31634.0,"1050 Valdosta Hwy, Homerville, GA 31634, USA",31634.0,31.062818,-82.72399,Clinch County,5622,20275
+30,Coffee Regional Medical Center,Douglas,Coffee County,88,,â,,ChIJLcfhrYIr8IgR0acnHrbZOcY,31.5106528,-82.8641026,1101 Ocilla Road,Georgia,31533.0,"1101 Ocilla Rd, Douglas, GA 31533, USA",31534.0,31.571596000000003,-82.85463100000003,Douglas County,28364,21687
+31,Colquitt Regional Medical Center,Moultrie,Colquitt County,84,,â,,ChIJIWDi3Bfo7YgR_tg8O9agiQU,31.125797600000002,-83.7803079,3131 South Main Street,Georgia,31768.0,"3131 S Main St, Moultrie, GA 31768, USA",31776.0,31.172696,-83.792379,Colquitt County,22858,21032
+32,Crisp Regional Hospital,Cordele,Crisp County,216,,â,,ChIJqRaPg9868ogREPx8lk5K7Wc,31.9775429,-83.7813123,902 7th Street North,Georgia,31015.0,"902 7th St N, Cordele, GA 31015, USA",31010.0,31.917178000000003,-83.785365,Crisp County,21549,17401
+33,Doctors Hospital of Augusta,Augusta,Richmond County,350,,HCA,,ChIJUQsUUbHT-YgRnAog9l02vWY,33.4862825,-82.09453559999999,3651 Wheeler Road,Georgia,30909.0,"3651 Wheeler Rd, Augusta, GA 30909, USA",30919.0,33.386041,-82.09099599999998,Richmond County,204303,23481
+34,University Hospital Summerville,Augusta,Richmond County,121,1952,University Health,Formerly Trinity Hospital of Augusta,ChIJkZdVPcLN-YgRcVe9hQlppfk,33.4661721,-82.0179381,2260 Wrightsboro Road,Georgia,30904.0,"2260 Wrightsboro Rd, Augusta, GA 30904, USA",30919.0,33.386041,-82.09099599999998,Richmond County,204303,23481
+35,Augusta University Children's Hospital of Georgia,Augusta,Richmond County,154,,Augusta University,,ChIJoyV_F0jM-YgRqAe60-Abauk,33.4711383,-81.9877743,Harper Street Medical District,Georgia,30912.0,"1446 Harper St, Augusta, GA 30912, USA",30919.0,33.386041,-82.09099599999998,Richmond County,204303,23481
+36,Augusta University Medical Center,Augusta,Richmond County,478,,Augusta University,,ChIJyX-W70nM-YgRtaRCmY78n_g,33.47134919999999,-81.98789740000001,15th Street Medical District,Georgia,30912.0,"1120 15th St, Augusta, GA 30912, USA",30919.0,33.386041,-82.09099599999998,Richmond County,204303,23481
+37,Dodge County Hospital,Eastman,Dodge County,94,,â,,ChIJdz0oTxAK8YgRn2b4G99tKZ8,32.185393100000006,-83.17796330000002,901 Griffin Avenue,Georgia,31023.0,"901 Griffin Ave, Eastman, GA 31023, USA",31023.0,32.193953,-83.1848,Dodge County,14276,21081
+39,Dorminy Medical Center,Fitzgerald,Ben Hill County,75,1974,â,previously Phoebe Dorminy Medical Center,ChIJ2Rmp39zp8YgR3Iam7NxuUcE,31.697478999999998,-83.2599627,200 Perry House Road,Georgia,31750.0,"200 Perry House Rd, Fitzgerald, GA 31750, USA",31750.0,31.720029,-83.25093000000003,Tulsa County,18322,20822
+40,East Georgia Regional Medical Center,Statesboro,Bulloch County,150,,â,,ChIJg8R4YCVH-ogRKm5rXPqqwx0,32.4144578,-81.7704395,1499 Fair Road,Georgia,30458.0,"1499 Fair Rd, Statesboro, GA 30458, USA",30458.0,32.423083,-81.80677,Bulloch County,60042,16624
+41,Effingham Hospital,Springfield,Effingham County,0,1969,â,,ChIJs0bfpe-8-4gRA3iAKUxVT_M,32.3643089,-81.32048189999998,459 Georgia 119,Georgia,31329.0,"459 GA-119, Springfield, GA 31329, USA",31329.0,32.390879,-81.32427,Greene County,9950,27305
+42,Elbert Memorial Hospital,Elberton,Elbert County,52,,â,,ChIJyRlS42_N94gR6CMAx3duHO0,34.113265399999996,-82.8746791,4 Medical Drive,Georgia,30635.0,"4 Medical Dr, Elberton, GA 30635, USA",30635.0,34.119972,-82.825,Elbert County,14964,21478
+43,Emanuel Medical Center,Swainsboro,Emanuel County,94,,â,,ChIJiwDEKIqk8IgRJtwtnSxMTxM,32.592759,-82.3471716,117 Kight Road,Georgia,30401.0,"117 Kight Rd, Swainsboro, GA 30401, USA",30401.0,32.605196,-82.3391,Emanuel County,13598,20101
+44,Emory Decatur Hospital,Decatur,DeKalb County,628,1961,Emory,,ChIJudei5nAH9YgRT0IzRi5kGiI,33.7908318,-84.2828507,2701 North Decatur Road,Georgia,30033.0,"2701 N Decatur Rd, Decatur, GA 30033, USA",30034.0,33.693448,-84.24743000000002,DeKalb County,180825,32843
+45,St. Francis Hospital,Decatur,DeKalb County,360,1950,Emory,,ChIJrzBX-3gH9YgRpeQf21LpXF4,33.795761,-84.27695399999998,Dekalb Industrial Way Greater Valley Brook,Georgia,30033.0,"625 Dekalb Industrial Way, Decatur, GA 30033, USA",30034.0,33.693448,-84.24743000000002,DeKalb County,180825,32843
+46,Emory Hillandale Hospital,Lithonia,DeKalb County,100,2005,Emory,,ChIJ99FXMlSs9YgR8f6ru3JZyEU,33.7057547,-84.1479978,2801 Dekalb Medical Parkway,Georgia,30058.0,"2801 Dekalb Medical Pkwy, Lithonia, GA 30058, USA",30058.0,33.750257,-84.0964,DeKalb County,96762,28433
+48,Emory University Orthopaedics & Spine Hospital,Tucker,DeKalb County,0,,Emory,,ChIJKWjtUqkQ9YgR4N3RrVCKe8E,33.826251899999995,-84.2483606,1455 Montreal Road East,Georgia,30084.0,"1455 Montreal Rd E, Tucker, GA 30084, USA",30084.0,33.853853,-84.22036,DeKalb County,38484,33845
+49,Evans Memorial Hospital,Claxton,Evans County,209,,â,,ChIJDwv9jOdg-ogR8PUP4RBslJ0,32.16619130000001,-81.8987728,200 North River Street,Georgia,30417.0,"200 N River St, Claxton, GA 30417, USA",30417.0,32.162077000000004,-81.90984,Evans County,10777,23948
+51,Flint River Hospital,Montezuma,Macon County,49,,â,,ChIJUWYbh-Wz84gR79-FKWYcn-Q,32.29406969999999,-84.02999390000001,509 Sumter Street,Georgia,31063.0,"509 Sumter St, Montezuma, GA 31063, USA",31063.0,32.293293,-83.98913,Gray County,4928,18672
+52,Floyd Medical Center,Rome,Floyd County,278,,Floyd,,ChIJi7Rq8JekiogRQinBUmO28MM,34.2592219,-85.17846390000001,304 Turner McCall Boulevard,Georgia,30165.0,"304 Turner McCall Blvd, Rome, GA 30165, USA",30163.0,34.333308,-85.233721,Metropolitan City of Rome,76247,23770
+53,Redmond Regional Medical Center,Rome,Floyd County,230,,HCA,,ChIJZxYbanmjiogRpqvQTEClF_A,34.276808200000005,-85.19488419999998,501 Redmond Road,Georgia,30165.0,"501 Redmond Rd, Rome, GA 30165, USA",30163.0,34.333308,-85.233721,Metropolitan City of Rome,76247,23770
+54,Floyd Polk Medical Center,Cedartown,Polk County,18,,Floyd,,ChIJufAiezXAiogRCpDiPvFPt2g,34.0139172,-85.19656429999998,2360 Rockmart Highway,Georgia,30125.0,"2360 Rockmart Hwy, Cedartown, GA 30125, USA",30125.0,34.010162,-85.25761999999997,Polk County,23814,23343
+55,Hamilton Medical Center,Dalton,Whitfield County,282,1921,â,,ChIJi34aVuJ0YIgRwf8bLkcvC2A,34.789979100000004,-84.9848301,1200 Memorial Drive,Georgia,30720.0,"1200 Memorial Dr, Dalton, GA 30720, USA",30721.0,34.780699,-84.93994,Whitfield County,81843,25269
+57,Houston Healthcare - Houston Medical Center,Warner Robins,Houston County,237,,Houston Healthcare,,ChIJWUuYi6bh84gRoP6_yC4giIg,32.6163277,-83.63124140000001,1601 Watson Boulevard,Georgia,31093.0,"1601 Watson Blvd, Warner Robins, GA 31093, USA",31088.0,32.594698,-83.64873,Houston County,86531,28110
+58,Houston Healthcare - Perry Hospital,Perry,Houston County,45,,Houston Healthcare,,ChIJS6xFU4Xb84gRODnDHzXvyAA,32.4590571,-83.71000240000001,1120 Morningside Drive,Georgia,31069.0,"1120 Morningside Dr, Perry, GA 31069, USA",31069.0,32.460791,-83.73541,Noble County,20167,25963
+59,Irwin County Hospital,Ocilla,Irwin County,34,,â,,ChIJKxuQ74nn8YgRaGMYifM8ly4,31.6033848,-83.2513457,710 North Irwin Avenue,Georgia,31774.0,"710 N Irwin Ave, Ocilla, GA 31774, USA",31774.0,31.586426,-83.27583,Irwin County,6737,17566
+60,Jasper Memorial Hospital,Monticello,Jasper County,17,,,,ChIJsVV_tC8i9IgRAlKZNzp-g70,33.3144199,-83.68651009999999,898 College Street,Georgia,31064.0,"898 College St, Monticello, GA 31064, USA",31064.0,33.319093,-83.70862,Albemarle County,9071,22079
+61,Jeff Davis Hospital,Hazlehurst,Jeff Davis County,25,,â,,ChIJ6S2zZ4FB8IgRqyjs6aCntzU,31.85704,-82.6074229,163 South Tallahassee Street,Georgia,31539.0,"163 S Tallahassee St, Hazlehurst, GA 31539, USA",31539.0,31.844772,-82.59809,Jeff Davis County,14645,21532
+62,Jenkins County Medical Center,Millen,Jenkins County,25,,â,Formerly Optim Medical Center - Jenkins,ChIJRR6j-BYe-ogRpdBfmMJlWYw,32.8042804,-81.93440090000001,931 East Winthrope Avenue,Georgia,30442.0,"931 E Winthrope Ave, Millen, GA 30442, USA",30442.0,32.802448,-81.98380999999998,Jenkins County,7617,17210
+63,Liberty Regional Medical Center,Hinesville,Liberty County,25,1961,â,,ChIJPVTG4Xfk-ogRgYqvtayCISw,31.8394772,-81.60097549999998,462 Elma G Miles Parkway,Georgia,31313.0,"462 Elma G Miles Pkwy, Hinesville, GA 31313, USA",31310.0,31.806832,-81.437074,Liberty County,40916,28303
+65,Meadows Regional Medical Center,Vidalia,Toombs County,122,,â,,ChIJB-zIEqaI8IgRwu2K8HbMKAk,32.2091036,-82.3757392,1 Meadows Parkway,Georgia,30474.0,"1 Meadows Pkwy, Vidalia, GA 30474, USA",30475.0,32.177513,-82.373889,Toombs County,16665,21886
+66,Medical Center of Peach County,Byron,Peach County,0,1953/2013,Atrium/Navicent,,ChIJhQByrNnB84gRVJmygAxHzmk,32.604915399999996,-83.75933559999999,1960 Georgia 247 Connector,Georgia,31008.0,"1960 GA-247CONN, Byron, GA 31008, USA",31008.0,32.652313,-83.75918,Cook County,18381,31807
+68,Memorial Satilla Health,Waycross,Ware County,345,,HCA,"formerly Mayo Clinic Health System in Waycross, previously Satilla Regional Medical Center",ChIJHUznLYf674gR0sU7ZBx9V1M,31.225119199999998,-82.3480412,1900 Tebeau Street,Georgia,31501.0,"1900 Tebeau St, Waycross, GA 31501, USA",31502.0,31.018954,-82.416543,Ware County,35587,23868
+70,Monroe County Hospital,Forsyth,Monroe County,25,,Navicent Partner,,ChIJfc9fBFtz9IgRZ9FQSuA2dW0,33.0314778,-83.9453995,88 Martin Luther King Junior Drive,Georgia,31029.0,"88 Martin Luther King Jr Dr, Forsyth, GA 31029, USA",31029.0,33.0409,-83.92941,Forsyth County,16459,25070
+71,Morgan Medical Center,Madison,Morgan County,46,,â,Formerly Morgan Memorial Hospital,ChIJ9w0kVeuH9ogRjgYxzKEaUSo,33.569366200000005,-83.47203069999998,1740 Lions Club Road,Georgia,30650.0,"1740 Lions Club Rd, Madison, GA 30650, USA",30650.0,33.588436,-83.47936,Dane County,12063,28750
+72,Navicent Health Baldwin,Milledgeville,Baldwin County,140,,Atrium/Navicent,formerly Oconee Regional Medical Center,ChIJWeo-JuHH9ogRA-irUFcLAec,33.0896828,-83.2453926,821 North Cobb Street,Georgia,31061.0,"821 N Cobb St, Milledgeville, GA 31061, USA",31061.0,33.083579,-83.23397,Baldwin County,44261,18000
+73,Northeast Georgia Medical Center Gainesville,Gainesville,Hall County,557,1951,NGMC,,ChIJu425Mff29YgRlANVFgFPZzE,34.303933799999996,-83.8157729,743 Spring Street Northeast,Georgia,30501.0,"743 Spring St NE, Gainesville, GA 30501, USA",30504.0,34.274355,-83.87003,Alachua County,131139,25865
+74,Northeast Georgia Medical Center Barrow,Winder,Barrow County,80,1951,NGMC,Formerly Barrow Regional Medical Center,ChIJ9-jdmm_n9YgRbzx065u0s6Q,34.0081396,-83.70777259999998,316 North Broad Street,Georgia,30680.0,"316 N Broad St, Winder, GA 30680, USA",30680.0,33.992538,-83.71061,Barrow County,42975,26214
+75,Northeast Georgia Medical Center Braselton,Braselton,Hall County,100,2015,NGMC,Formerly River Place Braselton,ChIJNbCdyZru9YgRsl32junsBN4,34.120048,-83.83809690000001,1400 River Place,Georgia,30517.0,"1400 River Pl, Braselton, GA 30517, USA",30517.0,34.121974,-83.78604,Jackson County,14657,37419
+76,Northeast Georgia Medical Center Lumpkin,Dahlonega,Lumpkin County,49,,NGMC,facility was previously Chestatee Regional Hospital,ChIJZ0ACOptnX4gRWbwEZPlRNV4,34.5229731,-83.97576109999999,227 Mountain Drive,Georgia,30533.0,"227 Mountain Dr, Dahlonega, GA 30533, USA",30597.0,34.527671000000005,-83.980879,Lumpkin County,26683,22180
+77,Northridge Medical Center,Commerce,Jackson County,239,,â,,ChIJ4y_Nul4E9ogRNp14C3hJthg,34.2192326,-83.46840959999999,70 Medical Center Drive,Georgia,30529.0,"70 Medical Center Dr, Commerce, GA 30529, USA",30529.0,34.210423,-83.46842,Jackson County,17765,25697
+78,Northside Hospital Cherokee,Canton,Cherokee County,158,1962,Northside,,ChIJpzNA3K1l9YgR82VVbj9Td2g,34.22934740000001,-84.46654989999998,450 Northside Cherokee Boulevard,Georgia,30115.0,"450 Northside Cherokee Blvd, Canton, GA 30115, USA",30114.0,34.228478,-84.50402,Stark County,94315,34793
+79,Northside Hospital Duluth,Duluth,Gwinnett County,0,1944,Northside,Formerly Gwinnett Medical Center-Duluth,ChIJV25bIW2i9YgRw6nzzvOr02I,34.0001637,-84.163558,3620 Howell Ferry Road Northwest,Georgia,30096.0,"3620 Howell Ferry Rd NW, Duluth, GA 30096, USA",30098.0,33.960353000000005,-84.037859,St. Louis County,114864,38852
+80,Northside Hospital Forsyth,Cumming,Forsyth County,304,,Northside,,ChIJndk3udma9YgRmd0FILa5_DM,34.1780271,-84.1407069,1200 Northside Forsyth Drive,Georgia,30041.0,"1200 Northside Forsyth Dr, Cumming, GA 30041, USA",30041.0,34.201503,-84.09764,Forsyth County,162019,41386
+81,Northside Hospital Gwinnett,Lawrenceville,Gwinnett County,576,1959,Northside,formerly Gwinnett Medical Center-Lawrenceville,ChIJCQA6O4C-9YgRwzbhPR7tHUI,33.9631697,-84.01749090000001,1000 Medical Center Boulevard,Georgia,30046.0,"1000 Medical Center Blvd, Lawrenceville, GA 30046, USA",30043.0,34.001159,-84.01487,Gwinnett County,256112,31355
+82,Optim Medical Center - Screven,Sylvania,Screven County,0,,Optim,,ChIJ43a37gEp-ogRYXG9Xfv-mGw,32.7498791,-81.64680709999998,215 Mims Road,Georgia,30467.0,"215 Mims Rd, Sylvania, GA 30467, USA",30467.0,32.754635,-81.63543,Johnson County,12070,22345
+83,Optim Medical Center - Tattnall,Reidsville,Tattnall County,0,,Optim,previously Doctors Hospital of Tattnall,ChIJLZ964DuH-ogRgN4c2iIngI8,32.0805406,-82.10897849999998,247 South Main Street,Georgia,30453.0,"247 S Main St, Reidsville, GA 30453, USA",30453.0,32.057356,-82.1214,Rockingham County,10775,14460
+84,Phoebe Putney Memorial Hospital,Albany,Dougherty County,420,1911,Phoebe,,ChIJz2fdPtl78ogRmBBAmMeQr5A,31.590934000000004,-84.15786700000001,417 3rd Avenue West,Georgia,31701.0,"417 3rd Ave W, Albany, GA 31701, USA",31700.0,31.564274,-84.165407,Albany County,97727,23621
+85,Phoebe Putney Memorial Hospital - North Campus,Albany,Dougherty County,248,1971,Phoebe,formerly Palmyra Medical Center,ChIJ3yDUnut78ogRuJEtM2bq9bA,31.6063022,-84.1689281,2000 Palmyra Road,Georgia,31701.0,"2000 Palmyra Rd, Albany, GA 31701, USA",31700.0,31.564274,-84.165407,Albany County,97727,23621
+86,Phoebe Sumter Medical Center,Americus,Sumter County,76,1952/2011,Phoebe,,ChIJL4GQ3elX8ogRUDrGxodiFyY,32.06690460000001,-84.25558840000001,126 U.S. 280,Georgia,31719.0,"126 US-280, Americus, GA 31719, USA",31719.0,32.085491,-84.25266500000002,Sumter County,24804,21422
+87,Phoebe Worth Medical Center,Sylvester,Worth County,25,,Phoebe,,ChIJwWEL7IQJ8ogRTMAwzjXHREg,31.511806099999998,-83.8403001,807 South Isabella Street,Georgia,31791.0,"807 S Isabella St, Sylvester, GA 31791, USA",31791.0,31.536886,-83.86041,Worth County,12138,23805
+89,Piedmont Columbus Regional - Midtown,Columbus,Muscogee County,583,1982,Piedmont,Formerly Midtown Medical Center,ChIJO73PkM_NjIgR9BqzLSabVsM,32.4802456,-84.9824948,710 Center Street,Georgia,31901.0,"710 Center St, Columbus, GA 31901, USA",31906.0,32.468442,-84.95128000000003,Franklin County,176213,22279
+90,Piedmont Columbus Regional - Northside,Columbus,Muscogee County,100,,Piedmont,facility was previously Jack Hughston Memorial Hospital [4],ChIJU_E0e1rLjIgRUNL3PnI_vc4,32.534584,-84.95118199999999,100 Frist Court,Georgia,31909.0,"100 Frist Ct, Columbus, GA 31909, USA",31906.0,32.468442,-84.95128000000003,Franklin County,176213,22279
+91,Piedmont Fayette Hospital,Fayetteville,Fayette County,300,,Piedmont,,ChIJZfvWaSfv9IgRO0Er_vksXXU,33.4527476,-84.5081318,1255 Highway 54 West,Georgia,30214.0,"1255 Hwy 54 W, Fayetteville, GA 30214, USA",30214.0,33.47875,-84.47668,Cumberland County,66058,36318
+92,Piedmont Mountainside Hospital,Jasper,Pickens County,35,,Piedmont,,ChIJYY_e2pmIX4gRm7F9jNiSS2U,34.445617999999996,-84.4481517,1266 Georgia 515,Georgia,30143.0,"1266 GA-515, Jasper, GA 30143, USA",30143.0,34.454934,-84.41583,Division No. 15,21487,30317
+93,Piedmont Newton Hospital,Covington,Newton County,97,1954,Piedmont,"Joined Piedmont Healthcare October 1, 2015[5]; Formerly Newton Medical Center",ChIJH9lU1_Y09IgR9XQ2zbkDfas,33.6013604,-83.8478329,5126 Hospital Drive Northeast,Georgia,30014.0,"5126 Hospital Dr NE, Covington, GA 30014, USA",30014.0,33.581406,-83.851,Kenton County,92687,25747
+94,Piedmont Rockdale Hospital,Conyers,Rockdale County,138,,Piedmont,formerly Rockdale Medical Center,ChIJuSz3VZe09YgRDST4yZ0r8CQ,33.680682,-84.00149180000003,1412 Milstead Avenue Northeast,Georgia,30012.0,"1412 Milstead Ave NE, Conyers, GA 30012, USA",30012.0,33.696714,-84.01732,Rockdale County,88901,29512
+95,Piedmont Walton Hospital,Monroe,Walton County,135,,Piedmont,formerly Clearview Regional Medical Center,ChIJaRUeC_fQ9YgR233yHfGn51k,33.79880929999999,-83.75027109999998,2151 West Spring Street,Georgia,30655.0,"2151 W Spring St, Monroe, GA 30655, USA",30656.0,33.857423,-83.71899,Ouachita Parish,41339,27809
+96,Putnam General Hospital,Eatonton,Putnam County,25,,Navicent Partner,,ChIJs7uOmNuW9ogRM349HrEZnXI,33.3356127,-83.37114910000003,101 Lake Oconee Parkway,Georgia,31024.0,"101 Lake Oconee Pkwy, Eatonton, GA 31024, USA",31024.0,33.318579,-83.35432,Putnam County,20438,26389
+97,South Georgia Medical Center,Valdosta,Lowndes County,335,1955,SGMC,,ChIJ66lsp6ln7ogRevC7JIyEYdI,30.8616385,-83.2861741,2501 North Patterson Street,Georgia,31602.0,"2501 N Patterson St, Valdosta, GA 31602, USA",31606.0,30.802411,-83.19624,Lowndes County,95635,21046
+98,South Georgia Medical Center Berrien,Nashville,Berrien County,51,1965,SGMC,Formerly Berrien County Hospital,ChIJm5u1EpI97ogRJUmO7M4AcSU,31.203059999999997,-83.238716,1221 East Mcpherson Avenue,Georgia,31639.0,"1221 E Mcpherson Ave, Nashville, GA 31639, USA",31639.0,31.199,-83.2188,Davidson County,10237,21910
+99,South Georgia Medical Center Lanier,Lakeland,Lanier County,25,1950,SGMC,Formerly Louis Smith Memorial Hospital,ChIJr4y6kdBH7ogRNZFs0czCyEc,31.04234200000001,-83.086298,116 West Thigpen Avenue,Georgia,31635.0,"116 W Thigpen Ave, Lakeland, GA 31635, USA",31635.0,31.055578000000004,-83.07103000000002,Polk County,6602,20662
+100,Southeast Georgia Health System Brunswick,Brunswick,Glynn County,316,1866/1955,SGHS,,ChIJ1-_OK5DX5IgRdflE39bCudw,31.175415,-81.48448590000001,2415 Parkwood Drive,Georgia,31520.0,"2415 Parkwood Dr, Brunswick, GA 31520, USA",31525.0,31.260995,-81.49831999999998,Medina County,66927,24587
+102,Southern Regional Medical Center,Riverdale,Clayton County,331,1971,â,,ChIJRTfSZYf79IgROf81g6_n6Ik,33.5793831,-84.3896726,11 Upper Riverdale Road,Georgia,30274.0,"11 Upper Riverdale Rd, Riverdale, GA 30274, USA",30296.0,33.564711,-84.43987,Sumner County,64018,24951
+103,Southwell Medical Center,Adel,Cook County,60,2019,Southwell,replaced Cook Medical Center,ChIJi04_F4EN7ogR9azyo4HRENU,31.1087864,-83.4267703,260 M J Taylor Road,Georgia,31620.0,"260 M J Taylor Rd, Adel, GA 31620, USA",31620.0,31.133004,-83.42736,Dallas County,10836,25632
+104,Southwell Tift Regional Medical Center,Tifton,Tift County,181,1965,Southwell,,ChIJty7M0_P98YgRxER4yfdK-_0,31.471027799999998,-83.49113969999998,901 18th Street,Georgia,31794.0,"901 18th St, Tifton, GA 31794, USA",31793.0,31.485438,-83.503621,Tift County,36948,25598
+106,St. Mary's Good Samaritan Hospital,Greensboro,Greene County,25,,St. Mary's,,ChIJKYKV_9D19ogRqw0G2t8nSz0,33.4814149,-83.2421769,5401 Lake Oconee Parkway,Georgia,30642.0,"5401 Lake Oconee Pkwy, Greensboro, GA 30642, USA",30642.0,33.547041,-83.19797,Guilford County,11949,28823
+107,St. Mary's Sacred Heart Hospital,Lavonia,Franklin County,56,,St. Mary's,formerly Ty Cobb Regional Medical Center,ChIJy47AHbCbWIgR3ABU0UH--bI,34.4405739,-83.1317579,367 Clear Creek Drive,Georgia,30553.0,"367 Clear Creek Dr, Lavonia, GA 30553, USA",30553.0,34.450501,-83.09448,Franklin County,7994,23650
+108,Stephens County Hospital,Toccoa,Stephens County,96,,â,,ChIJYd5YCFi5WIgRmg1mIwWVKIU,34.5929016,-83.3479768,163 Hospital Road,Georgia,30577.0,"163 Hospital Rd, Toccoa, GA 30577, USA",30598.0,34.597674,-83.36206999999997,Stephens County,21204,20782
+109,Tanner Medical Center Carrollton,Carrollton,Carroll County,201,1949,Tanner,,ChIJla3puAgvi4gRvcfXoTSjZJM,33.5697063,-85.0743578,705 Dixie Street,Georgia,30117.0,"705 Dixie St, Carrollton, GA 30117, USA",30119.0,33.618931,-85.073582,Dallas County,61916,17138
+110,Tanner Medical Center Villa Rica,Villa Rica,Carroll County,80,1955/2003,Tanner,,ChIJLeUeBRkr9YgRnP7T9_KqCgg,33.744505600000004,-84.9167497,601 Dallas Highway,Georgia,30180.0,"601 Dallas Hwy, Villa Rica, GA 30180, USA",30180.0,33.718079,-84.92356,Carroll County,37325,31256
+111,Taylor Regional Hospital,Hawkinsville,Pulaski County,55,1936,â,,ChIJ_2D6gIrX84gRzcPaLDIpARI,32.296372999999996,-83.48411639999998,222 Perry Highway,Georgia,31036.0,"222 Perry Hwy, Hawkinsville, GA 31036, USA",31036.0,32.270314,-83.48517,Pulaski County,12322,22063
+112,Union General Hospital,Blairsville,Union County,45,1959,Union Regional,,ChIJjWZD7IgXX4gR__9EVe5emBc,34.8859816,-83.96260509999998,35 Hospital Road,Georgia,30512.0,"35 Hospital Rd, Blairsville, GA 30512, USA",30514.0,34.903398,-84.01915699999998,Union County,21080,24412
+113,University Hospital McDuffie,Thomson,McDuffie County,25,,University Health,Formerly McDuffie Regional Medical Center,ChIJ-2cJIphz94gRcqrR6rDI6Kg,33.523061,-82.50182029999998,2460 Washington Road,Georgia,30824.0,"2460 Washington Rd, Thomson, GA 30824, USA",30824.0,33.490536,-82.5028,Labette County,17025,21449
+114,Upson Regional Medical Center,Thomaston,Upson County,120,,â,,ChIJc5dLsJV-84gRpOVOMhpTcKg,32.8858696,-84.33678540000001,801 West Gordon Street,Georgia,30286.0,"801 W Gordon St, Thomaston, GA 30286, USA",30286.0,32.895794,-84.33084000000002,Upson County,22085,22114
+115,Warm Springs Medical Center,Warm Springs,Meriwether County,104,1957,â,,ChIJxU4xorFe84gR0xfv0kjlFpk,32.8893309,-84.68321800000001,5995 Spring Street,Georgia,31830.0,"5995 Spring St, Warm Springs, GA 31830, USA",31830.0,32.896166,-84.71191,Meriwether County,2571,16714
+116,Washington County Regional Medical Center,Sandersville,Washington County,116,1961,â,,ChIJjbK7_cUu94gR775aF55a_zE,32.9959208,-82.80407840000001,610 Sparta Road,Georgia,31082.0,"610 Sparta Rd, Sandersville, GA 31082, USA",31082.0,32.984528999999995,-82.8375,Washington County,9636,22395
+117,Wayne Memorial Hospital,Jesup,Wayne County,115,1896,â,,ChIJufklTPS4-ogRUylFvMwF_jc,31.6008418,-81.90010939999998,865 South 1st Street,Georgia,31545.0,"865 S 1st St, Jesup, GA 31545, USA",31598.0,31.578181,-81.880222,Wayne County,23755,21266
+118,WellStar Cobb Hospital,Austell,Cobb County,368,,WellStar,,ChIJW4JGDyI39YgRLF1itT32KfI,33.85702980000001,-84.60479620000001,3950 Austell Road Southwest,Georgia,30106.0,"3950 Austell Rd SW, Austell, GA 30106, USA",30168.0,33.797456,-84.60621,Cobb County,48043,27179
+119,WellStar Douglas Hospital,Douglasville,Douglas County,102,1946,WellStar,,ChIJsWWRGvgm9YgRf8NGAxYeVlc,33.7389784,-84.7318315,8954 Hospital Drive,Georgia,30134.0,"8954 Hospital Dr, Douglasville, GA 30134, USA",30154.0,33.68966,-84.74459499999998,Douglas County,110248,30083
+120,WellStar Kennestone Hospital,Marietta,Cobb County,633,,WellStar,,ChIJQVepTEYU9YgRoKS935JAFIM,33.96986570000001,-84.55178719999998,677 Church Street,Georgia,30060.0,"677 Church St, Marietta, GA 30060, USA",30006.0,33.912473,-84.557181,Cobb County,322628,37165
+121,WellStar North Fulton Hospital,Roswell,Fulton County,202,1983,WellStar,Formerly North Fulton Regional Hospital,ChIJAURpBvl09YgR8laXHFf66_4,34.062673100000005,-84.32048409999999,3000 Hospital Boulevard,Georgia,30076.0,"3000 Hospital Blvd, Roswell, GA 30076, USA",30077.0,33.844371,-84.47405,Chaves County,99770,42613
+122,WellStar Paulding Hospital,Hiram,Paulding County,216,1954,WellStar,,ChIJMzJn-How9YgRhhfE1kXnu30,33.901053000000005,-84.7816248,2518 Jimmy Lee Smith Parkway,Georgia,30141.0,"2518 Jimmy Lee Smith Pkwy, Hiram, GA 30141, USA",30141.0,33.867574,-84.77103000000002,Paulding County,23326,31176
+123,WellStar Spalding Regional Hospital,Griffin,Spalding County,160,,WellStar,Formerly Spalding Regional Medical Center,ChIJyexMgeBh9IgRxUd1HX227ns,33.2393061,-84.2672705,601 South 8th Street,Georgia,30224.0,"601 S 8th St, Griffin, GA 30224, USA",30224.0,33.215454,-84.25426999999998,Muskogee County,62128,23932
+124,WellStar Sylvan Grove Hospital,Jackson,Butts County,21,,WellStar,,ChIJB5o2d9JB9IgRr-4NjnGt52c,33.3038136,-83.97775999999998,1050 McDonough Road,Georgia,30233.0,"1050 McDonough Rd, Jackson, GA 30233, USA",30233.0,33.294522,-83.97568000000003,Montgomery County,23245,24625
+127,Candler Hospital,Savannah,Chatham County,384,1804,SJCHS,"Oldest hospital in Georgia, and second oldest in continuous operation in the U.S.",ChIJpb2fD5N1-4gRM-PXE90FV6c,32.0278294,-81.1001261,Reynolds Street Midtown,Georgia,31405.0,"5353 Reynolds St, Savannah, GA 31405, USA",31498.0,31.971394,-81.07155999999998,Chatham County,254069,28652
+128,Memorial Health University Medical Center,Savannah,Chatham County,654,1955,HCA,,ChIJ58O7Xe51-4gR1iUiqWi29js,32.030295,-81.088798,Waters Avenue Midtown,Georgia,31404.0,"4700 Waters Ave, Savannah, GA 31404, USA",31498.0,31.971394,-81.07155999999998,Chatham County,254069,28652
+129,CHI Memorial Hospital Georgia,Fort Oglethorpe,Catoosa County,36,,CHI,"Formerly Cornerstone Medical Center, previously Hutcheson Medical Center",ChIJoSI7iAdoYIgRYFrfQLt3nOA,34.9469261,-85.26400090000001,Gross Crescent Circle,Georgia,30742.0,"100 Gross Crescent, Fort Oglethorpe, GA 30742, USA",30742.0,34.948979,-85.25211999999998,Catoosa County,7842,24406
+131,Fannin Regional Hospital,Blue Ridge,Fannin County,50,,â,,ChIJN7SfeV2vX4gRu5N9mgngcXo,34.91773480000001,-84.3743296,2855 Old Highway 5,Georgia,30513.0,"2855 Old Hwy 5 North, Blue Ridge, GA 30513, USA",30513.0,34.851171,-84.32905,Fannin County,11753,26086
+132,Habersham Medical Center,Demorest,Habersham County,137,,â,,ChIJZ-CjEsfaWIgRY0GR2c3TCfo,34.581043799999996,-83.53708859999998,541 Historic Hwy,Georgia,30535.0,"541 Historic Hwy #441-N, Demorest, GA 30535, USA",30544.0,34.593092,-83.562922,Habersham County,7431,24391
+134,,Abbeville,,0,,,,,,,,,,,31001.0,31.972626,-83.33081999999997,Abbeville County,4563,20880
+135,,Acworth,,0,,,,,,,,,,,30102.0,34.097998,-84.6183,Cobb County,99683,33711
+136,,Adairsville,,0,,,,,,,,,,,30103.0,34.368647,-84.92452,Bartow County,16138,24570
+137,,Adrian,,0,,,,,,,,,,,31002.0,32.549854,-82.56948,Lenawee County,3071,19562
+138,,Ailey,,0,,,,,,,,,,,30410.0,32.196136,-82.50985,New York County,1715,26628
+139,,Alamo,,0,,,,,,,,,,,30411.0,32.146031,-82.792,Tulsa County,4766,28321
+140,,Alapaha,,0,,,,,,,,,,,31622.0,31.37966500000001,-83.21803,Berrien County,1972,23214
+141,,Allenhurst,,0,,,,,,,,,,,31301.0,31.764663,-81.6098,Monmouth County,4006,23444
+142,,Allentown,,0,,,,,,,,,,,31003.0,32.600621999999994,-83.22095999999998,Lehigh County,88,19375
+143,,Alma,,0,,,,,,,,,,,31510.0,31.551458,-82.44618,Crawford County,9914,20124
+144,,Alpharetta,,0,,,,,,,,,,,30005.0,34.080034999999995,-84.21929,Fulton County,189192,51690
+145,,Alston,,0,,,,,,,,,,,30412.0,32.083879,-82.47988000000002,Dorchester County,69,26786
+146,,Alto,,0,,,,,,,,,,,30510.0,34.455729,-83.58913000000003,Cherokee County,9042,20189
+147,,Ambrose,,0,,,,,,,,,,,31512.0,31.57344,-83.01501999999998,Baltimore County,2131,21716
+148,,Andersonville,,0,,,,,,,,,,,31711.0,32.195361,-84.137,Cook County,967,18912
+149,,Appling,,0,,,,,,,,,,,30802.0,33.620669,-82.30514000000002,Shelby County,6147,23555
+150,,Arabi,,0,,,,,,,,,,,31712.0,31.836577,-83.72045,St. Bernard Parish,1084,21425
+151,,Argyle,,0,,,,,,,,,,,31623.0,31.071563,-82.65231999999997,Denton County,113,15833
+152,,Armuchee,,0,,,,,,,,,,,30105.0,34.448075,-85.15313,Floyd County,1776,30729
+153,,Arnoldsville,,0,,,,,,,,,,,30619.0,33.863663,-83.24825,Oglethorpe County,1277,22368
+154,,Ashburn,,0,,,,,,,,,,,31714.0,31.709742,-83.66519,Loudoun County,5866,22190
+155,,Auburn,,0,,,,,,,,,,,30011.0,34.022974,-83.83416,Lee County,15428,26042
+156,,Avera,,0,,,,,,,,,,,30803.0,33.163467,-82.52017,Lincoln County,965,24306
+157,,Avondale Estates,,0,,,,,,,,,,,30002.0,33.772122,-84.26491,DeKalb County,5920,35693
+158,,Axson,,0,,,,,,,,,,,31624.0,31.297883,-82.71029,Atkinson County,1468,24761
+159,,Baconton,,0,,,,,,,,,,,31716.0,31.3709,-84.12921,Mitchell County,2960,22798
+160,,Baldwin,,0,,,,,,,,,,,30511.0,34.469971,-83.50035,Douglas County,4009,25438
+161,,Ball Ground,,0,,,,,,,,,,,30107.0,34.344939000000004,-84.37204,Cherokee County,14606,33798
+162,,Barnesville,,0,,,,,,,,,,,30204.0,33.05413,-84.14862,Lamar County,12940,18894
+163,,Barney,,0,,,,,,,,,,,31625.0,31.003274,-83.5282,Sedgwick County,972,19658
+164,,Bartow,,0,,,,,,,,,,,30413.0,32.884137,-82.50969,Polk County,1805,19507
+165,,Barwick,,0,,,,,,,,,,,31720.0,30.890906,-83.73816,ThÃ©rÃ¨se-De Blainville,296,22176
+166,,Baxley,,0,,,,,,,,,,,31513.0,31.768849,-82.35198000000003,Appling County,16247,20967
+167,,Bishop,,0,,,,,,,,,,,30621.0,33.804849,-83.48164,Inyo County,5726,39174
+168,,Blackshear,,0,,,,,,,,,,,31516.0,31.307234,-82.25779,Tom Green County,14541,21948
+169,,Bloomingdale,,0,,,,,,,,,,,31302.0,32.129474,-81.33121,Allen County,8139,27154
+170,,Blythe,,0,,,,,,,,,,,30805.0,33.297318,-82.21503,Riverside County,2735,24571
+171,,Bogart,,0,,,,,,,,,,,30622.0,33.927792,-83.51552,Oconee County,11803,31600
+172,,Boston,,0,,,,,,,,,,,31626.0,30.782963,-83.78882,Suffolk County,3211,23785
+173,,Bostwick,,0,,,,,,,,,,,30623.0,33.754234999999994,-83.511055,Putnam County,130,17714
+174,,Bowdon,,0,,,,,,,,,,,30108.0,33.533934,-85.26088,Carroll County,7351,21243
+175,,Bowersville,,0,,,,,,,,,,,30516.0,34.370551,-83.05998000000002,Hart County,2012,21774
+176,,Bowman,,0,,,,,,,,,,,30624.0,34.193943,-83.03375,Bowman County,3256,23739
+177,,Box Springs,,0,,,,,,,,,,,31801.0,32.527813,-84.59822,Rogers County,3240,22345
+178,,Bristol,,0,,,,,,,,,,,31518.0,31.513511,-82.18481,Sullivan County,927,20565
+179,,Brooklet,,0,,,,,,,,,,,30415.0,32.3456,-81.62339,Bulloch County,6161,30633
+180,,Brooks,,0,,,,,,,,,,,30205.0,33.275707000000004,-84.46706,Wilson County,2864,35662
+181,,Broxton,,0,,,,,,,,,,,31519.0,31.67654000000001,-82.88991,Los Angeles County,3474,25177
+182,,Buchanan,,0,,,,,,,,,,,30113.0,33.846270000000004,-85.20291,Botetourt County,6649,24277
+183,,Buckhead,,0,,,,,,,,,,,30625.0,33.527207000000004,-83.34676,Fulton County,2140,26886
+184,,Buena Vista,,0,,,,,,,,,,,31803.0,32.315915000000004,-84.52238,Chaffee County,5487,21835
+185,,Buford,,0,,,,,,,,,,,30519.0,34.089419,-83.94700999999998,Gwinnett County,99103,34818
+186,,Butler,,0,,,,,,,,,,,31006.0,32.563544,-84.2461,Butler County,4476,23952
+187,,Byromville,,0,,,,,,,,,,,31007.0,32.199721000000004,-83.91327,Dooly County,1132,18878
+188,,Cadwell,,0,,,,,,,,,,,31009.0,32.309003000000004,-83.02646999999997,Benton County,1317,16112
+189,,Camak,,0,,,,,,,,,,,30807.0,33.453039000000004,-82.64828,Warren County,70,32708
+190,,Canon,,0,,,,,,,,,,,30520.0,34.338008,-83.09656,Los Angeles County,5179,18854
+191,,Carlton,,0,,,,,,,,,,,30627.0,33.994139000000004,-82.97819,Tulsa County,2393,21594
+192,,Carnesville,,0,,,,,,,,,,,30521.0,34.360544,-83.28544000000002,Franklin County,5042,25852
+193,,Cataula,,0,,,,,,,,,,,31804.0,32.651617,-84.88805,Harris County,5865,33027
+194,,Cave Spring,,0,,,,,,,,,,,30124.0,34.118206,-85.34000999999998,Floyd County,2896,27203
+195,,Cecil,,0,,,,,,,,,,,31627.0,31.047996,-83.39135,Tulsa County,247,20703
+196,,Centerville,,0,,,,,,,,,,,31028.0,32.632111,-83.67795,Montgomery County,6464,34868
+197,,Chauncey,,0,,,,,,,,,,,31011.0,32.108676,-83.06006,Lawrence County,694,23958
+198,,Cherrylog,,0,,,,,,,,,,,30522.0,34.801665,-84.37931,Gilmer County,897,23906
+199,,Chester,,0,,,,,,,,,,,31012.0,32.396381,-83.16892,Cheshire West and Chester,3099,24198
+200,,Chickamauga,,0,,,,,,,,,,,30707.0,34.827019,-85.32883000000002,Walker County,15956,25303
+201,,Chula,,0,,,,,,,,,,,31733.0,31.592199,-83.48004,San Diego County,1319,26181
+202,,Cisco,,0,,,,,,,,,,,30708.0,34.945576,-84.7113,Benton County,234,33011
+203,,Clarkesville,,0,,,,,,,,,,,30523.0,34.700311,-83.51879,Habersham County,12230,25393
+204,,Clarkston,,0,,,,,,,,,,,30021.0,33.809604,-84.2387,Oakland County,24137,20929
+205,,Clayton,,0,,,,,,,,,,,30525.0,34.882362,-83.4156,Johnston County,7305,19946
+206,,Clermont,,0,,,,,,,,,,,30527.0,34.481514000000004,-83.78599,Lake County,4377,26373
+207,,Cleveland,,0,,,,,,,,,,,30528.0,34.595859000000004,-83.76194,Cuyahoga County,24761,25071
+208,,Clyo,,0,,,,,,,,,,,31303.0,32.508239,-81.3128,Effingham County,2621,26986
+209,,Cobb,,0,,,,,,,,,,,31735.0,31.959367,-83.96028000000003,McDonald County,715,15755
+210,,Cobbtown,,0,,,,,,,,,,,30420.0,32.301639,-82.11842,Tattnall County,845,22266
+211,,Cohutta,,0,,,,,,,,,,,30710.0,34.935105,-84.94641999999997,Whitfield County,7154,31602
+212,,Colbert,,0,,,,,,,,,,,30628.0,34.041416,-83.21996999999998,Bryan County,6874,26875
+213,,Collins,,0,,,,,,,,,,,30421.0,32.186824,-82.10699,Nowata County,3322,22727
+214,,Comer,,0,,,,,,,,,,,30629.0,34.072573,-83.11913,Madison County,4735,22107
+215,,Concord,,0,,,,,,,,,,,30206.0,33.109599,-84.45541,Contra Costa County,3609,31576
+216,,Conley,,0,,,,,,,,,,,30288.0,33.647275,-84.32753000000002,Clayton County,9230,27808
+217,,Coolidge,,0,,,,,,,,,,,31738.0,31.012042,-83.87218,Essex County,1935,24940
+218,,Cornelia,,0,,,,,,,,,,,30531.0,34.514215,-83.54118000000003,Habersham County,10818,25113
+219,,Crandall,,0,,,,,,,,,,,30711.0,34.93882,-84.76558,Kaufman County,3551,26672
+220,,Crawford,,0,,,,,,,,,,,30630.0,33.892957,-83.15548000000003,Crawford County,2264,21301
+221,,Crawfordville,,0,,,,,,,,,,,30631.0,33.570317,-82.88542,Wakulla County,1647,19830
+222,,Culloden,,0,,,,,,,,,,,31016.0,32.861386,-84.11731999999998,Highland Council,2033,20720
+223,,Cusseta,,0,,,,,,,,,,,31805.0,32.285535,-84.76332,Chattahoochee County,2431,21033
+224,,Dacula,,0,,,,,,,,,,,30019.0,33.981721,-83.88302,Gwinnett County,49262,38465
+225,,Daisy,,0,,,,,,,,,,,30423.0,32.150061,-81.83478000000002,Benton County,121,18750
+226,,Dallas,,0,,,,,,,,,,,30157.0,33.892503999999995,-84.8346,Dallas County,89783,32294
+227,,Danielsville,,0,,,,,,,,,,,30633.0,34.17085,-83.24654,Madison County,9227,26681
+228,,Danville,,0,,,,,,,,,,,31017.0,32.600844,-83.24549,Contra Costa County,1913,20712
+229,,Darien,,0,,,,,,,,,,,31305.0,31.407598,-81.39094,Fairfield County,5983,23883
+230,,Davisboro,,0,,,,,,,,,,,31018.0,32.976548,-82.61607,Washington County,2674,7448
+231,,Dawsonville,,0,,,,,,,,,,,30534.0,34.416521,-84.10849,Dawson County,28843,30879
+232,,De Soto,,0,,,,,,,,,,,31743.0,31.930451,-84.02920999999998,Johnson County,444,9976
+233,,Dearing,,0,,,,,,,,,,,30808.0,33.397137,-82.40335,Montgomery County,4499,19427
+234,,Denton,,0,,,,,,,,,,,31532.0,31.718382,-82.73595,Denton County,650,19412
+235,,Dewy Rose,,0,,,,,,,,,,,30634.0,34.212836,-82.94112,Elbert County,1802,19906
+236,,Dexter,,0,,,,,,,,,,,31019.0,32.427633,-83.05632,Cowley County,2035,23851
+237,,Dillard,,0,,,,,,,,,,,30537.0,34.977198,-83.35161,Benton County,1534,21918
+238,,Dixie,,0,,,,,,,,,,,31629.0,30.802821,-83.69126,Washington County,732,39050
+239,,Doerun,,0,,,,,,,,,,,31744.0,31.325004,-83.90937,Colquitt County,2791,25365
+240,,Dry Branch,,0,,,,,,,,,,,31020.0,32.719907,-83.4905,Twiggs County,1688,18750
+241,,Du Pont,,0,,,,,,,,,,,31630.0,30.96373,-82.86455,Johnson County,560,19868
+242,,Dudley,,0,,,,,,,,,,,31022.0,32.516865,-83.09905,Worcester County,1715,27457
+243,,Eastanollee,,0,,,,,,,,,,,30538.0,34.511618,-83.25811,Stephens County,3120,22088
+244,,Eden,,0,,,,,,,,,,,31307.0,32.183211,-81.39979,Washington County,908,18750
+245,,Elko,,0,,,,,,,,,,,31025.0,32.335147,-83.74571,Elko County,866,51757
+246,,Ellabell,,0,,,,,,,,,,,31308.0,32.172661,-81.48447,Bryan County,7114,26737
+247,,Ellaville,,0,,,,,,,,,,,31806.0,32.246795,-84.32008,Schley County,5180,27406
+248,,Ellenton,,0,,,,,,,,,,,31747.0,31.176563,-83.58801,Manatee County,156,11131
+249,,Ellenwood,,0,,,,,,,,,,,30294.0,33.639658000000004,-84.26822,Clayton County,41782,31439
+250,,Ellerslie,,0,,,,,,,,,,,31807.0,32.634965,-84.80136999999998,Weld County,3215,29924
+251,,Ellijay,,0,,,,,,,,,,,30540.0,34.688716,-84.46715999999998,Gilmer County,20169,22275
+252,,Emerson,,0,,,,,,,,,,,30137.0,34.124283,-84.75579,Tulsa County,1807,24091
+253,,Enigma,,0,,,,,,,,,,,31749.0,31.439212,-83.34040999999998,Tulsa County,2649,22908
+254,,Epworth,,0,,,,,,,,,,,30541.0,34.925622,-84.42981,Blair County,1580,23077
+255,,Evans,,0,,,,,,,,,,,30809.0,33.551145,-82.13949000000002,Washington County,45542,41069
+256,,Fairburn,,0,,,,,,,,,,,30213.0,33.565662,-84.59321,Fulton County,32729,30412
+257,,Fairmount,,0,,,,,,,,,,,30139.0,34.434629,-84.70133,Sedgwick County,4143,28901
+258,,Fargo,,0,,,,,,,,,,,31631.0,30.680867,-82.58028,Cass County,415,25509
+259,,Fleming,,0,,,,,,,,,,,31309.0,31.873145,-81.42676,Tulsa County,923,19800
+260,,Flintstone,,0,,,,,,,,,,,30725.0,34.932348,-85.35064,Walker County,4646,21244
+261,,Flovilla,,0,,,,,,,,,,,30216.0,33.251174,-83.89284,Butts County,2376,15399
+262,,Flowery Branch,,0,,,,,,,,,,,30542.0,34.188281,-83.91813,Hall County,37056,33127
+263,,Folkston,,0,,,,,,,,,,,31537.0,30.860915,-82.02194,Charlton County,10970,22647
+264,,Fort Stewart,,0,,,,,,,,,,,31314.0,31.868699,-81.61083,Liberty County,9275,27002
+265,,Fort Valley,,0,,,,,,,,,,,31030.0,32.555679999999995,-83.88641,Peach County,17701,18661
+266,,Fortson,,0,,,,,,,,,,,31808.0,32.638884999999995,-85.00735999999998,McLennan County,6961,41761
+267,,Franklin,,0,,,,,,,,,,,30217.0,33.298014,-85.12243000000002,Crawford County,9144,25124
+268,,Garfield,,0,,,,,,,,,,,30425.0,32.632683,-82.036,Labette County,1339,25313
+269,,Gay,,0,,,,,,,,,,,30218.0,33.121379,-84.58776,Tulsa County,1628,31030
+270,,Geneva,,0,,,,,,,,,,,31810.0,32.57791,-84.54513,Geneva,245,15083
+271,,Gibson,,0,,,,,,,,,,,30810.0,33.236721,-82.58135,Montgomery County,1906,23345
+272,,Gillsville,,0,,,,,,,,,,,30543.0,34.29945900000001,-83.65226,Banks County,4853,24277
+273,,Girard,,0,,,,,,,,,,,30426.0,33.032445,-81.63251,Crawford County,782,20893
+274,,Glennville,,0,,,,,,,,,,,30427.0,31.945767,-81.93594,Tattnall County,12301,23832
+275,,Glenwood,,0,,,,,,,,,,,30428.0,32.190739,-82.69115,Garfield County,2783,19120
+276,,Good Hope,,0,,,,,,,,,,,30641.0,33.766057,-83.57597,Harris County,1957,30071
+277,,Gordon,,0,,,,,,,,,,,31031.0,32.891499,-83.32748000000002,Butler County,6213,23844
+278,,Gracewood,,0,,,,,,,,,,,30812.0,33.386041,-82.09099599999998,Tulsa County,394,16385
+279,,Grantville,,0,,,,,,,,,,,30220.0,33.230734000000005,-84.82543000000003,San Diego County,5375,26820
+280,,Gray,,0,,,,,,,,,,,31032.0,33.003454999999995,-83.55078,Jones County,15113,31832
+281,,Grayson,,0,,,,,,,,,,,30017.0,33.888829,-83.96848,Knox County,24416,39645
+282,,Greenville,,0,,,,,,,,,,,30222.0,33.034761,-84.73593000000002,Greenville County,4116,20864
+283,,Grovetown,,0,,,,,,,,,,,30813.0,33.459489000000005,-82.20102,Columbia County,44065,33210
+284,,Guyton,,0,,,,,,,,,,,31312.0,32.313816,-81.3908,Effingham County,20297,35947
+285,,Haddock,,0,,,,,,,,,,,31033.0,33.053288,-83.43902,Sedgwick County,1815,32917
+286,,Hagan,,0,,,,,,,,,,,30429.0,32.159458,-81.93724,Evans County,210,19018
+287,,Hahira,,0,,,,,,,,,,,31632.0,30.991859,-83.36415,Lowndes County,12958,26817
+288,,Hamilton,,0,,,,,,,,,,,31811.0,32.722333,-84.95803000000002,Greenwood County,6272,30356
+289,,Harlem,,0,,,,,,,,,,,30814.0,33.423590000000004,-82.31013,New York County,8538,24462
+290,,Harrison,,0,,,,,,,,,,,31035.0,32.835471000000005,-82.70761,Boone County,1261,28586
+291,,Hartwell,,0,,,,,,,,,,,30643.0,34.366948,-82.9201,Hart County,16009,21124
+292,,Helen,,0,,,,,,,,,,,30545.0,34.713441,-83.74189,White County,698,28750
+293,,Helena,,0,,,,,,,,,,,31037.0,32.094127,-82.91713,Lewis and Clark County,4619,16687
+294,,Hephzibah,,0,,,,,,,,,,,30815.0,33.32157,-82.08872,Richmond County,40347,25155
+295,,Hillsboro,,0,,,,,,,,,,,31038.0,33.172786,-83.63554,Washington County,566,28059
+296,,Hoboken,,0,,,,,,,,,,,31542.0,31.1747,-82.13812,Hudson County,3170,22297
+297,,Hogansville,,0,,,,,,,,,,,30230.0,33.173516,-84.91736999999998,Troup County,9470,21308
+298,,Homer,,0,,,,,,,,,,,30547.0,34.348822,-83.47738000000003,Stone County,3209,20156
+299,,Hortense,,0,,,,,,,,,,,31543.0,31.320167,-81.85818,Indian River County,4292,21034
+300,,Hoschton,,0,,,,,,,,,,,30548.0,34.097915,-83.77864,Jackson County,18630,36589
+301,,Ideal,,0,,,,,,,,,,,31041.0,32.371371,-84.18258,Tulsa County,689,14451
+302,,Irwinton,,0,,,,,,,,,,,31042.0,32.7615,-83.1612,Wilkinson County,1477,22485
+303,,Jacksonville,,0,,,,,,,,,,,31544.0,31.840974,-82.96137,Duval County,778,20139
+304,,Jefferson,,0,,,,,,,,,,,30549.0,34.112581,-83.58251,Montgomery County,24892,30514
+305,,Jeffersonville,,0,,,,,,,,,,,31044.0,32.63078400000001,-83.37026999999998,Clark County,3463,19853
+306,,Jenkinsburg,,0,,,,,,,,,,,30234.0,33.325951,-84.03345999999998,Butts County,2060,25606
+307,,Jonesboro,,0,,,,,,,,,,,30236.0,33.528345,-84.33346999999998,Craighead County,88804,26293
+308,,Juliette,,0,,,,,,,,,,,31046.0,33.054590999999995,-83.78583,Kings County,3198,24131
+309,,Junction City,,0,,,,,,,,,,,31812.0,32.614374,-84.44513,Geary County,585,11987
+310,,Kathleen,,0,,,,,,,,,,,31047.0,32.509384000000004,-83.64773000000002,Ottawa County,14625,38209
+311,,Kennesaw,,0,,,,,,,,,,,30144.0,34.038949,-84.59706,Cobb County,99130,35982
+312,,Keysville,,0,,,,,,,,,,,30816.0,33.162490000000005,-82.18933,Charlotte County,2024,26652
+313,,Kings Bay,,0,,,,,,,,,,,31547.0,30.804684,-81.627717,Camden County,1420,21594
+314,,Kingsland,,0,,,,,,,,,,,31548.0,30.793409000000004,-81.68428,Llano County,21146,27743
+315,,Kingston,,0,,,,,,,,,,,30145.0,34.237986,-84.97801,Caldwell County,7142,29190
+316,,Kite,,0,,,,,,,,,,,31049.0,32.69992,-82.51380999999998,Sedgwick County,1856,23488
+317,,Knoxville,,0,,,,,,,,,,,31050.0,32.742085,-83.94646,Knox County,861,14004
+318,,La Fayette,,0,,,,,,,,,,,30728.0,34.696201,-85.25824,Chambers County,20609,21067
+319,,Lagrange,,0,,,,,,,,,,,30241.0,33.036715,-84.98895,Troup County,54380,23961
+320,,Lake Park,,0,,,,,,,,,,,31636.0,30.722890000000003,-83.13302,San Luis Obispo County,10640,22008
+321,,Lakemont,,0,,,,,,,,,,,30552.0,34.763553,-83.44201,Delaware County,1805,25919
+322,,Leesburg,,0,,,,,,,,,,,31763.0,31.714526,-84.16931,Loudoun County,24186,36161
+323,,Lenox,,0,,,,,,,,,,,31637.0,31.291612,-83.45328,Fulton County,2891,22323
+324,,Leslie,,0,,,,,,,,,,,31764.0,31.98309,-84.06866,Ingham County,1514,23716
+325,,Lexington,,0,,,,,,,,,,,30648.0,33.863779,-83.06063,Fayette County,3094,24657
+326,,Lilburn,,0,,,,,,,,,,,30048.0,33.960353000000005,-84.037859,Gwinnett County,65420,31381
+327,,Lilly,,0,,,,,,,,,,,31051.0,32.148624,-83.88003,Marion County,140,18750
+328,,Lincolnton,,0,,,,,,,,,,,30817.0,33.765566,-82.43899,Lincoln County,7642,24737
+329,,Lindale,,0,,,,,,,,,,,30147.0,34.175095,-85.18084,Smith County,4339,22784
+330,,Lithia Springs,,0,,,,,,,,,,,30122.0,33.776137,-84.64484,Douglas County,25786,29476
+331,,Lizella,,0,,,,,,,,,,,31052.0,32.788484000000004,-83.80726,Bibb County,8557,31168
+332,,Locust Grove,,0,,,,,,,,,,,30248.0,33.351277,-84.10645,Henry County,25161,33352
+333,,Loganville,,0,,,,,,,,,,,30052.0,33.823809000000004,-83.89423000000002,Walton County,65959,31550
+334,,Lookout Mountain,,0,,,,,,,,,,,30750.0,34.957134,-85.37183,Walker County,4753,15104
+335,,Louisville,,0,,,,,,,,,,,30434.0,33.008983,-82.37799999999999,Jefferson County,5386,19028
+336,,Louvale,,0,,,,,,,,,,,31814.0,32.154164,-84.83856999999998,Stewart County,234,38594
+337,,Lovejoy,,0,,,,,,,,,,,30250.0,33.437428000000004,-84.31519,Collin County,656,7455
+338,,Ludowici,,0,,,,,,,,,,,31316.0,31.74991,-81.75813000000002,Perry County,13243,26653
+339,,Lula,,0,,,,,,,,,,,30554.0,34.391688,-83.65979,Cook County,7687,27146
+340,,Lumber City,,0,,,,,,,,,,,31549.0,31.928525,-82.69332,Telfair County,2157,17421
+341,,Lumpkin,,0,,,,,,,,,,,31815.0,32.030297,-84.81218,Stewart County,3677,15625
+342,,Luthersville,,0,,,,,,,,,,,30251.0,33.201986,-84.69943,Meriwether County,2316,25291
+343,,Lyerly,,0,,,,,,,,,,,30730.0,34.376063,-85.4043,Chattooga County,1933,18023
+344,,Lyons,,0,,,,,,,,,,,30436.0,32.177508,-82.30448,Rice County,12092,22341
+345,,Mableton,,0,,,,,,,,,,,30126.0,33.817738,-84.56087,Cobb County,41665,36417
+346,,Manchester,,0,,,,,,,,,,,31816.0,32.862377,-84.60879,Greater Manchester,5231,19761
+347,,Manor,,0,,,,,,,,,,,31550.0,31.101953,-82.58299,Travis County,801,20547
+348,,Mansfield,,0,,,,,,,,,,,30055.0,33.504952,-83.74735,Tarrant County,3306,27338
+349,,Marshallville,,0,,,,,,,,,,,31057.0,32.446656,-83.93413000000002,Wayne County,2238,19246
+350,,Martin,,0,,,,,,,,,,,30557.0,34.491829,-83.17539000000002,Montgomery County,4813,21529
+351,,Matthews,,0,,,,,,,,,,,30818.0,33.244829,-82.32636,Mecklenburg County,622,26968
+352,,Mauk,,0,,,,,,,,,,,31058.0,32.498727,-84.42804,Taylor County,1361,23194
+353,,Maysville,,0,,,,,,,,,,,30558.0,34.258054,-83.56058,Mason County,5998,20858
+354,,McCaysville,,0,,,,,,,,,,,30555.0,34.977037,-84.39839,Fannin County,2273,21648
+355,,McIntyre,,0,,,,,,,,,,,31054.0,32.875574,-83.19785,Regional Municipality of Durham,1543,24091
+356,,McRae,,0,,,,,,,,,,,31055.0,32.045313,-82.8916,White County,8194,18310
+357,,Mcdonough,,0,,,,,,,,,,,30253.0,33.455031,-84.17215,Henry County,101462,34107
+358,,Meansville,,0,,,,,,,,,,,30256.0,33.015476,-84.32186999999998,Pike County,2589,28670
+359,,Meigs,,0,,,,,,,,,,,31765.0,31.082141,-84.05767,Cherokee County,2774,18770
+360,,Meldrim,,0,,,,,,,,,,,31318.0,32.141974,-81.37892,Effingham County,432,30022
+361,,Menlo,,0,,,,,,,,,,,30731.0,34.553484999999995,-85.47893,Montgomery County,2221,25386
+362,,Mershon,,0,,,,,,,,,,,31551.0,31.496025,-82.27322,Clark County,963,17451
+363,,Midland,,0,,,,,,,,,,,31820.0,32.566196999999995,-84.84121999999998,Midland County,10815,45584
+364,,Midville,,0,,,,,,,,,,,30441.0,32.792831,-82.23715,Burke County,1701,20953
+365,,Midway,,0,,,,,,,,,,,31320.0,31.788811,-81.37637,Cook County,8258,30553
+366,,Milan,,0,,,,,,,,,,,31060.0,32.003035,-83.06336999999998,Metropolitan City of Milan,1866,21939
+367,,Millwood,,0,,,,,,,,,,,31552.0,31.281103,-82.6201,Oklahoma County,842,19049
+368,,Milner,,0,,,,,,,,,,,30257.0,33.136567,-84.19386,McCracken County,4345,26406
+369,,Mineral Bluff,,0,,,,,,,,,,,30559.0,34.949755,-84.28317,Fannin County,4701,20721
+370,,Mitchell,,0,,,,,,,,,,,30820.0,33.224199,-82.713,Montgomery County,1112,24795
+371,,Molena,,0,,,,,,,,,,,30258.0,32.999261,-84.47168,Pike County,3047,24274
+372,,Montrose,,0,,,,,,,,,,,31065.0,32.564036,-83.16019,Montrose County,1193,23144
+373,,Moreland,,0,,,,,,,,,,,30259.0,33.277468,-84.75388000000002,Santa Clara County,2886,31997
+374,,Morganton,,0,,,,,,,,,,,30560.0,34.887912,-84.2098,Burke County,4759,22082
+375,,Morrow,,0,,,,,,,,,,,30287.0,33.500696999999995,-84.35127299999998,Clayton County,25487,22111
+376,,Morven,,0,,,,,,,,,,,31638.0,30.935087,-83.50211,Anson County,1107,16146
+377,,Mount Airy,,0,,,,,,,,,,,30563.0,34.549681,-83.47201,Surry County,5955,25963
+378,,Mount Berry,,0,,,,,,,,,,,30149.0,34.280355,-85.182085,Floyd County,1935,3561
+379,,Mount Vernon,,0,,,,,,,,,,,30445.0,32.186824,-82.59170999999998,Fairfax County,3929,14563
+380,,Mountain City,,0,,,,,,,,,,,30562.0,34.917466,-83.38486999999998,Johnson County,1386,16843
+381,,Murrayville,,0,,,,,,,,,,,30564.0,34.466226,-83.88441999999998,New Hanover County,3414,25034
+382,,Musella,,0,,,,,,,,,,,31066.0,32.799959,-84.00588,Crawford County,1492,26875
+383,,Nahunta,,0,,,,,,,,,,,31553.0,31.17326,-81.97244,Wayne County,4369,16798
+384,,Naylor,,0,,,,,,,,,,,31641.0,30.934298,-83.08841,Burnet County,1966,25788
+385,,Newborn,,0,,,,,,,,,,,30056.0,33.500008,-83.67165,Tulsa County,2217,29643
+386,,Newington,,0,,,,,,,,,,,30446.0,32.567281,-81.48626999999998,Hartford County,1251,17946
+387,,Nicholls,,0,,,,,,,,,,,31554.0,31.49598300000001,-82.62928000000002,Lafourche Parish,8611,22315
+388,,Nicholson,,0,,,,,,,,,,,30565.0,34.094345000000004,-83.41617,Jackson County,4424,26805
+389,,Norcross,,0,,,,,,,,,,,30071.0,33.940768,-84.2062,Gwinnett County,115744,29016
+390,,Norman Park,,0,,,,,,,,,,,31771.0,31.256287,-83.66005,Colquitt County,6204,20124
+391,,Norwood,,0,,,,,,,,,,,30821.0,33.477946,-82.73454,Norfolk County,765,21974
+392,,Nunez,,0,,,,,,,,,,,30448.0,32.49126,-82.36787,St. Bernard Parish,76,41250
+393,,Oakfield,,0,,,,,,,,,,,31772.0,31.723178000000004,-83.9628,Fond du Lac County,536,20446
+394,,Oakwood,,0,,,,,,,,,,,30566.0,34.236556,-83.89115,Tarrant County,7736,27851
+395,,Ochlocknee,,0,,,,,,,,,,,31773.0,30.977162,-84.0615,Thomas County,3547,24837
+396,,Oconee,,0,,,,,,,,,,,31067.0,32.860031,-82.95019,Oconee County,252,25227
+397,,Odum,,0,,,,,,,,,,,31555.0,31.670475,-82.04944,Oklahoma County,2793,22345
+398,,Offerman,,0,,,,,,,,,,,31556.0,31.412649,-82.11554100000002,Pierce County,88,18958
+399,,Oglethorpe,,0,,,,,,,,,,,31068.0,32.329164,-84.07988,DeKalb County,5079,24861
+400,,Oliver,,0,,,,,,,,,,,30449.0,32.528104,-81.533198,Tulsa County,163,25625
+401,,Omaha,,0,,,,,,,,,,,31821.0,32.1342,-84.98499,Douglas County,263,18622
+402,,Omega,,0,,,,,,,,,,,31775.0,31.334062,-83.59971,Tulsa County,3339,21320
+403,,Oxford,,0,,,,,,,,,,,30054.0,33.658113,-83.86249000000002,Oxfordshire,11904,25394
+404,,Palmetto,,0,,,,,,,,,,,30268.0,33.527793,-84.69453,Greenville County,10434,23888
+405,,Patterson,,0,,,,,,,,,,,31557.0,31.372403,-82.10743000000002,Tulsa County,3229,25316
+406,,Pavo,,0,,,,,,,,,,,31778.0,30.966781,-83.72075,King County,2316,20846
+407,,Peachtree City,,0,,,,,,,,,,,30269.0,33.398992,-84.57061999999998,Fayette County,35904,47760
+408,,Pearson,,0,,,,,,,,,,,31642.0,31.27291,-82.83341999999998,Shawnee County,4779,20696
+409,,Pelham,,0,,,,,,,,,,,31779.0,31.117271,-84.15678,Westchester County,9998,22604
+410,,Pembroke,,0,,,,,,,,,,,31321.0,32.163245,-81.64211,Robeson County,7640,24346
+411,,Pendergrass,,0,,,,,,,,,,,30567.0,34.167309,-83.68536,Jackson County,3188,29817
+412,,Perkins,,0,,,,,,,,,,,30822.0,32.914843,-81.87901,Kay County,784,17292
+413,,Pine Lake,,0,,,,,,,,,,,30072.0,33.791505,-84.20642,DeKalb County,727,40599
+414,,Pine Mountain,,0,,,,,,,,,,,31822.0,32.867211,-84.88436999999998,Cobb County,5929,26832
+415,,Pine Mountain Valley,,0,,,,,,,,,,,31823.0,32.801174,-84.82038,Harris County,797,25568
+416,,Pinehurst,,0,,,,,,,,,,,31070.0,32.185677,-83.76348,Moore County,985,29792
+417,,Pineview,,0,,,,,,,,,,,31071.0,32.13702,-83.52604000000002,Forrest County,1200,20574
+418,,Pitts,,0,,,,,,,,,,,31072.0,31.951839,-83.56747,Montgomery County,1357,23417
+419,,Plains,,0,,,,,,,,,,,31780.0,32.026125,-84.39361,Meade County,2100,20239
+420,,Plainville,,0,,,,,,,,,,,30733.0,34.409661,-85.03345,Hartford County,2143,23214
+421,,Pooler,,0,,,,,,,,,,,31322.0,32.110421,-81.24568000000002,Chatham County,25459,40454
+422,,Portal,,0,,,,,,,,,,,30450.0,32.55565900000001,-81.9242,Alameda County,2192,15615
+423,,Porterdale,,0,,,,,,,,,,,30070.0,33.576043,-83.89820999999998,Newton County,484,12149
+424,,Poulan,,0,,,,,,,,,,,31781.0,31.526584000000003,-83.79025,Richmond County,2264,23711
+425,,Powder Springs,,0,,,,,,,,,,,30127.0,33.87455300000001,-84.68784000000002,Cobb County,67688,34615
+426,,Preston,,0,,,,,,,,,,,31824.0,32.051618,-84.53419,Montgomery County,1695,20767
+427,,Rabun Gap,,0,,,,,,,,,,,30568.0,34.952452,-83.4073,Rabun County,1645,27471
+428,,Ranger,,0,,,,,,,,,,,30734.0,34.531444,-84.69955,New York County,3779,26104
+429,,Ray City,,0,,,,,,,,,,,31645.0,31.070627,-83.20286,Berrien County,5053,24453
+430,,Rayle,,0,,,,,,,,,,,30660.0,33.775127000000005,-82.94624,Wilkes County,1204,15085
+431,,Rebecca,,0,,,,,,,,,,,31783.0,31.767986,-83.47325,New York County,883,26758
+432,,Register,,0,,,,,,,,,,,30452.0,32.327219,-81.89818000000002,Montgomery County,1372,24971
+433,,Rentz,,0,,,,,,,,,,,31075.0,32.370333,-82.96091,Pasco County,2677,20211
+434,,Resaca,,0,,,,,,,,,,,30735.0,34.604648,-84.91926,Gordon County,6334,23011
+435,,Rex,,0,,,,,,,,,,,30273.0,33.582877,-84.26906,New York County,14663,29719
+436,,Reynolds,,0,,,,,,,,,,,31076.0,32.54748,-84.10042,Montgomery County,3414,19802
+437,,Riceboro,,0,,,,,,,,,,,31323.0,31.658252,-81.48778,Liberty County,1213,21571
+438,,Richland,,0,,,,,,,,,,,31825.0,32.109225,-84.66063,Dallas County,2358,22500
+439,,Richmond Hill,,0,,,,,,,,,,,31424.0,31.919866,-81.325815,Bryan County,25643,37143
+440,,Ringgold,,0,,,,,,,,,,,30736.0,34.916552,-85.14435,Catoosa County,43149,29406
+441,,Rising Fawn,,0,,,,,,,,,,,30738.0,34.793833,-85.49945,Dade County,3766,23759
+442,,Roberta,,0,,,,,,,,,,,31078.0,32.702635,-84.03811,Crawford County,2973,22416
+443,,Rochelle,,0,,,,,,,,,,,31079.0,31.933079,-83.45721999999998,Ogle County,2161,24764
+444,,Rock Spring,,0,,,,,,,,,,,30739.0,34.801988,-85.21956,Walker County,6460,29036
+445,,Rockledge,,0,,,,,,,,,,,30454.0,32.432854,-82.72979000000002,Brevard County,680,18226
+446,,Rockmart,,0,,,,,,,,,,,30153.0,33.987497,-85.05508,Polk County,18375,24357
+447,,Rocky Face,,0,,,,,,,,,,,30740.0,34.757918,-85.05879,Alexander County,8457,28792
+448,,Rocky Ford,,0,,,,,,,,,,,30455.0,32.697762,-81.81036,Otero County,465,22095
+449,,Roopville,,0,,,,,,,,,,,30170.0,33.434562,-85.16973,Carroll County,2943,25863
+450,,Rossville,,0,,,,,,,,,,,30741.0,34.96311,-85.27405,Clinton County,28535,21496
+451,,Royston,,0,,,,,,,,,,,30662.0,34.270167,-83.12841999999998,Franklin County,9077,19505
+452,,Rutledge,,0,,,,,,,,,,,30663.0,33.614556,-83.61157,Delaware County,3052,20060
+453,,Rydal,,0,,,,,,,,,,,30171.0,34.346142,-84.73232,Montgomery County,3467,25700
+454,,Saint Marys,,0,,,,,,,,,,,31558.0,30.761081,-81.56912,Jasper County,21307,29862
+455,,Saint Simons Island,,0,,,,,,,,,,,31522.0,31.176516,-81.3802,Glynn County,16402,42933
+456,,Sale City,,0,,,,,,,,,,,31784.0,31.258794,-84.02897,Mitchell County,764,25292
+457,,Sapelo Island,,0,,,,,,,,,,,31327.0,31.423776,-81.27064,McIntosh County,187,45649
+458,,Sardis,,0,,,,,,,,,,,30456.0,32.969028,-81.79396,Montgomery County,1936,20675
+459,,Sautee Nacoochee,,0,,,,,,,,,,,30571.0,34.696896,-83.68012,White County,3545,29688
+460,,Scottdale,,0,,,,,,,,,,,30079.0,33.791537,-84.25994,Westmoreland County,2824,27753
+461,,Screven,,0,,,,,,,,,,,31560.0,31.515981,-82.04908,Screven County,2853,23512
+462,,Senoia,,0,,,,,,,,,,,30276.0,33.281102000000004,-84.58017,Coweta County,15245,34839
+463,,Seville,,0,,,,,,,,,,,31084.0,31.989039,-83.394574,Seville,43,14453
+464,,Shady Dale,,0,,,,,,,,,,,31085.0,33.421694,-83.61433000000002,Jasper County,1292,22500
+465,,Sharon,,0,,,,,,,,,,,30664.0,33.560693,-82.80015,Norfolk County,28,30500
+466,,Sharpsburg,,0,,,,,,,,,,,30277.0,33.387534,-84.65511,Washington County,22247,39430
+467,,Shiloh,,0,,,,,,,,,,,31826.0,32.803518,-84.69384000000002,Hardin County,2238,22196
+468,,Siloam,,0,,,,,,,,,,,30665.0,33.535009,-83.07786999999998,Lifou,67,16375
+469,,Silver Creek,,0,,,,,,,,,,,30173.0,34.145931,-85.14341999999998,Chautauqua County,5799,25726
+470,,Smithville,,0,,,,,,,,,,,31787.0,31.901066,-84.25036999999998,Clay County,1566,21579
+471,,Smyrna,,0,,,,,,,,,,,30082.0,33.859137,-84.53744,Cobb County,84372,39592
+472,,Snellville,,0,,,,,,,,,,,30039.0,33.822204,-84.03707,Gwinnett County,81950,31806
+473,,Social Circle,,0,,,,,,,,,,,30025.0,33.65072,-83.70779,Walton County,9308,31112
+474,,Soperton,,0,,,,,,,,,,,30457.0,32.387040999999996,-82.58272,Treutlen County,5885,21206
+475,,Sparks,,0,,,,,,,,,,,31647.0,31.183567,-83.43559,Washoe County,3660,18750
+476,,Stapleton,,0,,,,,,,,,,,30823.0,33.234802,-82.46303,Denver County,1837,18444
+477,,Statenville,,0,,,,,,,,,,,31648.0,30.703175,-83.02568000000002,Echols County,912,26356
+478,,Statham,,0,,,,,,,,,,,30666.0,33.957713,-83.58491,Barrow County,10214,27892
+479,,Stephens,,0,,,,,,,,,,,30667.0,33.784316,-83.16666,Boone County,954,25027
+480,,Stillmore,,0,,,,,,,,,,,30464.0,32.439708,-82.22278,Emanuel County,83,16429
+481,,Stockbridge,,0,,,,,,,,,,,30281.0,33.547578,-84.21809,Henry County,67533,31020
+482,,Stockton,,0,,,,,,,,,,,31649.0,30.957421000000004,-83.00524,San Joaquin County,1096,32178
+483,,Stone Mountain,,0,,,,,,,,,,,30086.0,33.891251000000004,-84.07455999999998,DeKalb County,128310,27196
+484,,Suches,,0,,,,,,,,,,,30572.0,34.731084,-84.07943,Union County,796,21199
+485,,Sugar Valley,,0,,,,,,,,,,,30746.0,34.574804,-85.02481999999998,Gordon County,940,21581
+486,,Summerville,,0,,,,,,,,,,,30747.0,34.489847999999995,-85.32928000000003,Dorchester County,15438,22099
+487,,Sumner,,0,,,,,,,,,,,31789.0,31.484091,-83.73515,Noble County,855,24138
+488,,Sunny Side,,0,,,,,,,,,,,30284.0,33.345253,-84.289814,Johnson County,96,25938
+489,,Surrency,,0,,,,,,,,,,,31563.0,31.715778000000004,-82.19784,Appling County,1296,23250
+490,,Suwanee,,0,,,,,,,,,,,30024.0,34.052698,-84.07485,Gwinnett County,77334,44131
+491,,Sycamore,,0,,,,,,,,,,,31790.0,31.652542,-83.57934,Boone County,1788,22479
+492,,Talbotton,,0,,,,,,,,,,,31827.0,32.683146,-84.52243,Talbot County,2174,19152
+493,,Talking Rock,,0,,,,,,,,,,,30175.0,34.537611,-84.51135,Pickens County,5544,22759
+494,,Tallapoosa,,0,,,,,,,,,,,30176.0,33.748838,-85.29304,Haralson County,6594,25903
+495,,Tallulah Falls,,0,,,,,,,,,,,30573.0,34.742007,-83.397716,Habersham County,219,49114
+496,,Talmo,,0,,,,,,,,,,,30575.0,34.191571,-83.71124,Jackson County,1533,26052
+497,,Tarrytown,,0,,,,,,,,,,,30470.0,32.309128,-82.52255,Westchester County,338,27708
+498,,Tate,,0,,,,,,,,,,,30177.0,34.418116,-84.38462,Washington County,1427,36202
+499,,Taylorsville,,0,,,,,,,,,,,30178.0,34.113826,-84.97274,Salt Lake County,2971,24628
+500,,Temple,,0,,,,,,,,,,,30179.0,33.76324,-85.02667,Montgomery County,19109,26907
+501,,Tennga,,0,,,,,,,,,,,30751.0,34.981449,-84.735233,Murray County,40,28971
+502,,Tennille,,0,,,,,,,,,,,31089.0,32.89115,-82.82775,Washington County,4695,21113
+503,,The Rock,,0,,,,,,,,,,,30285.0,32.995865,-84.25092,Washington County,639,17227
+504,,Tiger,,0,,,,,,,,,,,30576.0,34.846806,-83.48178,Montgomery County,2310,22466
+505,,Tignall,,0,,,,,,,,,,,30668.0,33.912362,-82.6684,Wilkes County,1452,19680
+506,,Toomsboro,,0,,,,,,,,,,,31090.0,32.801223,-83.06671,Wilkinson County,959,17121
+507,,Townsend,,0,,,,,,,,,,,31331.0,31.547412,-81.3862,Middlesex County,7900,27430
+508,,Trenton,,0,,,,,,,,,,,30752.0,34.895625,-85.52702,Mercer County,8463,25761
+509,,Trion,,0,,,,,,,,,,,30753.0,34.558404,-85.30301,Chattooga County,7330,22940
+510,,Tunnel Hill,,0,,,,,,,,,,,30755.0,34.85973,-85.03867,Johnson County,8813,25581
+511,,Twin City,,0,,,,,,,,,,,30471.0,32.547214000000004,-82.17048,Jackson County,5085,18584
+512,,Ty Ty,,0,,,,,,,,,,,31795.0,31.47387,-83.66484,Tift County,1781,20161
+513,,Tybee Island,,0,,,,,,,,,,,31328.0,32.006671999999995,-80.84937,Chatham County,3583,42413
+514,,Tyrone,,0,,,,,,,,,,,30290.0,33.48012,-84.58724000000002,Fayette County,8677,40398
+515,,Unadilla,,0,,,,,,,,,,,31091.0,32.24473,-83.72075,Otsego County,4353,21571
+516,,Union City,,0,,,,,,,,,,,30291.0,33.58087800000001,-84.54611,Alameda County,21399,24219
+517,,Union Point,,0,,,,,,,,,,,30669.0,33.652489,-83.08856999999998,Tulsa County,3429,18477
+518,,Upatoi,,0,,,,,,,,,,,31829.0,32.557718,-84.73957,Muscogee County,956,48500
+519,,Uvalda,,0,,,,,,,,,,,30473.0,32.03096,-82.48796999999998,Montgomery County,2445,26115
+520,,Varnell,,0,,,,,,,,,,,30756.0,34.9298,-84.988536,Whitfield County,138,18846
+521,,Waco,,0,,,,,,,,,,,30182.0,33.658254,-85.23496999999998,McLennan County,2498,19109
+522,,Wadley,,0,,,,,,,,,,,30477.0,32.872098,-82.4023,Bowie County,2911,16288
+523,,Waleska,,0,,,,,,,,,,,30183.0,34.332315,-84.57700000000001,Cherokee County,6279,29380
+524,,Warrenton,,0,,,,,,,,,,,30828.0,33.399555,-82.65655,Fauquier County,4205,19797
+525,,Warthen,,0,,,,,,,,,,,31094.0,33.125097,-82.81018,Washington County,1217,27788
+526,,Warwick,,0,,,,,,,,,,,31796.0,31.782466,-83.86973,Kent County,1130,18021
+527,,Watkinsville,,0,,,,,,,,,,,30677.0,33.849286,-83.41232,Oconee County,18337,37228
+528,,Waverly,,0,,,,,,,,,,,31565.0,31.066479,-81.62656,Bremer County,2008,28592
+529,,Waverly Hall,,0,,,,,,,,,,,31831.0,32.698622,-84.71552,Harris County,3556,26310
+530,,Waynesville,,0,,,,,,,,,,,31566.0,31.144635,-81.83010999999998,Haywood County,4839,18019
+531,,West Green,,0,,,,,,,,,,,31567.0,31.631943,-82.71829,Athens County,842,23750
+532,,West Point,,0,,,,,,,,,,,31833.0,32.867469,-85.13779,Orange County,7188,25285
+533,,Weston,,0,,,,,,,,,,,31832.0,31.973541,-84.62522,Broward County,274,17973
+534,,White,,0,,,,,,,,,,,30184.0,34.236128,-84.72539,Montgomery County,6612,27879
+535,,White Oak,,0,,,,,,,,,,,31568.0,31.003385,-81.79512,Allegheny County,685,19242
+536,,White Plains,,0,,,,,,,,,,,30678.0,33.46171,-83.05852,Westchester County,1242,21266
+537,,Whitesburg,,0,,,,,,,,,,,30185.0,33.517698,-84.91725,Letcher County,4160,22486
+538,,Wildwood,,0,,,,,,,,,,,30757.0,34.954188,-85.43231999999998,Cape May County,2128,21163
+539,,Willacoochee,,0,,,,,,,,,,,31650.0,31.37516500000001,-83.01949,Atkinson County,3404,22500
+540,,Williamson,,0,,,,,,,,,,,30292.0,33.169646,-84.37168,Wayne County,5772,27884
+541,,Winston,,0,,,,,,,,,,,30187.0,33.670405,-84.83809000000002,Cleveland County,7918,35529
+542,,Winterville,,0,,,,,,,,,,,30683.0,33.954047,-83.2673,Pitt County,6601,23920
+543,,Woodbine,,0,,,,,,,,,,,31569.0,30.915778000000003,-81.67924000000002,Tulsa County,5831,28438
+544,,Woodbury,,0,,,,,,,,,,,30293.0,32.973728,-84.5903,Orange County,2948,18898
+545,,Woodland,,0,,,,,,,,,,,31836.0,32.797475,-84.54095,Yolo County,849,23859
+546,,Woodstock,,0,,,,,,,,,,,30188.0,34.108027,-84.4843,Ulster County,101721,39541
+547,,Wray,,0,,,,,,,,,,,31798.0,31.621764,-83.05502,Yuma County,843,23705
+548,,Wrens,,0,,,,,,,,,,,30833.0,33.200325,-82.37625,Jefferson County,3065,18634
+549,,Wrightsville,,0,,,,,,,,,,,31096.0,32.71732,-82.68926,New Hanover County,7046,20232
+550,,Yatesville,,0,,,,,,,,,,,31097.0,32.912207,-84.14811999999998,Lawrence County,1656,27000
+551,,Young Harris,,0,,,,,,,,,,,30582.0,34.954638,-83.86484,Towns County,5038,15867
+552,,Zebulon,,0,,,,,,,,,,,30295.0,33.101704999999995,-84.31251999999998,Wake County,4352,31654
+2,Emory Johns Creek Hospital,Alpharetta,Fulton County,118,2007,Emory,,ChIJ8wevZy-Z9YgR5mpDmsMDM48,34.066497399999996,-84.17623650000002,6325 Hospital Parkway,Georgia,30097.0,"6325 Hospital Pkwy, Johns Creek, GA 30097, USA",,,,,229248,53503
+6,Southeast Georgia Health System Camden,Saint Marys,Camden County,40,,SGHS,,ChIJU6IsZ5cE5YgRaTwbgslwgUw,30.780916499999996,-81.61514659999999,2000 Dan Proctor Drive,Georgia,31558.0,"2000 Dan Proctor Dr, St Marys, GA 31558, USA",,,,,21307,29862
+8,WellStar West Georgia Medical Center,Lagrange,Troup County,542,1937,WellStar,,ChIJ40ZJ5vtWi4gRK6PnDb-BAPU,33.03094,-85.05863670000001,1514 Vernon Road,Georgia,30240.0,"1514 Vernon Rd, LaGrange, GA 30240, USA",,,,,79646,23825
+9,Eastside Medical Center,Roswell,Gwinnett County,249,,HCA,,ChIJaTUBHwOh9YgRoHi7L2zoz4E,33.964011,-84.225939,5707 Peachtree Parkway,Georgia,30092.0,"5707 Peachtree Pkwy #100, Peachtree Corners, GA 30092, USA",,,,,146212,40065
