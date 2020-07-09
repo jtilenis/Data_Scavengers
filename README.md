@@ -1,5 +1,7 @@
 # Data_Scavengers
+
 Summary
+
 We leveraged data to pinpoint which areas in Georgia are being medically under-served and have a disproportionate amount of obstacles to healthcare access. 
 
 Using Wikipedia API and Google Places API, we were able to pull a list of all hospitals in Georgia, their address + coordinates, and number of acute care beds they have (which was our main measure of hospital capacity). 
