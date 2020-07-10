@@ -1,5 +1,5 @@
 # Data_Scavengers
-Instructions
+
 
 # Pulling and cleaning census data
 1. 1a. Run Census_Data_v2 to create Census data
