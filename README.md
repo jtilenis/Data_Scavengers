@@ -6,18 +6,19 @@ Instructions
 1. 1b. Run JT Clean Census Data to clean/update the Census data
 
 # Pulling and cleaning hospital data
-1. 2a. Run Hospital_api
-1. 2b. Run map_cities
+1. Run Hospital_api
+1. Run map_cities
 
 # Graphs
-3a
+1. HospitalCorrelationAnalysis
+1. bar_charts
+1. Box_Plot
 
 
 
 
 
-Summary
-
+#Summary
 We leveraged data to pinpoint which areas in Georgia are being medically under-served and have a disproportionate amount of obstacles to healthcare access. 
 
 Using Wikipedia API and Google Places API, we were able to pull a list of all hospitals in Georgia, their address + coordinates, and number of acute care beds they have (which was our main measure of hospital capacity). 
@@ -31,13 +32,13 @@ We merged the hospital data and census data together on city. We had to solve fo
 Once all the data was cleaned, we began conducting our analyses
 
 
-Which cities are the furthest away from a hospital?
+#Which cities are the furthest away from a hospital?
 We generated a heatmap of Georgia where the markers were hospitals and the weight was a variable we calculated: miles from nearest hospital. Based on that variable, we were able to get the top 10 cities that were furthest away from a hospital. 
 
 
-Which counties in Georgia have the highest and lowest number of hospital beds available per 1000 people? 
+#Which counties in Georgia have the highest and lowest number of hospital beds available per 1000 people? 
 After grouping data together at the county level, we divided the number of acute care beds that county has by the counties population and multiplied by 1000 to create the variable ‘# of beds per 1000 people’. From there, we could both plot this data on a heatmap, create a bar chart, and strip out the cities with both the highest and lowest number of hospital beds. We leaned on this metric to factor in population size and see if any areas were disproportionately covered
 
 
-Is there a correlation between median income and number of hospital beds?
+#Is there a correlation between median income and number of hospital beds?
 Using a scatter plot and regression line, we concluded that there was no correlation between median income and number of hospital beds in that area. We were looking to see if more impoverished areas (wrongfully) had less hospitals/lower capacity of beds.
