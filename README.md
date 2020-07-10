@@ -2,12 +2,12 @@
 Instructions
 
 # Pulling and cleaning census data
-1a. Run Census_Data_v2 to create Census data
-1b. Run JT Clean Census Data to clean/update the Census data
+1. 1a. Run Census_Data_v2 to create Census data
+1. 1b. Run JT Clean Census Data to clean/update the Census data
 
 # Pulling and cleaning hospital data
-2a. Run Hospital_api
-2b. Run map_cities
+1. 2a. Run Hospital_api
+1. 2b. Run map_cities
 
 # Graphs
 3a
